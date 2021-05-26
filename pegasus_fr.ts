@@ -151,12 +151,12 @@ Fonctionne seulement avec Rétroarch.</translation>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="105"/>
         <source>Enable controllers</source>
-        <translation>Activer les Contrôleurs</translation>
+        <translation>Activer les contrôleurs Sony</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="106"/>
         <source>Enable Sony Playstation 3,4,5 controllers support</source>
-        <translation>Activer le support des Contrôleurs Sony Playstation</translation>
+        <translation>Support des contrôleurs Sony Playstation</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="125"/>
@@ -176,22 +176,22 @@ Fonctionne seulement avec Rétroarch.</translation>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="146"/>
         <source>Enable driver DB9</source>
-        <translation>Activer le contrôleur DB9</translation>
+        <translation>Activer les contrôleurs DB9</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="147"/>
         <source>Enable DB9 drivers for atari, megadrive, amiga controllers</source>
-        <translation>Activer le contrôleur DB9 pour Atari / Megadrive et Amiga</translation>
+        <translation>Support des contrôleurs DB9 pour Atari / Megadrive et Amiga</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="161"/>
         <source>DB9 Arguement</source>
-        <translation>Argument DB9</translation>
+        <translation>Activer les arguments DB9</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="162"/>
         <source>Enable DB9 Arguments Mapping for atari, megadrive, amiga controllers</source>
-        <translation>Activer les arguments DB9 pour Atari / Megadrive / Amiga</translation>
+        <translation>Support des arguments DB9 pour Atari / Megadrive / Amiga</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="173"/>
@@ -202,17 +202,17 @@ Fonctionne seulement avec Rétroarch.</translation>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="181"/>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="196"/>
         <source>Gamecon controller</source>
-        <translation>Controleur Gamecon</translation>
+        <translation>Activer les contrôleurs GameCon</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="182"/>
         <source>Enable gamecon controllers, for nes, snes, psx</source>
-        <translation>Activer Gamecon contrôleur pour Nes / Snes / PSX</translation>
+        <translation>Support des  contrôleurs pour Nes / Snes / PSX</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="197"/>
         <source>Enable gamecon Arguments mapping, for nes, snes, psx</source>
-        <translation>Activer les arguments pour Nes / Snes / PSX</translation>
+        <translation>Support des arguments pour les contrôleurs Nes / Snes / PSX</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="208"/>
@@ -227,42 +227,42 @@ Fonctionne seulement avec Rétroarch.</translation>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="216"/>
         <source>XGaming&apos;s XArcade Tankstik and other compatible devices</source>
-        <translation>XGaming&apos;s Arcade et autres périphériques compatibles</translation>
+        <translation>Support du côntroleur XGaming&apos;s Arcade et autres périphériques compatibles</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="227"/>
         <source>Dolphin Emulators Controllers</source>
-        <translation>Contrôleurs Dolphine</translation>
+        <translation>Contrôleurs Dolphin</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="236"/>
         <source>Wiimote sensor bar position</source>
-        <translation>Position de la barsensor de la Wii</translation>
+        <translation>Position de la Mayflash Dolphinbar</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="237"/>
         <source>set position to 1 for the sensor bar at the top of the screen, to 0 for the sensor bar at the bottom</source>
-        <translation>Position 1  en haut, Position 0 en bas</translation>
+        <translation>Désactiver (Position basse), Activer (Position haute)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="252"/>
         <source>Use authentics Wiimotes Controllers</source>
-        <translation>utilisation des contrôleurs Wii officiels</translation>
+        <translation>Activer pour l&apos;utilisation des contrôleurs Wii officiels</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="253"/>
         <source>set realwiimotes to 1 to use authentics Wiimotes pads in dolphin-emu</source>
-        <translation>Position 1 pour l&apos;utilisation authentique des pads Wii dans Dolphin</translation>
+        <translation>Support des contrôleurs officiel de la Wii dans Dolphin</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="269"/>
         <source>Use authentics Gamecube pads</source>
-        <translation>utilisation des contrôleurs officiels de la gameCube</translation>
+        <translation>Activer les contrôleurs officiels de la GameCube</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="270"/>
         <source>Real gamecube pads work only in dolphin with (Wiiu adapter gamecube controllers)</source>
-        <translation>contrôleurs officiel de la GameCube seulement pour Dolphin</translation>
+        <translation>Support des contrôleurs officiel de la GameCube pour Dolphin</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="281"/>
@@ -272,11 +272,12 @@ Fonctionne seulement avec Rétroarch.</translation>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="287"/>
         <source>Joycon Support</source>
-        <translation>Support des JoyCon</translation>
+        <translation>Activer les JoyCon</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="288"/>
         <source></source>
+        <translatorcomment>Support des JoyCon</translatorcomment>
         <translation></translation>
     </message>
 </context>
@@ -307,7 +308,7 @@ Fonctionne seulement avec Rétroarch.</translation>
     <message>
         <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="108"/>
         <source>Pair Bluetooth Controllers</source>
-        <translation>Associer un Contrôleurs bluetooth</translation>
+        <translation>Associer un contrôleurs Bluetooth</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="109"/>
@@ -317,12 +318,12 @@ Fonctionne seulement avec Rétroarch.</translation>
     <message>
         <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="120"/>
         <source>Gamepad layout</source>
-        <translation>Disposition des touches</translation>
+        <translation>Affichage/Paramètrage des touches des contrôleurs</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="121"/>
         <source>Show game layout configuration controller</source>
-        <translation>Afficher la configuration du controleur</translation>
+        <translation>Afficher ou paramètrer les configurations des touches des controleurs</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="132"/>
@@ -332,32 +333,32 @@ Fonctionne seulement avec Rétroarch.</translation>
     <message>
         <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="133"/>
         <source>Choose your drivers or Special Controllers</source>
-        <translation>Choix du driver utilisé par le Contrôleur</translation>
+        <translation>Choix du driver utilisé par le contrôleur</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="142"/>
         <source>Controllers Input</source>
-        <translation>Entrée du Contrôleur</translation>
+        <translation>Entrée du contrôleur</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="148"/>
         <source>Input players 1</source>
-        <translation>Joueur 1</translation>
+        <translation>Réglage Joueur 1</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="159"/>
         <source>Input players 2</source>
-        <translation>Joueur 2</translation>
+        <translation>Réglage Joueur 2</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="170"/>
         <source>Input players 3</source>
-        <translation>Joueur 3</translation>
+        <translation>Réglage Joueur 3</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="181"/>
         <source>Input players 4</source>
-        <translation>Joueur 4</translation>
+        <translation>Réglage Joueur 4</translation>
     </message>
 </context>
 <context>
@@ -425,7 +426,7 @@ Fonctionne seulement avec Rétroarch.</translation>
     <message>
         <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="190"/>
         <source>Core options</source>
-        <translation>Options avancées du core</translation>
+        <translation>Options avancées du Core</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="249"/>
@@ -477,112 +478,112 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="131"/>
         <source>No gamepads connected</source>
-        <translation>Aucune manette connectée</translation>
+        <translation>AUCUN CONTROLEUR CONNECTE</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="177"/>
         <source>left back</source>
-        <translation>arrière gauche</translation>
+        <translation>ARRIERE GAUCHE</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="187"/>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="384"/>
         <source>shoulder</source>
-        <translation>gâchette haut</translation>
+        <translation>GACHETTE HAUT</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="206"/>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="402"/>
         <source>trigger</source>
-        <translation>gâchette bas</translation>
+        <translation>GACHETTE BAS</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="225"/>
         <source>dpad</source>
-        <translation>croix de direction</translation>
+        <translation>CROIX DE DIRECTION</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="233"/>
         <source>up</source>
-        <translation>haut</translation>
+        <translation>HAUT</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="252"/>
         <source>down</source>
-        <translation>bas</translation>
+        <translation>BAS</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="271"/>
         <source>left</source>
-        <translation>gauche</translation>
+        <translation>GAUCHE</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="290"/>
         <source>right</source>
-        <translation>droite</translation>
+        <translation>DROITE</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="309"/>
         <source>left stick</source>
-        <translation>stick gauche</translation>
+        <translation>STICK GAUCHE</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="318"/>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="518"/>
         <source>x axis</source>
-        <translation>axe horizontal</translation>
+        <translation>AXE HORIZONTAL</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="337"/>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="536"/>
         <source>y axis</source>
-        <translation>axe vertical</translation>
+        <translation>AXE VERTICAL</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="356"/>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="554"/>
         <source>press</source>
-        <translation>appuyer</translation>
+        <translation>APPUYER</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="374"/>
         <source>right back</source>
-        <translation>arrière droit</translation>
+        <translation>ARRIERE DROIT</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="420"/>
         <source>abxy</source>
-        <translation>abxy</translation>
+        <translation>ABXY</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="508"/>
         <source>right stick</source>
-        <translation>stick droit</translation>
+        <translation>STICK DROIT</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="577"/>
         <source>center</source>
-        <translation>centre</translation>
+        <translation>CENTRE</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="586"/>
         <source>select</source>
-        <translation>select</translation>
+        <translation>SELECT</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="606"/>
         <source>guide</source>
-        <translation>guide</translation>
+        <translation>HOTKEY</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="625"/>
         <source>start</source>
-        <translation>start</translation>
+        <translation>START</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="713"/>
         <source>hold down to quit</source>
-        <translation>maintenir pour quitter</translation>
+        <translation>Maintenir pour quitter</translation>
     </message>
 </context>
 <context>
@@ -767,7 +768,7 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="110"/>
         <source>set screensaver on dim, demo mode, etc</source>
-        <translation>Paramètre de l&apos;écran de veille</translation>
+        <translation>Choix du type d&apos;économiseur d&apos;écran</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="120"/>
@@ -792,7 +793,7 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="145"/>
         <source>Change menu controls</source>
-        <translation>Paramètre des controles du menu</translation>
+        <translation>Paramètre des contrôles du menu</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="146"/>
