@@ -24,104 +24,142 @@
         <translation>Remporter des trophés ou des succés de vos jeux favoris.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="124"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="123"/>
         <source>Connect Retroachievement</source>
         <translation>Connexion Rétroachievement</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="125"/>
         <source>Connect your account.</source>
-        <translation>Connecter votre compte.</translation>
+        <translation type="vanished">Connecter votre compte.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="137"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="172"/>
         <source>Hardcore Retroachievement</source>
         <translation>Activer le mode Hardcore</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="138"/>
         <source>Unlock Trophées without cheats and rewind. 
 Only work with Retroarch.</source>
-        <translation>Débloquer des trophées sans triche.
+        <translation type="vanished">Débloquer des trophées sans triche.
 Fonctionne seulement avec Rétroarch.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="150"/>
         <source>Auto screenshot</source>
-        <translation>Activer la capture d&apos;écran automatique</translation>
+        <translation type="vanished">Activer la capture d&apos;écran automatique</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="151"/>
         <source>Take an screenshot when an achievement is triggere.</source>
-        <translation>Capture d&apos;écran automatique lorsque un trophé est débloqué.</translation>
+        <translation type="vanished">Capture d&apos;écran automatique lorsque un trophé est débloqué.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="162"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="197"/>
         <source>Netplay</source>
         <translation>NETPLAY</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="168"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="203"/>
         <source>Netplay Information</source>
         <translation>Information Netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="169"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="204"/>
         <source>Show netplay information roms etc ...</source>
         <translation>Afficher les informations sur le netplay etc...</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="196"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="230"/>
         <source>Activate Netplay</source>
         <translation>Activer le Netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="197"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="231"/>
         <source>Play with your friends online</source>
         <translation>Jouer avec vos amis en ligne</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="212"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="246"/>
         <source>Netplay Nickname</source>
         <translation>Pseudo Netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="213"/>
         <source>Set your Netplay nickname</source>
-        <translation>Définisser votre pseudo Netplay</translation>
+        <translation type="vanished">Définisser votre pseudo Netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="226"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="124"/>
+        <source>If you don&apos;t have an account go to the site :
+ https://retroachievements.org/ </source>
+        <translation>Pour la création d&apos;un compte, aller sur le site 
+https://retroachievements.org/ </translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="131"/>
+        <source>Pseudo</source>
+        <translation>Pseudo</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="148"/>
+        <source>then login with your username and password 
+Please valdidate with enter</source>
+        <translation>Connecter votre pseudo / mot de passe
+Valider avec la touche &quot;Entrée&quot;</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="154"/>
+        <source>Password</source>
+        <translation>Mot de passe</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="173"/>
+        <source>Unlock Trophées without cheats and rewind. 
+Only work with Retroarch cores.</source>
+        <translation>Débloquer des trophées sans triche.
+Fonctionne seulement avec Rétroarch.</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="247"/>
+        <source>Set your Netplay nickname, 
+Please valdidate with enter</source>
+        <translation>Définisser votre pseudo Netplay
+Valider avec la touche &quot;Entrée&quot;</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="255"/>
+        <source>Nickname</source>
+        <translation>Pseudo</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="271"/>
         <source>Password Netplay</source>
         <translation>GESTION DES MOTS DE PASSE POUR LE NETPLAY</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="232"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="277"/>
         <source>Activate password Netplay players</source>
         <translation>Activer le mot de passe Netplay des joueurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="233"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="278"/>
         <source>Set password for other players join your game</source>
         <translation>Seul les joueurs ayant le mot de passe pourront vous rejoindre</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="250"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="295"/>
         <source>Password Netplay players</source>
         <translation>Mot de passe Netplay pour les joueurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="251"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="296"/>
         <source>Choose password for players session</source>
         <translation>Définisser le mot de passe pour les joueurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="271"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="316"/>
         <source>Activate password for Netplay viewer</source>
         <translation>Activer le mot de passe Netplay pour les spectateurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="272"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="317"/>
         <source>Set password for viewer</source>
         <translation>Seul les spectateurs ayant le mot de passe pourront regarder votre partie</translation>
     </message>
@@ -130,12 +168,12 @@ Fonctionne seulement avec Rétroarch.</translation>
         <translation type="vanished">Seul les spectateurs ayant le mot de passe pourront regarder votre partie </translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="289"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="334"/>
         <source>Password Netplay Spectator</source>
         <translation>Définisser le mot de passe pour les spectateurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="290"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="335"/>
         <source>Set password for netplay spectator</source>
         <translation>Seul les spectateurs ayant le mot de passe pourront regarder votre partie</translation>
     </message>
@@ -971,9 +1009,8 @@ in the following directories:</source>
 <context>
     <name>MenuBox</name>
     <message>
-        <location filename="../src/frontend/menu/settings/MenuBox.qml" line="127"/>
         <source>Connexion</source>
-        <translation>Connexion</translation>
+        <translation type="vanished">Connexion</translation>
     </message>
 </context>
 <context>
