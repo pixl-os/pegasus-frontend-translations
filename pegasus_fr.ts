@@ -702,7 +702,7 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/settings/GamesMain.qml" line="189"/>
         <source>Show FPS in game</source>
-        <translation>Afficher le nombre d&apos;image par seconde peandant le jeu</translation>
+        <translation>Afficher le nombre d&apos;image par seconde en jeu</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamesMain.qml" line="201"/>
