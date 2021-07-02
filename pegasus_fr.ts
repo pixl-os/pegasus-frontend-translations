@@ -422,7 +422,7 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
     <message>
         <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="172"/>
         <source>Set prefered Shader effect</source>
-        <translation>Définir l&apos;effet de shader préféré pour tout les émulateurs</translation>
+        <translation>Définir l&apos;effet de shader préféré pour ce système</translation>
     </message>
     <message>
         <source>Set prefered Shader effect for this system</source>
@@ -657,7 +657,7 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/GamesMain.qml" line="167"/>
         <source>Set predefined Shader effect</source>
-        <translation>Définir les effets de shaders prédéfini</translation>
+        <translation>Définir les effets de shaders prédéfini pour tout les émulateurs</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamesMain.qml" line="190"/>
