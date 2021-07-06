@@ -406,46 +406,60 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="145"/>
+        <source>Predefined shaders</source>
+        <translation>Shaders prédéfini</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="146"/>
+        <source>Set predefined Shader effect for this system</source>
+        <translation>Définir les effets de shaders prédédefini pour ce système</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="171"/>
         <source>Shaders</source>
         <translation>Shaders</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="146"/>
-        <source>Set prefered Shader effect for this system</source>
+        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="172"/>
+        <source>Set prefered Shader effect</source>
         <translation>Définir l&apos;effet de shader préféré pour ce système</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="167"/>
+        <source>Set prefered Shader effect for this system</source>
+        <translation type="vanished">Définir l&apos;effet de shader préféré pour ce système</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="193"/>
         <source>Gameplay options</source>
         <translation>Options de jeux</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="175"/>
+        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="201"/>
         <source>Game rewind</source>
         <translation>Rembobinage du jeu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="176"/>
+        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="202"/>
         <source>Set rewind for this system &apos;Only work with Retroarch&apos;</source>
         <translation>Régler le rembobinage pour ce système &apos;Ne fonctionne qu&apos;avec Retroarch&apos;</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="192"/>
+        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="218"/>
         <source>Auto save/load</source>
         <translation>Sauvegarde/chargement automatique</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="193"/>
+        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="219"/>
         <source>Set autosave/load savestate for this system</source>
         <translation>Définir l&apos;état de sauvegarde automatique/chargement pour ce système</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="206"/>
+        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="232"/>
         <source>Core options</source>
         <translation>Options de core</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="271"/>
+        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="297"/>
         <source>Default</source>
         <translation>par défaut</translation>
     </message>
@@ -637,61 +651,71 @@ dans les répertoires suivants :</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamesMain.qml" line="166"/>
+        <source>Predefined shader</source>
+        <translation>Shaders prédéfini</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="167"/>
+        <source>Set predefined Shader effect</source>
+        <translation>Définir les effets de shaders prédéfini pour tout les émulateurs</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="190"/>
         <source>Shaders</source>
         <translation>Shaders</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="167"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="191"/>
         <source>Set prefered Shader effect</source>
         <translation>Définir l&apos;effet de shader préféré pour tout les émulateurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="188"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="212"/>
         <source>Show framerate</source>
         <translation>Afficher le framerate</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="189"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="213"/>
         <source>Show FPS in game</source>
         <translation>Afficher le IPS dans le jeu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="201"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="225"/>
         <source>Gameplay options</source>
         <translation>Options de jeux</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="207"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="231"/>
         <source>Game rewind</source>
         <translation>Rembobinage du jeu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="208"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="232"/>
         <source>Set rewind for all emulators &apos;Only work with Retroarch&apos;</source>
         <translation>Régler le rembobinage pour tout les émulateurs &apos;Ne fonctionne qu&apos;avec Retroarch&apos;</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="222"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="246"/>
         <source>Auto save/load</source>
         <translation>Sauvegarde/chargement automatique</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="223"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="247"/>
         <source>Set autosave/load savestate for all emulators</source>
         <translation>Définir l&apos;état de sauvegarde automatique/chargement pour tout les émulateurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="237"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="261"/>
         <source>Other options</source>
         <translation>Autre options</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="271"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="295"/>
         <source>Advandced emulators settings</source>
         <translation>Paramètres avancés des émulateurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="272"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="296"/>
         <source>choose emulator, ratio and more by system</source>
         <translation>choisir l&apos;émulateur, le ratio et plus par système</translation>
     </message>
