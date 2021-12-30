@@ -22,66 +22,66 @@
         <translation type="vanished">Remporter Les trophées de vos jeux rétro favoris.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="123"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="124"/>
         <source>Connect retroachievement</source>
         <translation>Connexion à retroarchievement</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="124"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="125"/>
         <source>If you don&apos;t have an account go to the site :
  https://retroachievements.org/</source>
         <translation>Si vous n&apos;avez pas encore de compte, aller sur le site :
  https://retroachievements.org/</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="131"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="132"/>
         <source>Pseudo</source>
         <translation>Pseudo</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="145"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="146"/>
         <source>then login with your username and password</source>
         <translation>puis connectez-vous avec votre speudo et votre mot de passe</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="151"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="152"/>
         <source>Password</source>
         <translation>Mot de passe</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="167"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="168"/>
         <source>Hardcore retroachievement</source>
         <translation>Retroachievement hardcore</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="168"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="169"/>
         <source>Unlock trophies without cheats and rewind. 
 Only work with Retroarch cores.</source>
         <translation>Déverrouillez les trophées sans triche ni retour en arrière.
 Fonctionne uniquement avec les cores Retroarch.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="182"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="183"/>
         <source>Auto screenshot</source>
         <translation>Capture d&apos;écran automatique</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="183"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="184"/>
         <source>Take an screenshot when an achievement is triggere.</source>
         <translation>Faites une capture d&apos;écran lorsqu&apos;un trophée est débloqué.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="197"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="198"/>
         <source>Activate Unlock Sounds</source>
         <translation>Activer le son de déverrouillage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="198"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="199"/>
         <source>Play Sounds if you unlock a trophies.</source>
         <translation>Jouez un son si vous débloquez un trophée.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="213"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="214"/>
         <source>Netplay</source>
         <translation>Netplay</translation>
     </message>
@@ -94,72 +94,72 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
         <translation type="vanished">Jouer avec vos amis en ligne</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="230"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="232"/>
         <source>Netplay information</source>
         <translation>Information netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="231"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="233"/>
         <source>Show netplay information roms etc ...</source>
         <translation>Afficher les informations netplay, roms etc ...</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="258"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="260"/>
         <source>Netplay nickname</source>
         <translation>Surnom netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="259"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="261"/>
         <source>Set your netplay nickname</source>
         <translation>Définir votre pseudo netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="265"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="267"/>
         <source>Nickname</source>
         <translation>Pseudo</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="278"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="280"/>
         <source>Password netplay</source>
         <translation>Mot de passe netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="285"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="287"/>
         <source>Activate password netplay players</source>
         <translation>Activer le mot de passe pour les joueurs netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="286"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="288"/>
         <source>Set password for other players join your game</source>
         <translation>Définissez un mot de passe pour rejoindre votre jeu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="302"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="304"/>
         <source>Password netplay players</source>
         <translation>Mot de passe joueurs netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="303"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="305"/>
         <source>Choose password for join session</source>
         <translation>Choisissez un mot de passe pour rejoindre la session</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="325"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="327"/>
         <source>Activate password for netplay spectator</source>
         <translation>Activer le mot de passe pour les spectateurs netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="326"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="328"/>
         <source>Set password for netplay spectator</source>
         <translation>Définissez un mot de passe pour les spectateurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="342"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="344"/>
         <source>Password netplay spectator</source>
         <translation>Mot de passe spectateurs netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="343"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="345"/>
         <source>Choose password for netplay spectator</source>
         <translation>Choisissez un mot de passe pour les spectateurs de votre session</translation>
     </message>
@@ -172,215 +172,207 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
         <translation>Contrôleurs &gt; Configuration avancée des contrôleurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="97"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="103"/>
         <source>Bluetooth controlers</source>
         <translation>Contrôleurs Bluetooth</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="106"/>
         <source>Enable bluetooth</source>
-        <translation>Activer le bluetooth</translation>
+        <translation type="vanished">Activer le bluetooth</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="107"/>
         <source>Enable support for bluetooth controllers</source>
-        <translation>Activer le support des contrôleurs bluetooth</translation>
+        <translation type="vanished">Activer le support des contrôleurs bluetooth</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="123"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="125"/>
         <source>Scanning Method</source>
         <translation>Méthode de balayage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="124"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="126"/>
         <source>Select Legacy or any new ones</source>
         <translation>Sélectionnez Legacy ou autre</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="145"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="147"/>
         <source>Pairing Device Method</source>
         <translation>Méthode de jumelage des dispositifs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="146"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="148"/>
         <source>Select legacy or simple one</source>
         <translation>Sélectionnez legacy ou autre</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="167"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="169"/>
         <source>Forget Device Method</source>
         <translation>Méthode d&apos;oubli du dispositif</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="168"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="170"/>
         <source>Select Legacy or simple one</source>
         <translation>Sélectionnez legacy ou autre</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="189"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="191"/>
         <source>Enable ERTM</source>
         <translation>Activer ERTM</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="190"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="192"/>
         <source>Enable additional enhanced retransmission mode</source>
         <translation>Activer le mode de retransmission amélioré supplémentaire</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="207"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="209"/>
         <source>Hide Unknown Vendor</source>
         <translation>Cacher les dispositifs inconnu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="208"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="210"/>
         <source>Hide device identified as Unknown Vendor</source>
         <translation>Cacher les dispositif identifié comme étant inconnu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="225"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="227"/>
         <source>Hide No Name</source>
         <translation>Cacher les dispositifs sans nom</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="226"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="228"/>
         <source>Hide device without name</source>
         <translation>Cacher les dispositifs sans nom de construteur ou de produit</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="238"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="250"/>
         <source>Sony controllers</source>
         <translation>Contrôleurs Sony</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="248"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="366"/>
+        <source>Arcade Stick Driver</source>
+        <translation>Driver Stick Arcade</translation>
+    </message>
+    <message>
         <source>Enable Sony Playstation bluetooth controllers</source>
-        <translation>Activer les manettes bluetooth Sony Playstation</translation>
+        <translation type="vanished">Activer les manettes bluetooth Sony Playstation</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="249"/>
         <source>Sony Playstation 3,4,5 controllers supported</source>
-        <translation>Support des manettes Sony Playstation 3,4,5</translation>
+        <translation type="vanished">Support des manettes Sony Playstation 3,4,5</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="265"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="270"/>
         <source>Sony controllers drivers bluetooth</source>
         <translation>Pilotes des contrôleurs Sony bluetooth</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="266"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="271"/>
         <source>Choose a driver between bluez, official and shanwan</source>
         <translation>Choisissez un pilote entre bluez, official et shanwan</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="283"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="295"/>
         <source>Db9 controllers</source>
         <translation>Contrôleurs Db9</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="290"/>
         <source>Enable driver DB9</source>
-        <translation>Activer le pilote Db9</translation>
+        <translation type="vanished">Activer le pilote Db9</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="291"/>
         <source>Enable DB9 drivers for atari, megadrive, amiga controllers</source>
-        <translation>Activer le pilote DB9 pour les contrôleurs atari, megadrive, amiga</translation>
+        <translation type="vanished">Activer le pilote DB9 pour les contrôleurs atari, megadrive, amiga</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="304"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="311"/>
         <source>DB9 Arguement</source>
         <translation>Argument Db9</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="305"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="312"/>
         <source>Enable DB9 Arguments Mapping for atari, megadrive, amiga controllers</source>
         <translation>Activer les arguments DB9 pour les contrôleurs atari, megadrive, amiga</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="317"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="332"/>
         <source>Gamecon controllers</source>
         <translation>Contrôleurs Gamecon</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="324"/>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="338"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="347"/>
         <source>Gamecon controller</source>
         <translation>Contrôleurs Gamecon</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="325"/>
         <source>Enable gamecon controllers, for nes, snes, psx</source>
-        <translation>Activer le Gamecon DB9 pour les contrôleurs nes, snes, psx</translation>
+        <translation type="vanished">Activer le Gamecon DB9 pour les contrôleurs nes, snes, psx</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="339"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="348"/>
         <source>Enable gamecon Arguments mapping, for nes, snes, psx</source>
         <translation>Activer les arguments Gamecon pour les contrôleurs nes, snes, psx</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="351"/>
         <source>Arcade Stick</source>
-        <translation>Stick arcade</translation>
+        <translation type="vanished">Stick arcade</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="357"/>
         <source>Enable driver XGaming&apos;s</source>
-        <translation>Activer le driver XGaming&apos;s</translation>
+        <translation type="vanished">Activer le driver XGaming&apos;s</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="358"/>
         <source>XGaming&apos;s XArcade Tankstick and other compatible devices</source>
-        <translation>XGaming&apos;s XArcade Tankstick et autre périphériques compatible</translation>
+        <translation type="vanished">XGaming&apos;s XArcade Tankstick et autre périphériques compatible</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="369"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="380"/>
         <source>Dolphin emulators controllers</source>
         <translation>Contrôleur emulateur Dolphin</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="376"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="388"/>
         <source>Wiimote sensor bar position</source>
         <translation>Position de la barre du capteur de la Wiimote</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="377"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="389"/>
         <source>set position to 1 for the sensor bar at the top of the screen, to 0 for the sensor bar at the bottom</source>
         <translation>définir la position à 1 pour haut de l&apos;écran, 0 pour bas</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="390"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="402"/>
         <source>Use authentics Wiimotes controllers</source>
         <translation>Utiliser des contrôleurs Wiimotes authentiques</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="391"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="403"/>
         <source>Use authentics Wiimotes pads in wii emulator (dolphin-emu)</source>
         <translation>Utiliser des Wiimotes authentiques dans l&apos;émulateur Wii (dolphin-emu)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="404"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="416"/>
         <source>Use authentics Gamecube pads</source>
         <translation>Utilisez des pads Gamecube authentiques</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="405"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="417"/>
         <source>Use authentics Gamecube pads in Gamecube emulator (dolphin-emu)</source>
         <translation>Utiliser des pads Gamecube authentiques dans l&apos;émulateur Gamecube (dolphin-emu)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="416"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="434"/>
         <source>Joycon controllers</source>
-        <translation>Contôleurs Joycon</translation>
+        <translation>Contrôleurs Joycon</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="422"/>
         <source>Joycon support</source>
-        <translation>Support pour les Joycon</translation>
+        <translation type="vanished">Support pour les Joycon</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="423"/>
         <source>Use authentics Joycon pads</source>
-        <translation>Utilisez des pads Joycon authentiques</translation>
+        <translation type="vanished">Utilisez des pads Joycon authentiques</translation>
     </message>
 </context>
 <context>
@@ -527,37 +519,37 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
         <translation type="vanished">Apparier les contrôleurs bluetooth</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="115"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="116"/>
         <source>Bluetooth devices</source>
         <translation>Dispositifs Bluetooth</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="116"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="117"/>
         <source>connect your pads</source>
         <translation>connecter vos manettes</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="143"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="144"/>
         <source>Gamepad layout</source>
         <translation>Disposition des contrôleurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="144"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="145"/>
         <source>Show game layout configuration controller</source>
         <translation>Afficher la disposition des Contrôleurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="169"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="170"/>
         <source>Advanced controllers configuration</source>
         <translation>Configuration avancée des contrôleurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="170"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="171"/>
         <source>Choose your drivers or Special Controllers</source>
         <translation>Choisissez vos pilotes ou contrôleurs spéciaux</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="202"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="203"/>
         <source>Controllers inputs</source>
         <translation>Entrées du contrôleur</translation>
     </message>
@@ -866,112 +858,112 @@ dans les répertoires suivants :</translation>
         <translation>Écran de jeu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="113"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="114"/>
         <source>Game ratio</source>
         <translation>Ratio de jeu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="114"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="115"/>
         <source>Set ratio for all emulators (auto,4/3,16/9,16/10,etc...)</source>
         <translation>Définir le ratio pour tout les émulateurs (auto,4/3,16/9,16/10,etc...)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="134"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="135"/>
         <source>Pixel perfect</source>
         <translation>Pixel parfait</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="135"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="136"/>
         <source>Once enabled, your screen will be cropped, and you will have a pixel perfect image</source>
         <translation>Une fois activé, votre écran sera rogné, et vous aurez une image parfaite au pixel près</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="149"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="150"/>
         <source>Smooth games</source>
         <translation>Lissage en jeux</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="150"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="151"/>
         <source>Set smooth for all emulators</source>
         <translation>Régler le lissage pour tout les émulateurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="166"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="167"/>
         <source>Predefined shader</source>
         <translation>Shaders prédéfini</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="167"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="168"/>
         <source>Set predefined Shader effect</source>
         <translation>Définir les effets de shaders prédéfini pour tout les émulateurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="190"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="191"/>
         <source>Shaders</source>
         <translation>Shaders</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="191"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="192"/>
         <source>Set prefered Shader effect</source>
         <translation>Définir l&apos;effet de shader préféré pour tout les émulateurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="212"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="213"/>
         <source>Set overlays</source>
         <translation>Définir les overlays</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="213"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="214"/>
         <source>Set overlays for all systems</source>
         <translation>Définir les overlays pour tout les systèmes</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="227"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="228"/>
         <source>Show framerate</source>
         <translation>Afficher le framerate</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="228"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="229"/>
         <source>Show FPS in game</source>
         <translation>Afficher le IPS dans le jeu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="240"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="241"/>
         <source>Gameplay options</source>
         <translation>Options de jeux</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="246"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="248"/>
         <source>Game rewind</source>
         <translation>Rembobinage du jeu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="247"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="249"/>
         <source>Set rewind for all emulators &apos;Only work with Retroarch&apos;</source>
         <translation>Régler le rembobinage pour tout les émulateurs &apos;Ne fonctionne qu&apos;avec Retroarch&apos;</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="261"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="263"/>
         <source>Auto save/load</source>
         <translation>Sauvegarde/chargement automatique</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="262"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="264"/>
         <source>Set autosave/load savestate for all emulators</source>
         <translation>Définir l&apos;état de sauvegarde automatique/chargement pour tout les émulateurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="276"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="278"/>
         <source>Other options</source>
         <translation>Autre options</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="310"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="313"/>
         <source>Advandced emulators settings</source>
         <translation>Paramètres avancés des émulateurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="311"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="314"/>
         <source>choose emulator, ratio and more by system</source>
         <translation>choisir l&apos;émulateur, le ratio et plus par système</translation>
     </message>
@@ -1086,32 +1078,32 @@ dans les répertoires suivants :</translation>
         <translation>Personnaliser l&apos;interface</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="146"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="147"/>
         <source>Change menu controls</source>
         <translation>Modifier les commandes du menu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="147"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="148"/>
         <source>Change control assignation only in menu</source>
         <translation>changer l&apos;assignation des contrôleurs uniquement dans le menu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="189"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="190"/>
         <source>Theme</source>
         <translation>Thème</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="190"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="191"/>
         <source>Change theme system interface</source>
         <translation>Modifier thème de l&apos;interface système</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="204"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="205"/>
         <source>Gamelist only</source>
         <translation>Liste de jeux uniquement</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="205"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="206"/>
         <source>Once enabled, only files from gamelist will be take into account. 
 (Best game file loading ;-)</source>
         <translation>Une fois activé, seuls les fichiers de la liste de jeux seront pris en compte. 
@@ -1529,112 +1521,112 @@ dans les répertoires suivants :</translation>
         <translation>Configuration du son</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="117"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="118"/>
         <source>Mode</source>
         <translation>Mode</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="118"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="119"/>
         <source>Choose audio mode</source>
         <translation>Choisir le mode audio</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="142"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="143"/>
         <source>Output</source>
         <translation>Sortie</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="143"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="144"/>
         <source>Choose audio output</source>
         <translation>Choisir la sortie audio</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="183"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="184"/>
         <source>Volume</source>
         <translation>Volume</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="184"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="185"/>
         <source>Set audio volume</source>
         <translation>Régler le volume audio</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="213"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="214"/>
         <source>Video Configuration</source>
         <translation>Configuration vidéo</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="219"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="221"/>
         <source>Video configuration</source>
         <translation>Configuration vidéo</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="220"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="222"/>
         <source>choose output</source>
         <translation>choisir la sortie</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="286"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="288"/>
         <source>Storage configuration</source>
         <translation>Configuration du stockage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="294"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="297"/>
         <source>Storage device</source>
         <translation>Dispositif de stockage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="295"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="298"/>
         <source>change to over storage</source>
         <translation>changer pour un autre stockage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="329"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="332"/>
         <source>System language</source>
         <translation>Langue du système</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="335"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="339"/>
         <source>Language</source>
         <translation>Langue</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="336"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="340"/>
         <source>Set your language interface</source>
         <translation>Définissez votre langue d&apos;interface</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="358"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="362"/>
         <source>Keyboard layout</source>
         <translation>Disposition du clavier</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="359"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="363"/>
         <source>Change keyboard layout language</source>
         <translation>Changer la langue de la disposition du clavier</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="378"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="382"/>
         <source>System</source>
         <translation>Système</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="384"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="389"/>
         <source>Debug mode</source>
         <translation>Mode débogage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="385"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="390"/>
         <source>Give me your log baby !!! ;-)</source>
         <translation>Donne-moi ton log bébé ! !! ;-)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="398"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="403"/>
         <source>Enable mouse support</source>
         <translation>Activer le support de la souris</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="399"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="404"/>
         <source>By default the cursor is visible if there are any pointer devices connected.</source>
         <translation>Par défaut, le curseur est visible si des dispositifs de pointage sont connectés.</translation>
     </message>
