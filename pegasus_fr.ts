@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="fr_FR">
+<TS version="2.1" language="fr_FR" sourcelanguage="en_GB">
 <context>
     <name>AccountMain</name>
     <message>
@@ -51,7 +51,7 @@
     <message>
         <location filename="../src/frontend/menu/settings/AccountMain.qml" line="125"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom utilisateur</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AccountMain.qml" line="166"/>
@@ -108,7 +108,7 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
     <message>
         <location filename="../src/frontend/menu/settings/AccountMain.qml" line="194"/>
         <source>Activate unlock sounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer le son débloqué</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AccountMain.qml" line="226"/>
@@ -128,13 +128,14 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
     <message>
         <location filename="../src/frontend/menu/settings/AccountMain.qml" line="247"/>
         <source>Netplay rooms</source>
-        <translation type="unfinished"></translation>
+        <translation>Salons Netplay</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AccountMain.qml" line="248"/>
         <source>Play online on many systems.
  (current games online, Friends, etc...)</source>
-        <translation type="unfinished"></translation>
+        <translation>Jouer en ligne sur beaucoup de systèmes.
+ (Jeux en ligne en cours, amis, etc...)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AccountMain.qml" line="261"/>
@@ -265,12 +266,12 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="223"/>
         <source>Reset Bluetooth at start</source>
-        <translation type="unfinished"></translation>
+        <translation>Réinitialiser Bluetooth au démarrage</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="224"/>
         <source>The goal is to restart the bluetooth stack at start/restart of Pegasus - could resolve issue of pairing</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;objectif est de redémarrer le Bluetooth au démarrage/redémarrage de Pegasus - pourrait résoudre le problème d&apos;appairage</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="241"/>
@@ -285,17 +286,17 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="426"/>
         <source>Xbox One/Series controllers</source>
-        <translation type="unfinished"></translation>
+        <translation>Controlleurs Xbox One/Series</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="433"/>
         <source>xow daemon activation</source>
-        <translation type="unfinished"></translation>
+        <translation>Activation du script xow</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="434"/>
         <source>Stop/Start daemon to help Xbox One/Series wireless dongle usage - no need to restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Script d&apos;arrêt/démarrage pour faciliter l&apos;utilisation du dongle sans fil Xbox One/Series - pas besoin de redémarrer</translation>
     </message>
     <message>
         <source>Enable Sony Playstation bluetooth controllers</source>
@@ -434,62 +435,62 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
     <message>
         <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="264"/>
         <source>Optional</source>
-        <translation type="unfinished"></translation>
+        <translation>Optionel</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="264"/>
         <source>Mandatory</source>
-        <translation type="unfinished"></translation>
+        <translation>Obligatoire</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="301"/>
         <source>Note: </source>
-        <translation type="unfinished"></translation>
+        <translation>Note :</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="326"/>
         <source>Path(s): </source>
-        <translation type="unfinished"></translation>
+        <translation>Patch(s) :</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="348"/>
         <source>Calculed Md5 Checksum: </source>
-        <translation type="unfinished"></translation>
+        <translation>Calculer l&apos;intégrité Md5</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="355"/>
         <source>bios not present or hash not matching</source>
-        <translation type="unfinished"></translation>
+        <translation>bios non présent ou hachage ne correspondant pas</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="366"/>
         <source>Possible Md5 Bios: </source>
-        <translation type="unfinished"></translation>
+        <translation>Possible code Md5 du Bios</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="438"/>
         <source>back</source>
-        <translation type="unfinished"></translation>
+        <translation>retour</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="478"/>
         <source>check</source>
-        <translation type="unfinished"></translation>
+        <translation>vérif</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="520"/>
         <source>ok</source>
-        <translation type="unfinished"></translation>
+        <translation>ok</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="561"/>
         <source>no matching</source>
-        <translation type="unfinished"></translation>
+        <translation>pas de correspondance</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="602"/>
         <source>not found</source>
-        <translation type="unfinished"></translation>
+        <translation>pas trouvé</translation>
     </message>
 </context>
 <context>
@@ -657,17 +658,17 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
     <message>
         <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="397"/>
         <source>Selected gamepad layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Disposition de la manette de jeu sélectionnée</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="444"/>
         <source>Change the order</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier la commande</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="490"/>
         <source>Stop moving</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrête de bouger</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="537"/>
@@ -828,12 +829,12 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="100"/>
         <source>Reset</source>
-        <translation type="unfinished">Réinitialiser</translation>
+        <translation>Réinitialiser</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="100"/>
         <source>You remove now the assignment of </source>
-        <translation type="unfinished"></translation>
+        <translation>Maintenez pour supprimer l&apos;assignation</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="209"/>
@@ -897,7 +898,7 @@ dans les répertoires suivants :</translation>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1032"/>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1221"/>
         <source>go x axis to left</source>
-        <translation type="unfinished"></translation>
+        <translation>Aller à droit de l&apos;axe x</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1045"/>
@@ -909,7 +910,7 @@ dans les répertoires suivants :</translation>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1045"/>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1233"/>
         <source>go y axis to up</source>
-        <translation type="unfinished"></translation>
+        <translation>Aller en haut de l&apos;axe y</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1058"/>
@@ -945,7 +946,7 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1286"/>
         <source>guide/hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>guide/hotkey</translation>
     </message>
     <message>
         <source>guide</source>
@@ -969,7 +970,7 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1573"/>
         <source>hold down to remove assignment</source>
-        <translation type="unfinished"></translation>
+        <translation>maintenez pour supprimer l&apos;assignation</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1626"/>
@@ -1112,12 +1113,12 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/GamesMain.qml" line="270"/>
         <source>Bios Checking</source>
-        <translation type="unfinished"></translation>
+        <translation>Contrôle des bios</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamesMain.qml" line="271"/>
         <source>Check all necessary bios !</source>
-        <translation type="unfinished"></translation>
+        <translation>Contrôle de tous les bios nécessaires</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamesMain.qml" line="284"/>
@@ -1232,97 +1233,97 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="106"/>
         <source>Linux Kernel :</source>
-        <translation type="unfinished"></translation>
+        <translation>Kernel Linux :</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="107"/>
         <source>Architecture :</source>
-        <translation type="unfinished"></translation>
+        <translation>Architecture :</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="108"/>
         <source>CPU :</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU :</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="109"/>
         <source>CPU Core Number :</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU nombre de coeur :</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="110"/>
         <source>CPU Maximum Frequency :</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU fréquence maximum :</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="111"/>
         <source>RAM (free/total):</source>
-        <translation type="unfinished"></translation>
+        <translation>RAM (Libre/Total) :</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="112"/>
         <source>GPU(s) :</source>
-        <translation type="unfinished"></translation>
+        <translation>GPU(s) :</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="113"/>
         <source>Video RAM :</source>
-        <translation type="unfinished"></translation>
+        <translation>RAM Vidéo :</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="114"/>
         <source>OpenGL ES :</source>
-        <translation type="unfinished"></translation>
+        <translation>ES OpenGL :</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="115"/>
         <source>OpenGL Core :</source>
-        <translation type="unfinished"></translation>
+        <translation>Coeur OpenGL :</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="116"/>
         <source>OpenGL Vendor/Driver :</source>
-        <translation type="unfinished"></translation>
+        <translation>Fabricant/Driver OpenGL :</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="117"/>
         <source>OpenGL Renderer :</source>
-        <translation type="unfinished"></translation>
+        <translation>Moteur OpenGL :</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="122"/>
         <source>Wifi Local IP :</source>
-        <translation type="unfinished"></translation>
+        <translation>Wifi IP Local :</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="123"/>
         <source>Eternet Local IP :</source>
-        <translation type="unfinished"></translation>
+        <translation>Ethernet IP Local :</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="124"/>
         <source>External IP :</source>
-        <translation type="unfinished"></translation>
+        <translation>IP Externe :</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="128"/>
         <source>All System Temperature(s) :</source>
-        <translation type="unfinished"></translation>
+        <translation>Température(s) de tous les systèmes :</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="132"/>
         <source>Number of system(s) :</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de système(s) :</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="133"/>
         <source>Number of game(s) :</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de jeux :</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="147"/>
         <source>Settings &gt; System Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres &gt; Information du Système</translation>
     </message>
 </context>
 <context>
@@ -1372,13 +1373,14 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="206"/>
         <source>Deactivate Skraper media</source>
-        <translation type="unfinished"></translation>
+        <translation>Désactiver Skraper</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="207"/>
         <source>Once enabled, only media from gamelist will be take into account. 
  ( Best loading ;-) / Less Media :-( )</source>
-        <translation type="unfinished"></translation>
+        <translation>Une fois activé, seuls les médias de la gamelist seront pris en compte.
+ (Meilleur chargement ;-) / Moins de média :-( )</translation>
     </message>
 </context>
 <context>
@@ -1465,7 +1467,7 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/MainMenuPanel.qml" line="75"/>
         <source>Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jours</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/MainMenuPanel.qml" line="90"/>
@@ -1500,7 +1502,7 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/MainMenuPanel.qml" line="180"/>
         <source>Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Redémarrer Rapide</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/MainMenuPanel.qml" line="191"/>
@@ -1702,27 +1704,27 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/NetplayRooms.qml" line="125"/>
         <source>Play or View this game ?</source>
-        <translation type="unfinished">Jouer ou visualiser ce jeu ?</translation>
+        <translation>Jouer ou visualiser ce jeu ?</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/NetplayRooms.qml" line="128"/>
         <source>Play</source>
-        <translation type="unfinished">Jouer</translation>
+        <translation>Jouer</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/NetplayRooms.qml" line="129"/>
         <source>View</source>
-        <translation type="unfinished">Voir</translation>
+        <translation>Voir</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/NetplayRooms.qml" line="130"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/NetplayRooms.qml" line="238"/>
         <source>Connection error</source>
-        <translation type="unfinished">Erreur de connexion</translation>
+        <translation>Erreur de connexion</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/NetplayRooms.qml" line="238"/>
