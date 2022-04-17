@@ -188,7 +188,7 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="51"/>
         <source>Controllers &gt; Advanced controllers configuration</source>
-        <translation>Contrôleurs &gt; Configuration avancée des contrôleurs</translation>
+        <translation>Contrôleurs &gt; Configuration avancée des manettes</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="103"/>
@@ -286,7 +286,7 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="426"/>
         <source>Xbox One/Series controllers</source>
-        <translation>Controlleurs Xbox One/Series</translation>
+        <translation>Contrôleurs Xbox One/Series</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="433"/>
@@ -309,7 +309,7 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="260"/>
         <source>Sony controllers drivers bluetooth</source>
-        <translation>Pilotes des contrôleurs Sony bluetooth</translation>
+        <translation>Pilotes des Contrôleurs Sony bluetooth</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="261"/>
@@ -369,7 +369,7 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="363"/>
         <source>Dolphin emulators controllers</source>
-        <translation>Contrôleur emulateur Dolphin</translation>
+        <translation>Emulateur de contrôleur Dolphin</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="370"/>
@@ -389,17 +389,17 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="384"/>
         <source>Use authentics Wiimotes pads in wii emulator (dolphin-emu)</source>
-        <translation>Utiliser des Wiimotes authentiques dans l&apos;émulateur Wii (dolphin-emu)</translation>
+        <translation>Utiliser des manettes Wiimotes authentiques dans l&apos;émulateur Wii (dolphin-emu)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="396"/>
         <source>Use authentics Gamecube pads</source>
-        <translation>Utilisez des pads Gamecube authentiques</translation>
+        <translation>Utilisez des manettes Gamecube authentiques</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="397"/>
         <source>Use authentics Gamecube pads in Gamecube emulator (dolphin-emu)</source>
-        <translation>Utiliser des pads Gamecube authentiques dans l&apos;émulateur Gamecube (dolphin-emu)</translation>
+        <translation>Utiliser des manettes Gamecube authentiques dans l&apos;émulateur Gamecube (dolphin-emu)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="407"/>
@@ -414,7 +414,7 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="415"/>
         <source>Use authentics Joycon pads</source>
-        <translation>Utilisez des pads Joycon authentiques</translation>
+        <translation>Utilisez des manettes Joycon authentiques</translation>
     </message>
 </context>
 <context>
@@ -498,7 +498,7 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
     <message>
         <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="841"/>
         <source>Controllers &gt; Bluetooth devices</source>
-        <translation>Contrôleurs &gt; Dispositifs Bluetooth</translation>
+        <translation>Manettes &gt; Dispositifs Bluetooth</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="890"/>
@@ -633,12 +633,12 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
     <message>
         <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="133"/>
         <source>Gamepad layout</source>
-        <translation>Disposition des contrôleurs</translation>
+        <translation>Disposition des manettes</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="134"/>
         <source>Show game layout configuration controller</source>
-        <translation>Afficher la disposition des Contrôleurs</translation>
+        <translation>Afficher la disposition des contrôleurs</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="148"/>
@@ -648,12 +648,12 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
     <message>
         <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="149"/>
         <source>Choose your drivers or Special Controllers</source>
-        <translation>Choisissez vos pilotes ou contrôleurs spéciaux</translation>
+        <translation>Choisissez vos pilotes ou les contrôleurs spéciaux</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="170"/>
         <source>Controllers inputs</source>
-        <translation>Entrées du contrôleur</translation>
+        <translation>Entrées des contrôleurs</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="397"/>
@@ -1533,12 +1533,12 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="181"/>
         <source> is your friend ?</source>
-        <translation>est votre ami ?</translation>
+        <translation>C&apos;est votre ami ?</translation>
     </message>
     <message>
         <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="182"/>
         <source>Set it to keep or not in your list of friends !</source>
-        <translation>Activer pour ajouter ou non a votre liste d&apos;amis !</translation>
+        <translation>Activer pour ajouter ou non à votre liste d&apos;amis !</translation>
     </message>
     <message>
         <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="200"/>
@@ -1729,78 +1729,78 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/NetplayRooms.qml" line="238"/>
         <source>Room seems not available finally, may be reference is obsolete from lobby or not compatible ?!</source>
-        <translation type="unfinished">La partie ne semble pas disponible finalement, peut-être que la référence du lobby est obsolète ou non compatible ?!</translation>
+        <translation>La partie ne semble pas disponible finalement, peut-être que la référence du lobby est obsolète ou non compatible ?!</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/NetplayRooms.qml" line="308"/>
         <source>Netplay Rooms</source>
-        <translation type="unfinished"></translation>
+        <translation>Salons Netplay</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/NetplayRooms.qml" line="308"/>
         <source>Accounts &gt; Netplay Rooms</source>
-        <translation type="unfinished"></translation>
+        <translation>Comptes &gt; Salons Netplay</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/NetplayRooms.qml" line="369"/>
         <location filename="../src/frontend/menu/settings/NetplayRooms.qml" line="371"/>
         <source>Retroarch lobby : </source>
-        <translation type="unfinished">Salon de jeu Retroarch : </translation>
+        <translation>Salon de jeu Retroarch : </translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/NetplayRooms.qml" line="369"/>
         <source> &apos;Friend&apos; room(s)</source>
-        <translation type="unfinished"> Partie(s) d&apos;amis</translation>
+        <translation> Salon(s) d&apos;amis</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/NetplayRooms.qml" line="371"/>
         <source> room(s)</source>
-        <translation type="unfinished"> partie(s)</translation>
+        <translation> Salon(s)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/NetplayRooms.qml" line="594"/>
         <source>Creation date</source>
-        <translation type="unfinished">Date de création</translation>
+        <translation>Date de création</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/NetplayRooms.qml" line="788"/>
         <source>Play/View ?</source>
-        <translation type="unfinished">Jouer/Voir ?</translation>
+        <translation>Jouer/Voir ?</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/NetplayRooms.qml" line="826"/>
         <source>Dolphin</source>
-        <translation type="unfinished">Dolphin</translation>
+        <translation>Dolphin</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/NetplayRooms.qml" line="888"/>
         <source>Exit</source>
-        <translation type="unfinished">Quitter</translation>
+        <translation>Quitter</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/NetplayRooms.qml" line="938"/>
         <source>All rooms</source>
-        <translation type="unfinished">Toutes les parties</translation>
+        <translation>Tous les salons</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/NetplayRooms.qml" line="938"/>
         <source>Friends only</source>
-        <translation type="unfinished">Amis uniquement</translation>
+        <translation>Amis uniquement</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/NetplayRooms.qml" line="987"/>
         <source>All games</source>
-        <translation type="unfinished">Tous les jeux</translation>
+        <translation>Tous les jeux</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/NetplayRooms.qml" line="987"/>
         <source>Launchable games only</source>
-        <translation type="unfinished">Jeux lançable uniquement</translation>
+        <translation>Jeux lançable uniquement</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/NetplayRooms.qml" line="1034"/>
         <source>play/view game</source>
-        <translation type="unfinished">jouer/voir le jeu</translation>
+        <translation>jouer/voir le jeu</translation>
     </message>
 </context>
 <context>
@@ -1879,12 +1879,12 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/dialogs/RestartDialog.qml" line="27"/>
         <source>Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Redémarrer</translation>
     </message>
     <message>
         <location filename="../src/frontend/dialogs/RestartDialog.qml" line="28"/>
         <source>Pegasus will restart. Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegasus va redémarrer. Es-tu sur ?</translation>
     </message>
 </context>
 <context>
@@ -1947,17 +1947,17 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="235"/>
         <source>Systems</source>
-        <translation type="unfinished"></translation>
+        <translation>Systèmes</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="242"/>
         <source>System information</source>
-        <translation type="unfinished"></translation>
+        <translation>Information Système</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="243"/>
         <source>More information Ip, Cpu, OpenGL ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Plus d&apos;information IP, CPU, OpenGL, etc...</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="275"/>
@@ -2027,12 +2027,12 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="400"/>
         <source>Enable virtual keyboard support</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer le support du clavier virtuel</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="401"/>
         <source>By default virtual keyboard is not activated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Par defaut le clavier virtuel n&apos;est pas activé.</translation>
     </message>
 </context>
 <context>
@@ -2076,82 +2076,82 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="47"/>
         <source>Are you sure that you want to update ?</source>
-        <translation type="unfinished"></translation>
+        <translation>Es-tu sûr de vouloir mettre à jour ?</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="48"/>
         <source>Update to</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour de</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="50"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="52"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="109"/>
         <source>Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jours</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="161"/>
         <source>Update(s) list : </source>
-        <translation type="unfinished"></translation>
+        <translation>Liste des Mise à jour(s) : </translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="232"/>
         <source>Pre-released</source>
-        <translation type="unfinished"></translation>
+        <translation>Pre-released</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="240"/>
         <source>bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>bytes</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="243"/>
         <source>KB</source>
-        <translation type="unfinished"></translation>
+        <translation>KB</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="246"/>
         <source>MB</source>
-        <translation type="unfinished"></translation>
+        <translation>MB</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="249"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="249"/>
         <source>Published at</source>
-        <translation type="unfinished"></translation>
+        <translation>Publié à</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="318"/>
         <source>Update ?</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour ?</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="318"/>
         <source>Retry ?</source>
-        <translation type="unfinished"></translation>
+        <translation>Refaire ?</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="318"/>
         <source>Restart ?</source>
-        <translation type="unfinished"></translation>
+        <translation>Redémarrage rapide ?</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="318"/>
         <source>Reboot ?</source>
-        <translation type="unfinished"></translation>
+        <translation>Redémarrer ?</translation>
     </message>
 </context>
 <context>
@@ -2159,7 +2159,7 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="38"/>
         <source>Settings &gt; Video Configuration</source>
-        <translation>Paramètres &gt; Configuration vidéo</translation>
+        <translation>Paramètres &gt; Configuration Vidéo</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="82"/>
@@ -2306,7 +2306,7 @@ la souris et le clavier pourraient être utilisés pour aider à la configuratio
     <message>
         <location filename="../src/frontend/main.qml" line="427"/>
         <source>New controller</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouveau contrôleur</translation>
     </message>
     <message>
         <location filename="../src/frontend/main.qml" line="608"/>
@@ -2326,12 +2326,12 @@ la souris et le clavier pourraient être utilisés pour aider à la configuratio
     <message>
         <location filename="../src/frontend/main.qml" line="940"/>
         <source>Update available</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour disponible</translation>
     </message>
     <message>
         <location filename="../src/frontend/main.qml" line="940"/>
         <source>Updates available</source>
-        <translation type="unfinished"></translation>
+        <translation>Mises à jour disponibles</translation>
     </message>
 </context>
 </TS>
