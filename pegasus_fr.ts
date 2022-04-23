@@ -445,17 +445,17 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
     <message>
         <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="301"/>
         <source>Note: </source>
-        <translation>Note :</translation>
+        <translation>Note : </translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="326"/>
         <source>Path(s): </source>
-        <translation>Patch(s) :</translation>
+        <translation>Patch(s) : </translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="348"/>
         <source>Calculed Md5 Checksum: </source>
-        <translation>Calculer l&apos;intégrité Md5</translation>
+        <translation>Calculer l&apos;intégrité Md5: </translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="355"/>
@@ -465,7 +465,7 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
     <message>
         <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="366"/>
         <source>Possible Md5 Bios: </source>
-        <translation>Possible code Md5 du Bios</translation>
+        <translation>Possible code Md5 du Bios: </translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="438"/>
@@ -834,7 +834,7 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="100"/>
         <source>You remove now the assignment of </source>
-        <translation>Maintenez pour supprimer l&apos;assignation</translation>
+        <translation>Maintenez pour supprimer l&apos;assignation </translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="209"/>
@@ -1118,7 +1118,7 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/GamesMain.qml" line="271"/>
         <source>Check all necessary bios !</source>
-        <translation>Contrôle de tous les bios nécessaires</translation>
+        <translation>Contrôle de tous les bios nécessaires !</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamesMain.qml" line="284"/>
@@ -1502,7 +1502,7 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/MainMenuPanel.qml" line="180"/>
         <source>Restart</source>
-        <translation>Redémarrer Rapide</translation>
+        <translation>Redémarrer l&apos;interface</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/MainMenuPanel.qml" line="191"/>
@@ -1533,7 +1533,7 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="181"/>
         <source> is your friend ?</source>
-        <translation>C&apos;est votre ami ?</translation>
+        <translation> C&apos;est votre ami ?</translation>
     </message>
     <message>
         <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="182"/>
@@ -2146,7 +2146,7 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="318"/>
         <source>Restart ?</source>
-        <translation>Redémarrage rapide ?</translation>
+        <translation>Redémarrer l&apos;interface ?</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="318"/>
@@ -2299,9 +2299,7 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/main.qml" line="427"/>
         <source>mouse and keyboard could be used to help configuration</source>
-        <translation>
-la souris et le clavier pourraient être utilisés pour aider à la configuration
-la souris et le clavier pourraient être utilisés pour aider à la configuration</translation>
+        <translation>la souris et le clavier pourraient être utilisés pour aider à la configuration</translation>
     </message>
     <message>
         <location filename="../src/frontend/main.qml" line="427"/>
