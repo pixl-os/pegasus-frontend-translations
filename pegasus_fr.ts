@@ -658,12 +658,12 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
     <message>
         <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="397"/>
         <source>Selected gamepad layout</source>
-        <translation>Disposition de la manette de jeu sélectionnée</translation>
+        <translation>Editer la configuration</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="444"/>
         <source>Change the order</source>
-        <translation>Modifier la commande</translation>
+        <translation>Modifier l&apos;ordre</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="490"/>
@@ -834,7 +834,7 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="100"/>
         <source>You remove now the assignment of </source>
-        <translation>Maintenez pour supprimer l&apos;assignation </translation>
+        <translation>Vous supprimez maintenant l&apos;affectation de </translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="209"/>
@@ -965,12 +965,12 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1484"/>
         <source>hold down to edit</source>
-        <translation>maintenez pour modifier</translation>
+        <translation>Maintenir pour modifier</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1573"/>
         <source>hold down to remove assignment</source>
-        <translation>maintenez pour supprimer l&apos;assignation</translation>
+        <translation>Maintenir pour supprimer</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1626"/>
@@ -990,7 +990,7 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1677"/>
         <source>select input</source>
-        <translation>sélectionner l&apos;entrée</translation>
+        <translation>Sélectionner l&apos;entrée</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1677"/>
