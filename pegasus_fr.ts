@@ -727,12 +727,12 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
     <message>
         <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="143"/>
         <source>Predefined shaders</source>
-        <translation>Shaders prédéfini</translation>
+        <translation>Shaders prédéfinis</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="144"/>
         <source>Set predefined Shader effect for this system</source>
-        <translation>Définir les effets de shaders prédédefini pour ce système</translation>
+        <translation>Définir les effets des shaders prédédefinis pour ce système</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="168"/>
@@ -1048,7 +1048,7 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/GamesMain.qml" line="164"/>
         <source>Set predefined Shader effect</source>
-        <translation>Définir les effets de shaders prédéfini pour tout les émulateurs</translation>
+        <translation>Définir les effets des shaders prédéfinis pour tous les émulateurs</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamesMain.qml" line="186"/>
@@ -1058,7 +1058,7 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/GamesMain.qml" line="187"/>
         <source>Set prefered Shader effect</source>
-        <translation>Définir l&apos;effet de shader préféré pour tout les émulateurs</translation>
+        <translation>Définir l&apos;effet du shader préféré pour tous les émulateurs</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamesMain.qml" line="207"/>
@@ -1078,7 +1078,7 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/GamesMain.qml" line="221"/>
         <source>Show FPS in game</source>
-        <translation>Afficher le IPS dans le jeu</translation>
+        <translation>Afficher les FPS dans le jeu</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamesMain.qml" line="231"/>
