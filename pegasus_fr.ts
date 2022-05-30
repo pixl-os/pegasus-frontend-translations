@@ -143,42 +143,42 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
         <translation>Mot de passe netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="269"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="270"/>
         <source>Activate password netplay players</source>
         <translation>Activer le mot de passe pour les joueurs netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="270"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="271"/>
         <source>Set password for other players join your game</source>
         <translation>Définissez un mot de passe pour rejoindre votre jeu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="285"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="286"/>
         <source>Password netplay players</source>
         <translation>Mot de passe joueurs netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="286"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="287"/>
         <source>Choose password for join session</source>
         <translation>Choisissez un mot de passe pour rejoindre la session</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="307"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="308"/>
         <source>Activate password for netplay spectator</source>
         <translation>Activer le mot de passe pour les spectateurs netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="308"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="309"/>
         <source>Set password for netplay spectator</source>
         <translation>Définissez un mot de passe pour les spectateurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="323"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="324"/>
         <source>Password netplay spectator</source>
         <translation>Mot de passe spectateurs netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="324"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="325"/>
         <source>Choose password for netplay spectator</source>
         <translation>Choisissez un mot de passe pour les spectateurs de votre session</translation>
     </message>
@@ -274,27 +274,41 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
         <translation>L&apos;objectif est de redémarrer le Bluetooth au démarrage/redémarrage de Pegasus - pourrait résoudre le problème d&apos;appairage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="241"/>
-        <source>Sony controllers</source>
-        <translation>Contrôleurs Sony</translation>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="238"/>
+        <source>Sony PS3 bluetooth controllers</source>
+        <translation>Sony PS3 bluetooth controllers</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="345"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="256"/>
+        <source>Sony PS3 Sixaxis drivers</source>
+        <translation>Sony PS3 Sixaxis drivers</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="257"/>
+        <source>Choose a driver between bluez, official and shanwan for Sisaxis</source>
+        <translation>Choisissez un driver entre bluez, driver officiel et shanwan pour Sixasis</translation>
+    </message>
+    <message>
+        <source>Sony controllers</source>
+        <translation type="vanished">Contrôleurs Sony</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="341"/>
         <source>Arcade Stick Driver</source>
         <translation>Driver Stick Arcade</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="426"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="422"/>
         <source>Xbox One/Series controllers</source>
         <translation>Contrôleurs Xbox One/Series</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="433"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="429"/>
         <source>xow daemon activation</source>
         <translation>Activation du script xow</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="434"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="430"/>
         <source>Stop/Start daemon to help Xbox One/Series wireless dongle usage - no need to restart</source>
         <translation>Script d&apos;arrêt/démarrage pour faciliter l&apos;utilisation du dongle sans fil Xbox One/Series - pas besoin de redémarrer</translation>
     </message>
@@ -307,14 +321,12 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
         <translation type="vanished">Support des manettes Sony Playstation 3,4,5</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="260"/>
         <source>Sony controllers drivers bluetooth</source>
-        <translation>Pilotes des Contrôleurs Sony bluetooth</translation>
+        <translation type="vanished">Pilotes des Contrôleurs Sony bluetooth</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="261"/>
         <source>Choose a driver between bluez, official and shanwan</source>
-        <translation>Choisissez un pilote entre bluez, official et shanwan</translation>
+        <translation type="vanished">Choisissez un pilote entre bluez, official et shanwan</translation>
     </message>
     <message>
         <source>Db9 controllers</source>
@@ -357,62 +369,62 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
         <translation type="vanished">Stick arcade</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="352"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="348"/>
         <source>Enable driver XGaming&apos;s</source>
         <translation>Activer le driver XGaming&apos;s</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="353"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="349"/>
         <source>XGaming&apos;s XArcade Tankstick and other compatible devices</source>
         <translation>XGaming&apos;s XArcade Tankstick et autre périphériques compatible</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="363"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="359"/>
         <source>Dolphin emulators controllers</source>
         <translation>Emulateur de contrôleur Dolphin</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="370"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="366"/>
         <source>Wiimote sensor bar position</source>
         <translation>Position de la barre du capteur de la Wiimote</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="371"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="367"/>
         <source>set position to 1 for the sensor bar at the top of the screen, to 0 for the sensor bar at the bottom</source>
         <translation>définir la position à 1 pour haut de l&apos;écran, 0 pour bas</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="383"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="379"/>
         <source>Use authentics Wiimotes controllers</source>
         <translation>Utiliser des contrôleurs Wiimotes authentiques</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="384"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="380"/>
         <source>Use authentics Wiimotes pads in wii emulator (dolphin-emu)</source>
         <translation>Utiliser des manettes Wiimotes authentiques dans l&apos;émulateur Wii (dolphin-emu)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="396"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="392"/>
         <source>Use authentics Gamecube pads</source>
         <translation>Utilisez des manettes Gamecube authentiques</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="397"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="393"/>
         <source>Use authentics Gamecube pads in Gamecube emulator (dolphin-emu)</source>
         <translation>Utiliser des manettes Gamecube authentiques dans l&apos;émulateur Gamecube (dolphin-emu)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="407"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="403"/>
         <source>Joycon controllers</source>
         <translation>Contrôleurs Joycon</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="414"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="410"/>
         <source>Joycon support</source>
         <translation>Support pour les Joycon</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="415"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="411"/>
         <source>Use authentics Joycon pads</source>
         <translation>Utilisez des manettes Joycon authentiques</translation>
     </message>
@@ -656,17 +668,17 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
         <translation>Entrées des contrôleurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="397"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="395"/>
         <source>Selected gamepad layout</source>
         <translation>Editer la configuration</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="444"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="442"/>
         <source>Change the order</source>
         <translation>Modifier l&apos;ordre</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="490"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="488"/>
         <source>Stop moving</source>
         <translation>Arrête de bouger</translation>
     </message>
@@ -842,109 +854,109 @@ dans les répertoires suivants :</translation>
         <translation>Aucune manettes connectées</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="924"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="976"/>
         <source>left back</source>
         <translation>arrière gauche</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="935"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1081"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="987"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1133"/>
         <source>shoulder</source>
         <translation>gachette haut</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="949"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1094"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1001"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1146"/>
         <source>trigger</source>
         <translation>gachette bas</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="962"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1014"/>
         <source>dpad</source>
         <translation>croix directionnelle</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="970"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1022"/>
         <source>up</source>
         <translation>haut</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="983"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1035"/>
         <source>down</source>
         <translation>bas</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="996"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1048"/>
         <source>left</source>
         <translation>gauche</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1009"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1061"/>
         <source>right</source>
         <translation>droite</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1023"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1075"/>
         <source>left stick</source>
         <translation>stick gauche</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1032"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1221"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1084"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1273"/>
         <source>x axis</source>
         <translation>axe x</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1032"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1221"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1084"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1273"/>
         <source>go x axis to left</source>
         <translation>Aller à droit de l&apos;axe x</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1045"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1233"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1097"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1285"/>
         <source>y axis</source>
         <translation>axe y</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1045"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1233"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1097"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1285"/>
         <source>go y axis to up</source>
         <translation>Aller en haut de l&apos;axe y</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1058"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1245"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1110"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1297"/>
         <source>press</source>
         <translation>appuyer</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1070"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1122"/>
         <source>right back</source>
         <translation>Arrière droite</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1106"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1158"/>
         <source>abxy</source>
         <translation>abxy</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1211"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1263"/>
         <source>right stick</source>
         <translation>stick droit</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1263"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1315"/>
         <source>center</source>
         <translation>centre</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1272"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1324"/>
         <source>select</source>
         <translation>select</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1286"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1338"/>
         <source>guide/hotkey</source>
         <translation>guide/hotkey</translation>
     </message>
@@ -953,32 +965,32 @@ dans les répertoires suivants :</translation>
         <translation type="vanished">hotkey</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1299"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1351"/>
         <source>start</source>
         <translation>start</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1396"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1448"/>
         <source>hold down to quit</source>
         <translation>Maintenir pour quitter</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1484"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1536"/>
         <source>hold down to edit</source>
         <translation>Maintenir pour modifier</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1573"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1625"/>
         <source>hold down to remove assignment</source>
         <translation>Maintenir pour supprimer</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1626"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1678"/>
         <source>press button</source>
         <translation>Presser le bouton</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1626"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1678"/>
         <source>move axis</source>
         <translation>déplacer l&apos;axis</translation>
     </message>
@@ -988,12 +1000,12 @@ dans les répertoires suivants :</translation>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1677"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1729"/>
         <source>select input</source>
         <translation>Sélectionner l&apos;entrée</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1677"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1729"/>
         <source>controller</source>
         <translation>contrôleur</translation>
     </message>
@@ -1297,7 +1309,7 @@ dans les répertoires suivants :</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="123"/>
-        <source>Eternet Local IP :</source>
+        <source>Ethernet Local IP :</source>
         <translation>Ethernet IP Local :</translation>
     </message>
     <message>
@@ -1311,17 +1323,17 @@ dans les répertoires suivants :</translation>
         <translation>Température(s) de tous les systèmes :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="132"/>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="134"/>
         <source>Number of system(s) :</source>
         <translation>Nombre de système(s) :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="133"/>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="135"/>
         <source>Number of game(s) :</source>
         <translation>Nombre de jeux :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="147"/>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="149"/>
         <source>Settings &gt; System Information</source>
         <translation>Paramètres &gt; Information du Système</translation>
     </message>
@@ -1531,87 +1543,87 @@ dans les répertoires suivants :</translation>
 <context>
     <name>NetplayDialog</name>
     <message>
-        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="181"/>
+        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="169"/>
         <source> is your friend ?</source>
         <translation> C&apos;est votre ami ?</translation>
     </message>
     <message>
-        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="182"/>
+        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="170"/>
         <source>Set it to keep or not in your list of friends !</source>
         <translation>Activer pour ajouter ou non à votre liste d&apos;amis !</translation>
     </message>
     <message>
-        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="200"/>
+        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="188"/>
         <source>Activate password for netplay player</source>
         <translation>Activer le mot de passe pour le joueur netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="201"/>
+        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="189"/>
         <source>Set password for other players join your game</source>
         <translation>Définissez un mot de passe pour rejoindre votre jeu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="223"/>
+        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="211"/>
         <source>Netplay player password</source>
         <translation>Mot de passe du joueur Netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="224"/>
+        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="212"/>
         <source>Choose password for join session</source>
         <translation>Choisissez un mot de passe pour rejoindre la session</translation>
     </message>
     <message>
-        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="250"/>
+        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="238"/>
         <source>Activate password for netplay spectator</source>
         <translation>Activer le mot de passe pour les spectateurs netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="251"/>
+        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="239"/>
         <source>Set password for netplay spectator</source>
         <translation>Définissez un mot de passe pour les spectateurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="272"/>
+        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="260"/>
         <source>Netplay spectator password</source>
         <translation>Mot de passe spectateur Netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="273"/>
+        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="261"/>
         <source>Choose password for netplay spectator</source>
         <translation>Choisissez un mot de passe pour les spectateurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="324"/>
-        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="355"/>
-        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="417"/>
-        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="447"/>
-        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="476"/>
-        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="507"/>
+        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="312"/>
+        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="343"/>
+        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="405"/>
+        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="435"/>
+        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="464"/>
+        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="495"/>
         <source>Please wait...</source>
         <translation>Veuillez patienter...</translation>
     </message>
     <message>
-        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="325"/>
-        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="356"/>
-        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="418"/>
-        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="448"/>
-        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="477"/>
-        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="508"/>
+        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="313"/>
+        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="344"/>
+        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="406"/>
+        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="436"/>
+        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="465"/>
+        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="496"/>
         <source>Under progress...</source>
         <translation>En cours de Progression...</translation>
     </message>
     <message>
-        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="341"/>
+        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="329"/>
         <source>Ok</source>
         <translation>Ok</translation>
     </message>
     <message>
-        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="433"/>
+        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="421"/>
         <source>2nd choice</source>
         <translation>2nd choix</translation>
     </message>
     <message>
-        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="493"/>
+        <location filename="../src/frontend/dialogs/NetplayDialog.qml" line="481"/>
         <source>Cancel</source>
         <translation>Annuler</translation>
     </message>
@@ -1890,147 +1902,196 @@ dans les répertoires suivants :</translation>
 <context>
     <name>SettingsMain</name>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="59"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="60"/>
         <source>Settings</source>
         <translation>Paramètres</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="106"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="107"/>
         <source>Sound configuration</source>
         <translation>Configuration du son</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="119"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="120"/>
         <source>Mode</source>
         <translation>Mode</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="120"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="121"/>
         <source>Choose audio mode</source>
         <translation>Choisir le mode audio</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="144"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="145"/>
         <source>Output</source>
         <translation>Sortie</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="145"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="146"/>
         <source>Choose audio output</source>
         <translation>Choisir la sortie audio</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="184"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="185"/>
         <source>Volume</source>
         <translation>Volume</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="185"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="186"/>
         <source>Set audio volume</source>
         <translation>Régler le volume audio</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="213"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="214"/>
         <source>Video Configuration</source>
         <translation>Configuration vidéo</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="220"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="221"/>
         <source>Video configuration</source>
         <translation>Configuration vidéo</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="221"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="222"/>
         <source>choose output</source>
         <translation>choisir la sortie</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="235"/>
         <source>Systems</source>
-        <translation>Systèmes</translation>
+        <translation type="vanished">Systèmes</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="242"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="498"/>
         <source>System information</source>
         <translation>Information Système</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="243"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="499"/>
         <source>More information Ip, Cpu, OpenGL ...</source>
         <translation>Plus d&apos;information IP, CPU, OpenGL, etc...</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="275"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="257"/>
         <source>Storage configuration</source>
         <translation>Configuration du stockage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="284"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="266"/>
         <source>Storage device</source>
         <translation>Dispositif de stockage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="285"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="267"/>
         <source>change to over storage</source>
         <translation>changer pour un autre stockage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="318"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="285"/>
+        <source>Networks</source>
+        <translation>Réseaux</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="302"/>
+        <source>Ethernet Local IP :</source>
+        <translation>Ethernet IP Local :</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="305"/>
+        <source>Plug your cable to have network</source>
+        <translation>Branchez un cable pour avoir du réseau</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="319"/>
+        <source>Wifi Local IP :</source>
+        <translation>Wifi IP Local :</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="319"/>
+        <source>Wifi used :</source>
+        <translation>Wifi utilisé :</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="322"/>
+        <source>Connect your PC to any network</source>
+        <translation>Connecter votre PC à un réseau</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="330"/>
+        <source>Ethernet network</source>
+        <translation>Réseau ethernet</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="388"/>
+        <source>Wifi activation</source>
+        <translation>Activation du Wifi</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="389"/>
+        <source>Activation ou désactivation  du Wifi</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="415"/>
+        <source>Wifi networks</source>
+        <translation>Réseaux Wifi</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="443"/>
         <source>System language</source>
         <translation>Langue du système</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="325"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="450"/>
         <source>Language</source>
         <translation>Langue</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="326"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="451"/>
         <source>Set your language interface</source>
         <translation>Définissez votre langue d&apos;interface</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="347"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="472"/>
         <source>Keyboard layout</source>
         <translation>Disposition du clavier</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="348"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="473"/>
         <source>Change keyboard layout language</source>
         <translation>Changer la langue de la disposition du clavier</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="366"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="491"/>
         <source>System</source>
         <translation>Système</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="373"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="512"/>
         <source>Debug mode</source>
         <translation>Mode débogage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="374"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="513"/>
         <source>Give me your log baby !!! ;-)</source>
         <translation>Donne-moi ton log bébé ! !! ;-)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="386"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="525"/>
         <source>Enable mouse support</source>
         <translation>Activer le support de la souris</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="387"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="526"/>
         <source>By default the cursor is visible if there are any pointer devices connected.</source>
         <translation>Par défaut, le curseur est visible si des dispositifs de pointage sont connectés.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="400"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="539"/>
         <source>Enable virtual keyboard support</source>
         <translation>Activer le support du clavier virtuel</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="401"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="540"/>
         <source>By default virtual keyboard is not activated.</source>
         <translation>Par defaut le clavier virtuel n&apos;est pas activé.</translation>
     </message>
@@ -2256,6 +2317,137 @@ dans les répertoires suivants :</translation>
     </message>
 </context>
 <context>
+    <name>WifiDialog</name>
+    <message>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="222"/>
+        <source>Wifi SSID</source>
+        <translation>SSID Wifi</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="223"/>
+        <source>Thanks to enter your hidden SSID here</source>
+        <translation>Merci de saisir votre SSID caché ici</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="230"/>
+        <source>your hidden ssid</source>
+        <translation>Votre SSID caché</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="287"/>
+        <source>Wifi Network security key</source>
+        <translation>Clé de sécurité du réseau Wifi</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="288"/>
+        <source>Thanks to enter your security key here</source>
+        <translation>Merci de saisir votre clé de sécurité ici</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="296"/>
+        <source>your key</source>
+        <translation>Votre clé</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="356"/>
+        <source>Priority</source>
+        <translation>Priorité</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="357"/>
+        <source>From 1 to 3 to match with the 3 conf that we could save</source>
+        <translation>De 1 à 3 pour correspondre aux 3 conf que l'on peut avoir</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="492"/>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="530"/>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="602"/>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="636"/>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="669"/>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="700"/>
+        <source>Please wait...</source>
+        <translation>Veuillez patienter...</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="493"/>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="531"/>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="603"/>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="637"/>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="670"/>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="701"/>
+        <source>Under progress...</source>
+        <translation>En cours de Progression...</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="514"/>
+        <source>Ok</source>
+        <translation>Ok</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="622"/>
+        <source>2nd choice</source>
+        <translation>2nd choix</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="686"/>
+        <source>Cancel</source>
+        <translation>Annuler</translation>
+    </message>
+</context>
+<context>
+    <name>WifiNetworks</name>
+    <message>
+        <location filename="../src/frontend/menu/settings/WifiNetworks.qml" line="55"/>
+        <source>Connect</source>
+        <translation>Connecter</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/WifiNetworks.qml" line="55"/>
+        <source>Disconnect</source>
+        <translation>Déconnecter</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/WifiNetworks.qml" line="56"/>
+        <source>Forget</source>
+        <translation>Oublier</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/WifiNetworks.qml" line="56"/>
+        <source>Save</source>
+        <translation>Sauvegarder</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/WifiNetworks.qml" line="57"/>
+        <source>Cancel</source>
+        <translation>Annuler</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/WifiNetworks.qml" line="367"/>
+        <source>Settings &gt; Wifi networks</source>
+        <translation>Paramètres &gt; Réseaux Wifi</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/WifiNetworks.qml" line="415"/>
+        <source>Wifi networks</source>
+        <translation>Réseaux Wifi</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/WifiNetworks.qml" line="546"/>
+        <source>Do you want to be connected to this wifi ?</source>
+        <translation>Est ce que vous voulez vous connecter à ce wifi ?</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/WifiNetworks.qml" line="582"/>
+        <source>Connected</source>
+        <translation>Connecté</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/WifiNetworks.qml" line="582"/>
+        <source>Connect ?</source>
+        <translation>Connecter ?</translation>
+    </message>
+</context>
+<context>
     <name>main</name>
     <message>
         <location filename="../src/frontend/main.qml" line="351"/>
@@ -2322,12 +2514,12 @@ dans les répertoires suivants :</translation>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="940"/>
+        <location filename="../src/frontend/main.qml" line="952"/>
         <source>Update available</source>
         <translation>Mise à jour disponible</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="940"/>
+        <location filename="../src/frontend/main.qml" line="952"/>
         <source>Updates available</source>
         <translation>Mises à jour disponibles</translation>
     </message>
