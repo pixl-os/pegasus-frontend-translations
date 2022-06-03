@@ -1260,7 +1260,7 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="109"/>
         <source>CPU Core Number :</source>
-        <translation>CPU nombre de coeur :</translation>
+        <translation>CPU nombre de thread :</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="110"/>
