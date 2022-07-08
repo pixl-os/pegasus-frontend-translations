@@ -1942,156 +1942,166 @@ dans les répertoires suivants :</translation>
         <translation>Régler le volume audio</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="214"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="218"/>
+        <source>i915 driver force-probe activation</source>
+        <translation>Activation i915 Driver force-probe</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="219"/>
+        <source>Any driver issue detected ! Use this option to discover inputs quickly (need reboot)</source>
+        <translation>Problème détecté ! Activer l'option pour voir les sorties audio plus vite (besoin de rebooter)</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="236"/>
         <source>Video Configuration</source>
         <translation>Configuration vidéo</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="221"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="243"/>
         <source>Video configuration</source>
         <translation>Configuration vidéo</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="222"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="244"/>
         <source>choose output</source>
         <translation>choisir la sortie</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="411"/>
+        <source>Enable or disable Wifi</source>
+        <translation>Pour activer ou désactiver Wifi</translation>
     </message>
     <message>
         <source>Systems</source>
         <translation type="vanished">Systèmes</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="498"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="521"/>
         <source>System information</source>
         <translation>Information Système</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="499"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="522"/>
         <source>More information Ip, Cpu, OpenGL ...</source>
         <translation>Plus d&apos;information IP, CPU, OpenGL, etc...</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="257"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="279"/>
         <source>Storage configuration</source>
         <translation>Configuration du stockage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="266"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="288"/>
         <source>Storage device</source>
         <translation>Dispositif de stockage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="267"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="289"/>
         <source>change to over storage</source>
         <translation>changer pour un autre stockage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="285"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="307"/>
         <source>Networks</source>
         <translation>Réseaux</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="302"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="324"/>
         <source>Ethernet Local IP :</source>
         <translation>Ethernet IP Local :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="305"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="327"/>
         <source>Plug your cable to have network</source>
         <translation>Branchez un cable pour avoir du réseau</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="319"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="341"/>
         <source>Wifi Local IP :</source>
         <translation>Wifi IP Local :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="319"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="341"/>
         <source>Wifi used :</source>
         <translation>Wifi utilisé :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="322"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="344"/>
         <source>Connect your PC to any network</source>
         <translation>Connecter votre PC à un réseau</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="330"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="352"/>
         <source>Ethernet network</source>
         <translation>Réseau ethernet</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="388"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="410"/>
         <source>Wifi activation</source>
         <translation>Activation du Wifi</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="389"/>
-        <source>Activation ou désactivation  du Wifi</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="415"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="438"/>
         <source>Wifi networks</source>
         <translation>Réseaux Wifi</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="443"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="466"/>
         <source>System language</source>
         <translation>Langue du système</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="450"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="473"/>
         <source>Language</source>
         <translation>Langue</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="451"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="474"/>
         <source>Set your language interface</source>
         <translation>Définissez votre langue d&apos;interface</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="472"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="495"/>
         <source>Keyboard layout</source>
         <translation>Disposition du clavier</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="473"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="496"/>
         <source>Change keyboard layout language</source>
         <translation>Changer la langue de la disposition du clavier</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="491"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="514"/>
         <source>System</source>
         <translation>Système</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="512"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="535"/>
         <source>Debug mode</source>
         <translation>Mode débogage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="513"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="536"/>
         <source>Give me your log baby !!! ;-)</source>
         <translation>Donne-moi ton log bébé ! !! ;-)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="525"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="548"/>
         <source>Enable mouse support</source>
         <translation>Activer le support de la souris</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="526"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="549"/>
         <source>By default the cursor is visible if there are any pointer devices connected.</source>
         <translation>Par défaut, le curseur est visible si des dispositifs de pointage sont connectés.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="539"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="562"/>
         <source>Enable virtual keyboard support</source>
         <translation>Activer le support du clavier virtuel</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="540"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="563"/>
         <source>By default virtual keyboard is not activated.</source>
         <translation>Par defaut le clavier virtuel n&apos;est pas activé.</translation>
     </message>
@@ -2356,7 +2366,7 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/dialogs/WifiDialog.qml" line="357"/>
         <source>From 1 to 3 to match with the 3 conf that we could save</source>
-        <translation>De 1 à 3 pour correspondre aux 3 conf que l'on peut avoir</translation>
+        <translation>De 1 à 3 pour correspondre aux 3 conf que l&apos;on peut avoir</translation>
     </message>
     <message>
         <location filename="../src/frontend/dialogs/WifiDialog.qml" line="492"/>
