@@ -1187,37 +1187,42 @@ u sljedećim direktorijima:</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="122"/>
-        <source>Wifi Local IP :</source>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="118"/>
+        <source>Vulkan Renderer version :</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="123"/>
-        <source>Ethernet Local IP :</source>
+        <source>Wifi Local IP :</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="124"/>
+        <source>Ethernet Local IP :</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="125"/>
         <source>External IP :</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="128"/>
-        <source>All System Temperature(s) :</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="134"/>
-        <source>Number of system(s) :</source>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="126"/>
+        <source>CPU Temperature :</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="135"/>
+        <source>Number of system(s) :</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="136"/>
         <source>Number of game(s) :</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="149"/>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="150"/>
         <source>Settings &gt; System Information</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1397,27 +1402,27 @@ u sljedećim direktorijima:</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="160"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="161"/>
         <source>Quit</source>
         <translation>Izađi</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="180"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="181"/>
         <source>Restart</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="191"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="192"/>
         <source>Shutdown</source>
         <translation>Ugasi</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="202"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="203"/>
         <source>Reboot</source>
         <translation>Ponovo Pokreni</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="213"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="214"/>
         <source>Exit Pegasus</source>
         <translation>Izađi iz Pegasusa</translation>
     </message>
@@ -1659,6 +1664,24 @@ u sljedećim direktorijima:</translation>
     </message>
 </context>
 <context>
+    <name>ProviderManager</name>
+    <message>
+        <location filename="../src/backend/providers/ProviderManager.cpp" line="107"/>
+        <source>Checking pending downloads...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/providers/ProviderManager.cpp" line="121"/>
+        <source>Game lists post-processing...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/providers/ProviderManager.cpp" line="141"/>
+        <source>Loading theme now...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>QObject</name>
     <message>
         <location filename="../tests/backend/configfile/test_ConfigFile.cpp" line="54"/>
@@ -1709,7 +1732,7 @@ u sljedećim direktorijima:</translation>
 <context>
     <name>SettingsMain</name>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="60"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="59"/>
         <source>Settings</source>
         <translation>Postavke</translation>
     </message>
@@ -1718,7 +1741,7 @@ u sljedećim direktorijima:</translation>
         <translation type="vanished">Opće</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="473"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="474"/>
         <source>Language</source>
         <translation>Jezik</translation>
     </message>
@@ -1747,192 +1770,192 @@ u sljedećim direktorijima:</translation>
         <translation type="vanished">Promijenite raspored džojstika...</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="107"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="106"/>
         <source>Sound configuration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="120"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="119"/>
         <source>Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="121"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="120"/>
         <source>Choose audio mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="145"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="144"/>
         <source>Output</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="146"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="145"/>
         <source>Choose audio output</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="185"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="184"/>
         <source>Volume</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="186"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="185"/>
         <source>Set audio volume</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="236"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="237"/>
         <source>Video Configuration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="243"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="244"/>
         <source>Video configuration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="244"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="245"/>
         <source>choose output</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="521"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="522"/>
         <source>System information</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="522"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="523"/>
         <source>More information Ip, Cpu, OpenGL ...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="279"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="280"/>
         <source>Storage configuration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="218"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="219"/>
         <source>i915 driver force-probe activation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="219"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="220"/>
         <source>Any driver issue detected ! Use this option to discover inputs quickly (need reboot)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="288"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="289"/>
         <source>Storage device</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="289"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="290"/>
         <source>change to over storage</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="307"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="308"/>
         <source>Networks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="324"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="325"/>
         <source>Ethernet Local IP :</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="327"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="328"/>
         <source>Plug your cable to have network</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="341"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="342"/>
         <source>Wifi Local IP :</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="341"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="342"/>
         <source>Wifi used :</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="344"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="345"/>
         <source>Connect your PC to any network</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="352"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="353"/>
         <source>Ethernet network</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="410"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="411"/>
         <source>Wifi activation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="411"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="412"/>
         <source>Enable or disable Wifi</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="438"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="439"/>
         <source>Wifi networks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="466"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="467"/>
         <source>System language</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="474"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="475"/>
         <source>Set your language interface</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="495"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="496"/>
         <source>Keyboard layout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="496"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="497"/>
         <source>Change keyboard layout language</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="514"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="515"/>
         <source>System</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="535"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="536"/>
         <source>Debug mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="536"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="537"/>
         <source>Give me your log baby !!! ;-)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="548"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="549"/>
         <source>Enable mouse support</source>
         <translation>Omogućite podršku miša</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="549"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="550"/>
         <source>By default the cursor is visible if there are any pointer devices connected.</source>
         <translation>Prema zadanim postavkama, kursor je vidljiv ako su povezani bilo koji pokazivački uređaji.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="562"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="563"/>
         <source>Enable virtual keyboard support</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="563"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="564"/>
         <source>By default virtual keyboard is not activated.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2310,72 +2333,72 @@ u sljedećim direktorijima:</translation>
 <context>
     <name>main</name>
     <message>
-        <location filename="../src/frontend/main.qml" line="351"/>
+        <location filename="../src/frontend/main.qml" line="352"/>
         <source>A game is in the disk drive : </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="352"/>
+        <location filename="../src/frontend/main.qml" line="353"/>
         <source>Launch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="353"/>
+        <location filename="../src/frontend/main.qml" line="354"/>
         <source>Eject</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="354"/>
+        <location filename="../src/frontend/main.qml" line="355"/>
         <source>Back</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="391"/>
+        <location filename="../src/frontend/main.qml" line="392"/>
         <source>Error</source>
         <translation>Greška</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="427"/>
+        <location filename="../src/frontend/main.qml" line="428"/>
         <source>New controller</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="427"/>
+        <location filename="../src/frontend/main.qml" line="428"/>
         <source>Press any button to continue</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="427"/>
+        <location filename="../src/frontend/main.qml" line="428"/>
         <source>please read instructions at the bottom of next view to understand possible actions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="427"/>
+        <location filename="../src/frontend/main.qml" line="428"/>
         <source>mouse and keyboard could be used to help configuration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="608"/>
+        <location filename="../src/frontend/main.qml" line="621"/>
         <source>Create Netplay room ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="611"/>
+        <location filename="../src/frontend/main.qml" line="624"/>
         <source>Play</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="613"/>
+        <location filename="../src/frontend/main.qml" line="626"/>
         <source>Cancel</source>
         <translation type="unfinished">Otkaži</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="952"/>
+        <location filename="../src/frontend/main.qml" line="965"/>
         <source>Update available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="952"/>
+        <location filename="../src/frontend/main.qml" line="965"/>
         <source>Updates available</source>
         <translation type="unfinished"></translation>
     </message>
