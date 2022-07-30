@@ -1143,7 +1143,7 @@ in den folgenden Verzeichnissen:</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="109"/>
-        <source>CPU Core Number :</source>
+        <source>CPU Thread Number :</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
