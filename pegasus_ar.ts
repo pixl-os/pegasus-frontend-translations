@@ -1697,6 +1697,67 @@ in the following directories:</source>
         <source>line %1: %2</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
+        <source>All sounds on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
+        <source>sounds off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
+        <source>Not supported: Videos Sound only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
+        <source>Not supported: Musics Only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
+        <source>Not supported: Musics or Videos Sound</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="253"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="265"/>
+        <source>Legacy (script)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="253"/>
+        <source>Minimal Service Discovery (slow)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="253"/>
+        <source>Full Service Discovery (slower)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="253"/>
+        <source>Device Discovery (quicker)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="259"/>
+        <source>Legacy (full script)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="259"/>
+        <source>Simple one (partial script)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="265"/>
+        <source>Simple one (one commande line)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>RebootDialog</name>

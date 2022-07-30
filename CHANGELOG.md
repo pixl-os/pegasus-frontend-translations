@@ -4,7 +4,8 @@ All notable changes to this project will be documented in this file (focus on ch
 ## [recalbox-integration] - Next - yyyy-mm-dd
 - introduction of changelog on this repo
 - fix to have thread and not core in all translations
-- fix on fr for missing cpp & qml translations (lupdate done) 
+- fix on fr for missing cpp & qml translations (lupdate done)
+- translation fr for some parameterLists 
 
 
 ## [recalbox-integration] - 2022-07-09

@@ -1886,6 +1886,67 @@ dans les répertoires suivants :</translation>
         <source>line %1: %2</source>
         <translation>ligne %1 : %2</translation>
     </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
+        <source>All sounds on</source>
+        <translation>Tous sons allumés</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
+        <source>sounds off</source>
+        <translation>Sons éteints</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
+        <source>Not supported: Videos Sound only</source>
+        <translation>Non supporté: Son Vidéos seulement</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
+        <source>Not supported: Musics Only</source>
+        <translation>Non supporté: Musiques seulement</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
+        <source>Not supported: Musics or Videos Sound</source>
+        <translation>Non supporté: Musiques ou Son Vidéos seulement</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="253"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="265"/>
+        <source>Legacy (script)</source>
+        <translation>Historique (script)</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="253"/>
+        <source>Minimal Service Discovery (slow)</source>
+        <translation>Service minimal de découverte (lent)</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="253"/>
+        <source>Full Service Discovery (slower)</source>
+        <translation>Service complet de découverte (le plus lent)</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="253"/>
+        <source>Device Discovery (quicker)</source>
+        <translation>Découverte Appareil (le plus rapide)</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="259"/>
+        <source>Legacy (full script)</source>
+        <translation>Historique (script complet)</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="259"/>
+        <source>Simple one (partial script)</source>
+        <translation>La simple (script partiel)</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="265"/>
+        <source>Simple one (one commande line)</source>
+        <translation>La simple (une ligne de commande)</translation>
+    </message>
 </context>
 <context>
     <name>RebootDialog</name>
