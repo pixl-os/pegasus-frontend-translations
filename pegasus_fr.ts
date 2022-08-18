@@ -440,67 +440,67 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
 <context>
     <name>BiosChecking</name>
     <message>
-        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="84"/>
+        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="62"/>
         <source>Games &gt; Bios checking</source>
         <translation>Jeux &gt; Contrôle des bios</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="264"/>
+        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="270"/>
         <source>Optional</source>
         <translation>Optionel</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="264"/>
+        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="270"/>
         <source>Mandatory</source>
         <translation>Obligatoire</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="301"/>
+        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="308"/>
         <source>Note: </source>
         <translation>Note : </translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="326"/>
+        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="333"/>
         <source>Path(s): </source>
         <translation>Patch(s) : </translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="348"/>
+        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="355"/>
         <source>Calculed Md5 Checksum: </source>
         <translation>Calculer l&apos;intégrité Md5: </translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="355"/>
+        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="362"/>
         <source>bios not present or hash not matching</source>
         <translation>bios non présent ou hachage ne correspondant pas</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="366"/>
+        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="373"/>
         <source>Possible Md5 Bios: </source>
         <translation>Possible code Md5 du Bios: </translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="438"/>
+        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="445"/>
         <source>back</source>
         <translation>retour</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="478"/>
+        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="485"/>
         <source>check</source>
         <translation>vérif</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="520"/>
+        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="527"/>
         <source>ok</source>
         <translation>ok</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="561"/>
+        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="568"/>
         <source>no matching</source>
         <translation>pas de correspondance</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="602"/>
+        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="609"/>
         <source>not found</source>
         <translation>pas trouvé</translation>
     </message>
@@ -1193,13 +1193,11 @@ dans les répertoires suivants :</translation>
     <name>GenericOkCancelDialog</name>
     <message>
         <location filename="../src/frontend/dialogs/GenericOkCancelDialog.qml" line="170"/>
-        <location filename="../src/themes/gameOS/Dialogs/GenericOkCancelDialog.qml" line="169"/>
         <source>Ok</source>
         <translation>Ok</translation>
     </message>
     <message>
         <location filename="../src/frontend/dialogs/GenericOkCancelDialog.qml" line="207"/>
-        <location filename="../src/themes/gameOS/Dialogs/GenericOkCancelDialog.qml" line="206"/>
         <source>Cancel</source>
         <translation>Annuler</translation>
     </message>
@@ -1259,7 +1257,7 @@ dans les répertoires suivants :</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="109"/>
-        <source>CPU Core Number :</source>
+        <source>CPU Thread Number :</source>
         <translation>CPU nombre de thread :</translation>
     </message>
     <message>
@@ -1303,37 +1301,46 @@ dans les répertoires suivants :</translation>
         <translation>Moteur OpenGL :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="122"/>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="118"/>
+        <source>Vulkan Renderer version :</source>
+        <translation>Moteur de rendu Vulkan</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="123"/>
         <source>Wifi Local IP :</source>
         <translation>Wifi IP Local :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="123"/>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="124"/>
         <source>Ethernet Local IP :</source>
         <translation>Ethernet IP Local :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="124"/>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="125"/>
         <source>External IP :</source>
         <translation>IP Externe :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="128"/>
-        <source>All System Temperature(s) :</source>
-        <translation>Température(s) de tous les systèmes :</translation>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="126"/>
+        <source>CPU Temperature :</source>
+        <translation>Température du CPU:</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="134"/>
+        <source>All System Temperature(s) :</source>
+        <translation type="vanished">Température(s) de tous les systèmes :</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="135"/>
         <source>Number of system(s) :</source>
         <translation>Nombre de système(s) :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="135"/>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="136"/>
         <source>Number of game(s) :</source>
         <translation>Nombre de jeux :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="149"/>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="150"/>
         <source>Settings &gt; System Information</source>
         <translation>Paramètres &gt; Information du Système</translation>
     </message>
@@ -1362,33 +1369,53 @@ dans les répertoires suivants :</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="178"/>
+        <source>Multi-Windows</source>
+        <translation>Multi-Fenêtres</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="179"/>
+        <source>Once enabled, you can run emulators in separate windows and keep pegasus/theme activated</source>
+        <translation>Activé, tu peux lancer l'emulateur et garder Pegasus/Theme actif </translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="191"/>
         <source>Theme</source>
         <translation>Thème</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="179"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="192"/>
         <source>Change theme system interface</source>
         <translation>Modifier thème de l&apos;interface système</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="192"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="205"/>
+        <source>Keep Theme Loaded</source>
+        <translation>Garder le thème chargé</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="206"/>
+        <source>Themes could stay loaded during gaming to avoid reloading after(Theme should be compatible)</source>
+        <translation>Les themes peuvent restés chargés pour éviter le rechargement (Le thème doit être compatible)</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="218"/>
         <source>Gamelist only</source>
         <translation>Liste de jeux uniquement</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="193"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="219"/>
         <source>Once enabled, only files from gamelist will be take into account. 
 (Best game file loading ;-)</source>
         <translation>Une fois activé, seuls les fichiers de la liste de jeux seront pris en compte. 
 (Meilleur chargement des fichiers de jeu ;-)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="206"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="232"/>
         <source>Deactivate Skraper media</source>
         <translation>Désactiver Skraper</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="207"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="233"/>
         <source>Once enabled, only media from gamelist will be take into account. 
  ( Best loading ;-) / Less Media :-( )</source>
         <translation>Une fois activé, seuls les médias de la gamelist seront pris en compte.
@@ -1455,6 +1482,11 @@ dans les répertoires suivants :</translation>
         <source>Netplay</source>
         <translation>Netplay</translation>
     </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="64"/>
+        <source>Guide</source>
+        <translation>Guide</translation>
+    </message>
 </context>
 <context>
     <name>KeyEditorRecorder</name>
@@ -1507,27 +1539,27 @@ dans les répertoires suivants :</translation>
         <translation>Paramètres</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="160"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="162"/>
         <source>Quit</source>
         <translation>Quitter</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="180"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="182"/>
         <source>Restart</source>
         <translation>Redémarrer l&apos;interface</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="191"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="193"/>
         <source>Shutdown</source>
         <translation>Arrêter</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="202"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="204"/>
         <source>Reboot</source>
         <translation>Redémarrer</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="213"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="215"/>
         <source>Exit Pegasus</source>
         <translation>Quitter Pegasus</translation>
     </message>
@@ -1852,12 +1884,91 @@ dans les répertoires suivants :</translation>
     </message>
 </context>
 <context>
+    <name>ProviderManager</name>
+    <message>
+        <location filename="../src/backend/providers/ProviderManager.cpp" line="107"/>
+        <source>Checking pending downloads...</source>
+        <translation>Vérification des téléchargements manquants...</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/providers/ProviderManager.cpp" line="121"/>
+        <source>Game lists post-processing...</source>
+        <translation>Après traitement des listes de jeux...</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/providers/ProviderManager.cpp" line="141"/>
+        <source>Loading theme now...</source>
+        <translation>Chargement du thème maintenant...</translation>
+    </message>
+</context>
+<context>
     <name>QObject</name>
     <message>
         <location filename="../tests/backend/configfile/test_ConfigFile.cpp" line="54"/>
         <location filename="../tests/benchmarks/configfile/bench_ConfigFile.cpp" line="47"/>
         <source>line %1: %2</source>
         <translation>ligne %1 : %2</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
+        <source>All sounds on</source>
+        <translation>Tous sons allumés</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
+        <source>sounds off</source>
+        <translation>Sons éteints</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
+        <source>Not supported: Videos Sound only</source>
+        <translation>Non supporté: Son Vidéos seulement</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
+        <source>Not supported: Musics Only</source>
+        <translation>Non supporté: Musiques seulement</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
+        <source>Not supported: Musics or Videos Sound</source>
+        <translation>Non supporté: Musiques ou Son Vidéos seulement</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="253"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="265"/>
+        <source>Legacy (script)</source>
+        <translation>Historique (script)</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="253"/>
+        <source>Minimal Service Discovery (slow)</source>
+        <translation>Service minimal de découverte (lent)</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="253"/>
+        <source>Full Service Discovery (slower)</source>
+        <translation>Service complet de découverte (le plus lent)</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="253"/>
+        <source>Device Discovery (quicker)</source>
+        <translation>Découverte Appareil (le plus rapide)</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="259"/>
+        <source>Legacy (full script)</source>
+        <translation>Historique (script complet)</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="259"/>
+        <source>Simple one (partial script)</source>
+        <translation>La simple (script partiel)</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="265"/>
+        <source>Simple one (one commande line)</source>
+        <translation>La simple (une ligne de commande)</translation>
     </message>
 </context>
 <context>
@@ -1902,72 +2013,72 @@ dans les répertoires suivants :</translation>
 <context>
     <name>SettingsMain</name>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="60"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="59"/>
         <source>Settings</source>
         <translation>Paramètres</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="107"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="106"/>
         <source>Sound configuration</source>
         <translation>Configuration du son</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="120"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="119"/>
         <source>Mode</source>
         <translation>Mode</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="121"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="120"/>
         <source>Choose audio mode</source>
         <translation>Choisir le mode audio</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="145"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="144"/>
         <source>Output</source>
         <translation>Sortie</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="146"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="145"/>
         <source>Choose audio output</source>
         <translation>Choisir la sortie audio</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="185"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="184"/>
         <source>Volume</source>
         <translation>Volume</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="186"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="185"/>
         <source>Set audio volume</source>
         <translation>Régler le volume audio</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="218"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="219"/>
         <source>i915 driver force-probe activation</source>
         <translation>Activation i915 Driver force-probe</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="219"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="220"/>
         <source>Any driver issue detected ! Use this option to discover inputs quickly (need reboot)</source>
-        <translation>Problème détecté ! Activer l'option pour voir les sorties audio plus vite (besoin de rebooter)</translation>
+        <translation>Problème détecté ! Activer l&apos;option pour voir les sorties audio plus vite (besoin de rebooter)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="236"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="237"/>
         <source>Video Configuration</source>
         <translation>Configuration vidéo</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="243"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="244"/>
         <source>Video configuration</source>
         <translation>Configuration vidéo</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="244"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="245"/>
         <source>choose output</source>
         <translation>choisir la sortie</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="411"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="412"/>
         <source>Enable or disable Wifi</source>
         <translation>Pour activer ou désactiver Wifi</translation>
     </message>
@@ -1976,132 +2087,132 @@ dans les répertoires suivants :</translation>
         <translation type="vanished">Systèmes</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="521"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="522"/>
         <source>System information</source>
         <translation>Information Système</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="522"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="523"/>
         <source>More information Ip, Cpu, OpenGL ...</source>
         <translation>Plus d&apos;information IP, CPU, OpenGL, etc...</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="279"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="280"/>
         <source>Storage configuration</source>
         <translation>Configuration du stockage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="288"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="289"/>
         <source>Storage device</source>
         <translation>Dispositif de stockage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="289"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="290"/>
         <source>change to over storage</source>
         <translation>changer pour un autre stockage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="307"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="308"/>
         <source>Networks</source>
         <translation>Réseaux</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="324"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="325"/>
         <source>Ethernet Local IP :</source>
         <translation>Ethernet IP Local :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="327"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="328"/>
         <source>Plug your cable to have network</source>
         <translation>Branchez un cable pour avoir du réseau</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="341"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="342"/>
         <source>Wifi Local IP :</source>
         <translation>Wifi IP Local :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="341"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="342"/>
         <source>Wifi used :</source>
         <translation>Wifi utilisé :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="344"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="345"/>
         <source>Connect your PC to any network</source>
         <translation>Connecter votre PC à un réseau</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="352"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="353"/>
         <source>Ethernet network</source>
         <translation>Réseau ethernet</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="410"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="411"/>
         <source>Wifi activation</source>
         <translation>Activation du Wifi</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="438"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="439"/>
         <source>Wifi networks</source>
         <translation>Réseaux Wifi</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="466"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="467"/>
         <source>System language</source>
         <translation>Langue du système</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="473"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="474"/>
         <source>Language</source>
         <translation>Langue</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="474"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="475"/>
         <source>Set your language interface</source>
         <translation>Définissez votre langue d&apos;interface</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="495"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="496"/>
         <source>Keyboard layout</source>
         <translation>Disposition du clavier</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="496"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="497"/>
         <source>Change keyboard layout language</source>
         <translation>Changer la langue de la disposition du clavier</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="514"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="515"/>
         <source>System</source>
         <translation>Système</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="535"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="536"/>
         <source>Debug mode</source>
         <translation>Mode débogage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="536"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="537"/>
         <source>Give me your log baby !!! ;-)</source>
         <translation>Donne-moi ton log bébé ! !! ;-)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="548"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="549"/>
         <source>Enable mouse support</source>
         <translation>Activer le support de la souris</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="549"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="550"/>
         <source>By default the cursor is visible if there are any pointer devices connected.</source>
         <translation>Par défaut, le curseur est visible si des dispositifs de pointage sont connectés.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="562"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="563"/>
         <source>Enable virtual keyboard support</source>
         <translation>Activer le support du clavier virtuel</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="563"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="564"/>
         <source>By default virtual keyboard is not activated.</source>
         <translation>Par defaut le clavier virtuel n&apos;est pas activé.</translation>
     </message>
@@ -2460,27 +2571,27 @@ dans les répertoires suivants :</translation>
 <context>
     <name>main</name>
     <message>
-        <location filename="../src/frontend/main.qml" line="351"/>
+        <location filename="../src/frontend/main.qml" line="374"/>
         <source>A game is in the disk drive : </source>
         <translation>Un jeu est dans le lecteur de disque : </translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="352"/>
+        <location filename="../src/frontend/main.qml" line="375"/>
         <source>Launch</source>
         <translation>Lancer</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="353"/>
+        <location filename="../src/frontend/main.qml" line="376"/>
         <source>Eject</source>
         <translation>Ejecter</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="354"/>
+        <location filename="../src/frontend/main.qml" line="377"/>
         <source>Back</source>
         <translation>Retour</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="391"/>
+        <location filename="../src/frontend/main.qml" line="414"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
@@ -2489,47 +2600,47 @@ dans les répertoires suivants :</translation>
         <translation type="vanished">Nouveau type de contrôleur détecté</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="427"/>
+        <location filename="../src/frontend/main.qml" line="450"/>
         <source>Press any button to continue</source>
         <translation>Appuyez sur n&apos;importe quel bouton pour continuer</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="427"/>
+        <location filename="../src/frontend/main.qml" line="450"/>
         <source>please read instructions at the bottom of next view to understand possible actions</source>
         <translation>veuillez lire les instructions au bas de la vue suivante pour comprendre les actions possibles</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="427"/>
+        <location filename="../src/frontend/main.qml" line="450"/>
         <source>mouse and keyboard could be used to help configuration</source>
         <translation>la souris et le clavier pourraient être utilisés pour aider à la configuration</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="427"/>
+        <location filename="../src/frontend/main.qml" line="450"/>
         <source>New controller</source>
         <translation>Nouveau contrôleur</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="608"/>
+        <location filename="../src/frontend/main.qml" line="643"/>
         <source>Create Netplay room ?</source>
         <translation>Créer un salon Netplay ?</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="611"/>
+        <location filename="../src/frontend/main.qml" line="646"/>
         <source>Play</source>
         <translation>Jouer</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="613"/>
+        <location filename="../src/frontend/main.qml" line="648"/>
         <source>Cancel</source>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="952"/>
+        <location filename="../src/frontend/main.qml" line="987"/>
         <source>Update available</source>
         <translation>Mise à jour disponible</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="952"/>
+        <location filename="../src/frontend/main.qml" line="987"/>
         <source>Updates available</source>
         <translation>Mises à jour disponibles</translation>
     </message>
