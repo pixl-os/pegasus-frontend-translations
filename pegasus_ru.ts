@@ -337,67 +337,67 @@ Only work with Retroarch cores.</source>
 <context>
     <name>BiosChecking</name>
     <message>
-        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="84"/>
+        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="62"/>
         <source>Games &gt; Bios checking</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="264"/>
+        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="270"/>
         <source>Optional</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="264"/>
+        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="270"/>
         <source>Mandatory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="301"/>
+        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="308"/>
         <source>Note: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="326"/>
+        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="333"/>
         <source>Path(s): </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="348"/>
+        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="355"/>
         <source>Calculed Md5 Checksum: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="355"/>
+        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="362"/>
         <source>bios not present or hash not matching</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="366"/>
+        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="373"/>
         <source>Possible Md5 Bios: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="438"/>
+        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="445"/>
         <source>back</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="478"/>
+        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="485"/>
         <source>check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="520"/>
+        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="527"/>
         <source>ok</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="561"/>
+        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="568"/>
         <source>no matching</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="602"/>
+        <location filename="../src/frontend/menu/settings/BiosChecking.qml" line="609"/>
         <source>not found</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1075,13 +1075,11 @@ in the following directories:</source>
     <name>GenericOkCancelDialog</name>
     <message>
         <location filename="../src/frontend/dialogs/GenericOkCancelDialog.qml" line="170"/>
-        <location filename="../src/themes/gameOS/Dialogs/GenericOkCancelDialog.qml" line="169"/>
         <source>Ok</source>
         <translation>OK</translation>
     </message>
     <message>
         <location filename="../src/frontend/dialogs/GenericOkCancelDialog.qml" line="207"/>
-        <location filename="../src/themes/gameOS/Dialogs/GenericOkCancelDialog.qml" line="206"/>
         <source>Cancel</source>
         <translation>Отменить</translation>
     </message>
@@ -1249,32 +1247,52 @@ in the following directories:</source>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="178"/>
+        <source>Multi-Windows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="179"/>
+        <source>Once enabled, you can run emulators in separate windows and keep pegasus/theme activated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="191"/>
         <source>Theme</source>
         <translation type="unfinished">Тема</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="179"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="192"/>
         <source>Change theme system interface</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="192"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="205"/>
+        <source>Keep Theme Loaded</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="206"/>
+        <source>Themes could stay loaded during gaming to avoid reloading after(Theme should be compatible)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="218"/>
         <source>Gamelist only</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="193"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="219"/>
         <source>Once enabled, only files from gamelist will be take into account. 
 (Best game file loading ;-)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="206"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="232"/>
         <source>Deactivate Skraper media</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="207"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="233"/>
         <source>Once enabled, only media from gamelist will be take into account. 
  ( Best loading ;-) / Less Media :-( )</source>
         <translation type="unfinished"></translation>
@@ -1344,6 +1362,11 @@ in the following directories:</source>
         <source>Netplay</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="64"/>
+        <source>Guide</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KeyEditorRecorder</name>
@@ -1400,27 +1423,27 @@ in the following directories:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="161"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="162"/>
         <source>Quit</source>
         <translation>Выход</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="181"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="182"/>
         <source>Restart</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="192"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="193"/>
         <source>Shutdown</source>
         <translation>Выключить</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="203"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="204"/>
         <source>Reboot</source>
         <translation>Перезагрузить</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="214"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="215"/>
         <source>Exit Pegasus</source>
         <translation>Закрыть Pegasus</translation>
     </message>
@@ -2388,72 +2411,72 @@ in the following directories:</source>
 <context>
     <name>main</name>
     <message>
-        <location filename="../src/frontend/main.qml" line="352"/>
+        <location filename="../src/frontend/main.qml" line="374"/>
         <source>A game is in the disk drive : </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="353"/>
+        <location filename="../src/frontend/main.qml" line="375"/>
         <source>Launch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="354"/>
+        <location filename="../src/frontend/main.qml" line="376"/>
         <source>Eject</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="355"/>
+        <location filename="../src/frontend/main.qml" line="377"/>
         <source>Back</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="392"/>
+        <location filename="../src/frontend/main.qml" line="414"/>
         <source>Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="428"/>
+        <location filename="../src/frontend/main.qml" line="450"/>
         <source>New controller</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="428"/>
+        <location filename="../src/frontend/main.qml" line="450"/>
         <source>Press any button to continue</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="428"/>
+        <location filename="../src/frontend/main.qml" line="450"/>
         <source>please read instructions at the bottom of next view to understand possible actions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="428"/>
+        <location filename="../src/frontend/main.qml" line="450"/>
         <source>mouse and keyboard could be used to help configuration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="621"/>
+        <location filename="../src/frontend/main.qml" line="643"/>
         <source>Create Netplay room ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="624"/>
+        <location filename="../src/frontend/main.qml" line="646"/>
         <source>Play</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="626"/>
+        <location filename="../src/frontend/main.qml" line="648"/>
         <source>Cancel</source>
         <translation type="unfinished">Отменить</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="965"/>
+        <location filename="../src/frontend/main.qml" line="987"/>
         <source>Update available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="965"/>
+        <location filename="../src/frontend/main.qml" line="987"/>
         <source>Updates available</source>
         <translation type="unfinished"></translation>
     </message>
