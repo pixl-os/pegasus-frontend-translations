@@ -1825,7 +1825,7 @@ in den folgenden Verzeichnissen:</translation>
         <translation type="vanished">Allgemeines</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="474"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="485"/>
         <source>Language</source>
         <translation>Sprache</translation>
     </message>
@@ -1904,17 +1904,17 @@ in den folgenden Verzeichnissen:</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="522"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="533"/>
         <source>System information</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="523"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="534"/>
         <source>More information Ip, Cpu, OpenGL ...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="280"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="291"/>
         <source>Storage configuration</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1929,117 +1929,127 @@ in den folgenden Verzeichnissen:</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="289"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="261"/>
+        <source>Video Driver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="262"/>
+        <source>Force video driver to Vulkan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="300"/>
         <source>Storage device</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="290"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="301"/>
         <source>change to over storage</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="308"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="319"/>
         <source>Networks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="325"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="336"/>
         <source>Ethernet Local IP :</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="328"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="339"/>
         <source>Plug your cable to have network</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="342"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="353"/>
         <source>Wifi Local IP :</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="342"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="353"/>
         <source>Wifi used :</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="345"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="356"/>
         <source>Connect your PC to any network</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="353"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="364"/>
         <source>Ethernet network</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="411"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="422"/>
         <source>Wifi activation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="412"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="423"/>
         <source>Enable or disable Wifi</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="439"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="450"/>
         <source>Wifi networks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="467"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="478"/>
         <source>System language</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="475"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="486"/>
         <source>Set your language interface</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="496"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="507"/>
         <source>Keyboard layout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="497"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="508"/>
         <source>Change keyboard layout language</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="515"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="526"/>
         <source>System</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="536"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="547"/>
         <source>Debug mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="537"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="548"/>
         <source>Give me your log baby !!! ;-)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="549"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="560"/>
         <source>Enable mouse support</source>
         <translation>Aktivieren Sie die Mausunterstützung</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="550"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="561"/>
         <source>By default the cursor is visible if there are any pointer devices connected.</source>
         <translation>Standardmäßig ist der Cursor sichtbar, wenn Zeigergeräte angeschlossen sind.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="563"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="574"/>
         <source>Enable virtual keyboard support</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="564"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="575"/>
         <source>By default virtual keyboard is not activated.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2196,7 +2206,7 @@ in den folgenden Verzeichnissen:</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="94"/>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="214"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="216"/>
         <source>Output</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2207,7 +2217,7 @@ in den folgenden Verzeichnissen:</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="119"/>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="242"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="244"/>
         <source>Resolution</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2218,7 +2228,7 @@ in den folgenden Verzeichnissen:</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="145"/>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="270"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="272"/>
         <source>Frequency</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2238,47 +2248,47 @@ in den folgenden Verzeichnissen:</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="194"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="195"/>
         <source>Secondary screen settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="215"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="217"/>
         <source>Choose your output for secondary screen.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="243"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="245"/>
         <source>Choose resolution for secondary screen.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="271"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="273"/>
         <source>Choose frequency for secondary screen.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="297"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="299"/>
         <source>Rotation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="298"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="300"/>
         <source>Choose orientation for your secondary screen.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="324"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="326"/>
         <source>Position</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="325"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="327"/>
         <source>Choose position for your Secondary screen.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="363"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="366"/>
         <source>Apply</source>
         <translation type="unfinished"></translation>
     </message>

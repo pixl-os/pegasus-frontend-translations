@@ -6,7 +6,8 @@ All notable changes to this project will be documented in this file (focus on ch
 - fix to have thread and not core in all translations
 - fix on fr for missing cpp & qml translations (lupdate done)
 - translation fr for some parameterLists
--  generate .ts and add traduction for multi-windows features also for french
+- regenerate all .ts files and add translation for multi-windows features for french
+- regenerate all .ts files and add translation for vulkan video driver menu feature for french
 
 ## [recalbox-integration] - 2022-07-09
 - add fr translation for i915 force-probe menu + fixes
