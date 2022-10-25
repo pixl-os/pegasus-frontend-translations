@@ -1,6 +1,12 @@
 # Change Log
 All notable changes to this project will be documented in this file (focus on change done on recalbox-integration branch).
 
+## [pixL-master] - 2022-10-22
+- add missing translation about:
+	- parameter lists
+	- vulkan driver
+	- boot video volume
+
 ## [recalbox-integration] - 2022-09-12
 - introduction of changelog on this repo
 - fix to have thread and not core in all translations
