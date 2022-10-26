@@ -1702,64 +1702,149 @@ in the following directories:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="51"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="99"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="126"/>
+        <source>none</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="51"/>
+        <source>auto</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="51"/>
+        <source>square pixel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="51"/>
+        <source>config</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="51"/>
+        <source>custom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="51"/>
+        <source>core provided</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="76"/>
+        <source>normal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="76"/>
+        <source>inverted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="76"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="88"/>
+        <source>left</source>
+        <translation type="unfinished">izquierda</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="76"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="88"/>
+        <source>right</source>
+        <translation type="unfinished">derecha</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="88"/>
+        <source>above</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="88"/>
+        <source>below</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="99"/>
+        <source>retro</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="99"/>
+        <source>scanline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="199"/>
         <source>All sounds on</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="199"/>
         <source>sounds off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="199"/>
         <source>Not supported: Videos Sound only</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="199"/>
         <source>Not supported: Musics Only</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="199"/>
         <source>Not supported: Musics or Videos Sound</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="253"/>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="265"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="225"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="247"/>
+        <source>no device detected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="294"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="306"/>
         <source>Legacy (script)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="253"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="294"/>
         <source>Minimal Service Discovery (slow)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="253"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="294"/>
         <source>Full Service Discovery (slower)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="253"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="294"/>
         <source>Device Discovery (quicker)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="259"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="300"/>
         <source>Legacy (full script)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="259"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="300"/>
         <source>Simple one (partial script)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="265"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="306"/>
         <source>Simple one (one commande line)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="362"/>
+        <source>no value</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1810,7 +1895,7 @@ in the following directories:</source>
         <translation type="unfinished">Ajustes</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="485"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="523"/>
         <source>Language</source>
         <translation type="unfinished">Lenguaje</translation>
     </message>
@@ -1853,176 +1938,186 @@ in the following directories:</source>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="184"/>
-        <source>Volume</source>
+        <source>Boot video volume</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="185"/>
-        <source>Set audio volume</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="237"/>
-        <source>Video Configuration</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="244"/>
-        <source>Video configuration</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="245"/>
-        <source>choose output</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="533"/>
-        <source>System information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="534"/>
-        <source>More information Ip, Cpu, OpenGL ...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="291"/>
-        <source>Storage configuration</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="219"/>
-        <source>i915 driver force-probe activation</source>
+        <source>Set audio volume only for boot video</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="220"/>
+        <source>Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="221"/>
+        <source>Set audio volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="273"/>
+        <source>Video Configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="280"/>
+        <source>Video configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="281"/>
+        <source>choose output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="297"/>
+        <source>Vulkan video driver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="572"/>
+        <source>System information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="573"/>
+        <source>More information Ip, Cpu, OpenGL ...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="328"/>
+        <source>Storage configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="255"/>
+        <source>i915 driver force-probe activation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="256"/>
         <source>Any driver issue detected ! Use this option to discover inputs quickly (need reboot)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="261"/>
-        <source>Video Driver</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="262"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="298"/>
         <source>Force video driver to Vulkan</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="300"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="337"/>
         <source>Storage device</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="301"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="338"/>
         <source>change to over storage</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="319"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="356"/>
         <source>Networks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="336"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="373"/>
         <source>Ethernet Local IP :</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="339"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="376"/>
         <source>Plug your cable to have network</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="353"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="390"/>
         <source>Wifi Local IP :</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="353"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="390"/>
         <source>Wifi used :</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="356"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="393"/>
         <source>Connect your PC to any network</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="364"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="401"/>
         <source>Ethernet network</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="422"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="459"/>
         <source>Wifi activation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="423"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="460"/>
         <source>Enable or disable Wifi</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="450"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="488"/>
         <source>Wifi networks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="478"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="516"/>
         <source>System language</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="486"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="524"/>
         <source>Set your language interface</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="507"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="546"/>
         <source>Keyboard layout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="508"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="547"/>
         <source>Change keyboard layout language</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="526"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="565"/>
         <source>System</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="547"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="586"/>
         <source>Debug mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="548"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="587"/>
         <source>Give me your log baby !!! ;-)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="560"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="599"/>
         <source>Enable mouse support</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="561"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="600"/>
         <source>By default the cursor is visible if there are any pointer devices connected.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="574"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="613"/>
         <source>Enable virtual keyboard support</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="575"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="614"/>
         <source>By default virtual keyboard is not activated.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2441,12 +2536,12 @@ in the following directories:</source>
         <translation type="unfinished">Cancelar</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="987"/>
+        <location filename="../src/frontend/main.qml" line="990"/>
         <source>Update available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="987"/>
+        <location filename="../src/frontend/main.qml" line="990"/>
         <source>Updates available</source>
         <translation type="unfinished"></translation>
     </message>
