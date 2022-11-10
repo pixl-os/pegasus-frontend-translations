@@ -854,109 +854,149 @@ dans les répertoires suivants :</translation>
         <translation>Aucune manettes connectées</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="976"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1264"/>
         <source>left back</source>
         <translation>arrière gauche</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="987"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1133"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1275"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1422"/>
         <source>shoulder</source>
         <translation>gachette haut</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1001"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1146"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1289"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1435"/>
         <source>trigger</source>
         <translation>gachette bas</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1014"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1302"/>
         <source>dpad</source>
         <translation>croix directionnelle</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1022"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1310"/>
         <source>up</source>
         <translation>haut</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1035"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1323"/>
         <source>down</source>
         <translation>bas</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1048"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1336"/>
         <source>left</source>
         <translation>gauche</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1061"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1349"/>
         <source>right</source>
         <translation>droite</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1075"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1363"/>
         <source>left stick</source>
         <translation>stick gauche</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1084"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1273"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1372"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1568"/>
         <source>x axis</source>
         <translation>axe x</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1084"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1273"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1372"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1568"/>
         <source>go x axis to left</source>
         <translation>Aller à droit de l&apos;axe x</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1097"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1285"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1385"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1581"/>
         <source>y axis</source>
         <translation>axe y</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1097"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1285"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1385"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1581"/>
         <source>go y axis to up</source>
         <translation>Aller en haut de l&apos;axe y</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1110"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1297"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1399"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1656"/>
         <source>press</source>
         <translation>appuyer</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1122"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1411"/>
         <source>right back</source>
         <translation>Arrière droite</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1158"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1447"/>
         <source>abxy</source>
         <translation>abxy</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1263"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1557"/>
         <source>right stick</source>
         <translation>stick droit</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1315"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1595"/>
+        <source>press button at left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1595"/>
+        <source>-x axis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1610"/>
+        <source>press button at right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1610"/>
+        <source>+x axis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1626"/>
+        <source>press button to up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1626"/>
+        <source>-y axis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1641"/>
+        <source>press button to down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1641"/>
+        <source>+y axis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1674"/>
         <source>center</source>
         <translation>centre</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1324"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1683"/>
         <source>select</source>
         <translation>select</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1338"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1697"/>
         <source>guide/hotkey</source>
         <translation>guide/hotkey</translation>
     </message>
@@ -965,32 +1005,32 @@ dans les répertoires suivants :</translation>
         <translation type="vanished">hotkey</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1351"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1710"/>
         <source>start</source>
         <translation>start</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1448"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1807"/>
         <source>hold down to quit</source>
         <translation>Maintenir pour quitter</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1536"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1895"/>
         <source>hold down to edit</source>
         <translation>Maintenir pour modifier</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1625"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1984"/>
         <source>hold down to remove assignment</source>
         <translation>Maintenir pour supprimer</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1678"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="2037"/>
         <source>press button</source>
         <translation>Presser le bouton</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1678"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="2037"/>
         <source>move axis</source>
         <translation>déplacer l&apos;axis</translation>
     </message>
@@ -1000,12 +1040,12 @@ dans les répertoires suivants :</translation>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1729"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="2088"/>
         <source>select input</source>
         <translation>Sélectionner l&apos;entrée</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1729"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="2088"/>
         <source>controller</source>
         <translation>contrôleur</translation>
     </message>
@@ -1358,64 +1398,94 @@ dans les répertoires suivants :</translation>
         <translation>Personnaliser l&apos;interface</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="147"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="150"/>
+        <source>choose background color interface</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="151"/>
+        <source>Change background color only in interface</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="178"/>
+        <source>choose text color interface</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="179"/>
+        <source>Change text color only in interface</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="206"/>
+        <source>choose selected color interface</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="207"/>
+        <source>Change selected color only in interface</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="231"/>
         <source>Change menu controls</source>
         <translation>Modifier les commandes du menu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="148"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="232"/>
         <source>Change control assignation only in menu</source>
         <translation>changer l&apos;assignation des contrôleurs uniquement dans le menu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="178"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="262"/>
         <source>Multi-Windows</source>
         <translation>Multi-Fenêtres</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="179"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="263"/>
         <source>Once enabled, you can run emulators in separate windows and keep pegasus/theme activated</source>
         <translation>Activé, tu peux lancer l&apos;emulateur et garder Pegasus/Theme actif </translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="191"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="275"/>
         <source>Theme</source>
         <translation>Thème</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="192"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="276"/>
         <source>Change theme system interface</source>
         <translation>Modifier thème de l&apos;interface système</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="205"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="289"/>
         <source>Keep Theme Loaded</source>
         <translation>Garder le thème chargé</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="206"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="290"/>
         <source>Themes could stay loaded during gaming to avoid reloading after(Theme should be compatible)</source>
         <translation>Les themes peuvent restés chargés pour éviter le rechargement (Le thème doit être compatible)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="218"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="302"/>
         <source>Gamelist only</source>
         <translation>Liste de jeux uniquement</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="219"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="303"/>
         <source>Once enabled, only files from gamelist will be take into account. 
 (Best game file loading ;-)</source>
         <translation>Une fois activé, seuls les fichiers de la liste de jeux seront pris en compte. 
 (Meilleur chargement des fichiers de jeu ;-)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="232"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="316"/>
         <source>Deactivate Skraper media</source>
         <translation>Désactiver Skraper</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="233"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="317"/>
         <source>Once enabled, only media from gamelist will be take into account. 
  ( Best loading ;-) / Less Media :-( )</source>
         <translation>Une fois activé, seuls les médias de la gamelist seront pris en compte.
@@ -1911,8 +1981,8 @@ dans les répertoires suivants :</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="51"/>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="99"/>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="126"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="107"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="134"/>
         <source>none</source>
         <translation>aucune</translation>
     </message>
@@ -1932,126 +2002,258 @@ dans les répertoires suivants :</translation>
         <translation>config</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="51"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="52"/>
         <source>custom</source>
         <translation>personnalisé</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="51"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="52"/>
         <source>core provided</source>
         <translation>fourni par le core</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="76"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="84"/>
         <source>normal</source>
         <translation>normal</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="76"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="84"/>
         <source>inverted</source>
         <translation>inversé</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="76"/>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="88"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="84"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="96"/>
         <source>left</source>
         <translation>gauche</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="76"/>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="88"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="84"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="96"/>
         <source>right</source>
         <translation>droite</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="88"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="96"/>
         <source>above</source>
         <translation>au dessus</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="88"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="96"/>
         <source>below</source>
         <translation>en dessous</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="99"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="107"/>
         <source>retro</source>
         <translation>retro</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="99"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="107"/>
         <source>scanline</source>
         <translation>scanline</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="199"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="179"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="193"/>
+        <source>Original</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="179"/>
+        <source>Dark Green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="179"/>
+        <source>Light Green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="179"/>
+        <source>Dark Gray</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
+        <source>Light Gray</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
+        <source>Dark Red</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
+        <source>Light Red</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
+        <source>Dark Pink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="181"/>
+        <source>Light Pink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="181"/>
+        <source>Dark Brown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="181"/>
+        <source>Light Brown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="181"/>
+        <source>Dark Blue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="182"/>
+        <source>Light Blue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="182"/>
+        <source>Orange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="182"/>
+        <source>Yellow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="182"/>
+        <source>Turquoise</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="183"/>
+        <source>Magenta</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="183"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="194"/>
+        <source>Purple</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="183"/>
+        <source>Steel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="183"/>
+        <source>Stone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="193"/>
+        <source>Black</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="193"/>
+        <source>White</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="193"/>
+        <source>Gray</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="194"/>
+        <source>Blue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="194"/>
+        <source>Green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="194"/>
+        <source>Red</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="231"/>
         <source>All sounds on</source>
         <translation>Tous sons allumés</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="199"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="231"/>
         <source>sounds off</source>
         <translation>Sons éteints</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="199"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="232"/>
         <source>Not supported: Videos Sound only</source>
         <translation>Non supporté: Son Vidéos seulement</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="199"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="232"/>
         <source>Not supported: Musics Only</source>
         <translation>Non supporté: Musiques seulement</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="199"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="233"/>
         <source>Not supported: Musics or Videos Sound</source>
         <translation>Non supporté: Musiques ou Son Vidéos seulement</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="225"/>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="247"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="261"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="283"/>
         <source>no device detected</source>
         <translation>pas de matériel detecté</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="294"/>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="306"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="330"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="342"/>
         <source>Legacy (script)</source>
         <translation>Historique (script)</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="294"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="330"/>
         <source>Minimal Service Discovery (slow)</source>
         <translation>Service minimal de découverte (lent)</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="294"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="330"/>
         <source>Full Service Discovery (slower)</source>
         <translation>Service complet de découverte (le plus lent)</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="294"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="330"/>
         <source>Device Discovery (quicker)</source>
         <translation>Découverte Appareil (le plus rapide)</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="300"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="336"/>
         <source>Legacy (full script)</source>
         <translation>Historique (script complet)</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="300"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="336"/>
         <source>Simple one (partial script)</source>
         <translation>La simple (script partiel)</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="306"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="342"/>
         <source>Simple one (one commande line)</source>
         <translation>La simple (une ligne de commande)</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="362"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="398"/>
         <source>no value</source>
         <translation>pas de valeur</translation>
     </message>
@@ -2680,27 +2882,27 @@ dans les répertoires suivants :</translation>
 <context>
     <name>main</name>
     <message>
-        <location filename="../src/frontend/main.qml" line="374"/>
+        <location filename="../src/frontend/main.qml" line="524"/>
         <source>A game is in the disk drive : </source>
         <translation>Un jeu est dans le lecteur de disque : </translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="375"/>
+        <location filename="../src/frontend/main.qml" line="525"/>
         <source>Launch</source>
         <translation>Lancer</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="376"/>
+        <location filename="../src/frontend/main.qml" line="526"/>
         <source>Eject</source>
         <translation>Ejecter</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="377"/>
+        <location filename="../src/frontend/main.qml" line="527"/>
         <source>Back</source>
         <translation>Retour</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="414"/>
+        <location filename="../src/frontend/main.qml" line="564"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
@@ -2709,47 +2911,47 @@ dans les répertoires suivants :</translation>
         <translation type="vanished">Nouveau type de contrôleur détecté</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="450"/>
+        <location filename="../src/frontend/main.qml" line="600"/>
         <source>Press any button to continue</source>
         <translation>Appuyez sur n&apos;importe quel bouton pour continuer</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="450"/>
+        <location filename="../src/frontend/main.qml" line="600"/>
         <source>please read instructions at the bottom of next view to understand possible actions</source>
         <translation>veuillez lire les instructions au bas de la vue suivante pour comprendre les actions possibles</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="450"/>
+        <location filename="../src/frontend/main.qml" line="600"/>
         <source>mouse and keyboard could be used to help configuration</source>
         <translation>la souris et le clavier pourraient être utilisés pour aider à la configuration</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="450"/>
+        <location filename="../src/frontend/main.qml" line="600"/>
         <source>New controller</source>
         <translation>Nouveau contrôleur</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="643"/>
+        <location filename="../src/frontend/main.qml" line="793"/>
         <source>Create Netplay room ?</source>
         <translation>Créer un salon Netplay ?</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="646"/>
+        <location filename="../src/frontend/main.qml" line="796"/>
         <source>Play</source>
         <translation>Jouer</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="648"/>
+        <location filename="../src/frontend/main.qml" line="798"/>
         <source>Cancel</source>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="990"/>
+        <location filename="../src/frontend/main.qml" line="1141"/>
         <source>Update available</source>
         <translation>Mise à jour disponible</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="990"/>
+        <location filename="../src/frontend/main.qml" line="1141"/>
         <source>Updates available</source>
         <translation>Mises à jour disponibles</translation>
     </message>
