@@ -1,7 +1,7 @@
 # Change Log
 All notable changes to this project will be documented in this file (focus on change done on recalbox-integration branch).
 
-## [pixL-master] - yyyy-mm-dd
+## [pixL-master] - 2022-11-10
 - translate colors menu 
 - translate axis n64 controller
 
