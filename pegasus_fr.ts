@@ -948,42 +948,42 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1595"/>
         <source>press button at left</source>
-        <translation type="unfinished"></translation>
+        <translation>appuyer sur le bouton gauche</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1595"/>
         <source>-x axis</source>
-        <translation type="unfinished"></translation>
+        <translation>axe -x</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1610"/>
         <source>press button at right</source>
-        <translation type="unfinished"></translation>
+        <translation>appuyer sur le bouton droit</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1610"/>
         <source>+x axis</source>
-        <translation type="unfinished"></translation>
+        <translation>axe +x</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1626"/>
         <source>press button to up</source>
-        <translation type="unfinished"></translation>
+        <translation>appuyer sur le bouton haut</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1626"/>
         <source>-y axis</source>
-        <translation type="unfinished"></translation>
+        <translation>axe -y</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1641"/>
         <source>press button to down</source>
-        <translation type="unfinished"></translation>
+        <translation>appuyer sur le bouton bas</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1641"/>
         <source>+y axis</source>
-        <translation type="unfinished"></translation>
+        <translation>axe +y</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1674"/>
@@ -1400,32 +1400,32 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="150"/>
         <source>choose background color interface</source>
-        <translation type="unfinished"></translation>
+        <translation>choisir la couleur de l&apos;arrière-plan</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="151"/>
         <source>Change background color only in interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Changer la couleur de l&apos;arrière-plan uniquement dans l&apos;interface</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="178"/>
         <source>choose text color interface</source>
-        <translation type="unfinished"></translation>
+        <translation>choisir la couleur du texte</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="179"/>
         <source>Change text color only in interface</source>
-        <translation type="unfinished"></translation>
+        <translation>choisir la couleur du texte uniquement dans l&apos;interface</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="206"/>
         <source>choose selected color interface</source>
-        <translation type="unfinished"></translation>
+        <translation>choisir la couleur de selection</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="207"/>
         <source>Change selected color only in interface</source>
-        <translation type="unfinished"></translation>
+        <translation>choisir la couleur de selection uniquement dans l&apos;interface</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="231"/>
@@ -2057,133 +2057,133 @@ dans les répertoires suivants :</translation>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="179"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="193"/>
         <source>Original</source>
-        <translation type="unfinished"></translation>
+        <translation>Originale</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="179"/>
         <source>Dark Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Vert sombre</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="179"/>
         <source>Light Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Vert lumineux</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="179"/>
         <source>Dark Gray</source>
-        <translation type="unfinished"></translation>
+        <translation>Gris sombre</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
         <source>Light Gray</source>
-        <translation type="unfinished"></translation>
+        <translation>Gris lumineux</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
         <source>Dark Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Rouge sombre</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
         <source>Light Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Rouge lumineux</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
         <source>Dark Pink</source>
-        <translation type="unfinished"></translation>
+        <translation>Rose sombre</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="181"/>
         <source>Light Pink</source>
-        <translation type="unfinished"></translation>
+        <translation>Rose lumineux</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="181"/>
         <source>Dark Brown</source>
-        <translation type="unfinished"></translation>
+        <translation>Marron sombre</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="181"/>
         <source>Light Brown</source>
-        <translation type="unfinished"></translation>
+        <translation>Marron lumineux</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="181"/>
         <source>Dark Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Bleu sombre</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="182"/>
         <source>Light Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Bleu lumineux</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="182"/>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Orange</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="182"/>
         <source>Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Jaune</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="182"/>
         <source>Turquoise</source>
-        <translation type="unfinished"></translation>
+        <translation>Turquoise</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="183"/>
         <source>Magenta</source>
-        <translation type="unfinished"></translation>
+        <translation>Magenta</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="183"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="194"/>
         <source>Purple</source>
-        <translation type="unfinished"></translation>
+        <translation>Violet</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="183"/>
         <source>Steel</source>
-        <translation type="unfinished"></translation>
+        <translation>Acier</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="183"/>
         <source>Stone</source>
-        <translation type="unfinished"></translation>
+        <translation>Pierre</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="193"/>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Noir</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="193"/>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation>Blanc</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="193"/>
         <source>Gray</source>
-        <translation type="unfinished"></translation>
+        <translation>Gris</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="194"/>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Bleu</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="194"/>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Vert</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="194"/>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Rouge</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="231"/>
