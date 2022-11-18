@@ -1343,7 +1343,7 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="118"/>
         <source>Vulkan Renderer version :</source>
-        <translation>Moteur de rendu Vulkan</translation>
+        <translation>Moteur de rendu Vulkan :</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="123"/>
@@ -1445,7 +1445,7 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="263"/>
         <source>Once enabled, you can run emulators in separate windows and keep pegasus/theme activated</source>
-        <translation>Activé, tu peux lancer l&apos;emulateur et garder Pegasus/Theme actif </translation>
+        <translation>Une fois activé, vous pouvez exécuter les émulateurs et garder pegasus/thème actif</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="275"/>
