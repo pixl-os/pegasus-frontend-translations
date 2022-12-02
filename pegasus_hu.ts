@@ -738,169 +738,169 @@ in the following directories:</source>
         <translation>Nincs gamepad csatlakoztatva</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1264"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1529"/>
         <source>left back</source>
         <translation>bal hátsó</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1275"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1422"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1540"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1687"/>
         <source>shoulder</source>
         <translation>vállgomb</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1289"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1435"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1554"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1700"/>
         <source>trigger</source>
         <translation>ravasz</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1302"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1567"/>
         <source>dpad</source>
         <translation>iránygombok</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1310"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1575"/>
         <source>up</source>
         <translation>fel</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1323"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1588"/>
         <source>down</source>
         <translation>le</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1336"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1601"/>
         <source>left</source>
         <translation>balra</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1349"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1614"/>
         <source>right</source>
         <translation>jobbra</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1363"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1628"/>
         <source>left stick</source>
         <translation>bal kar</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1372"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1568"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1637"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1837"/>
         <source>x axis</source>
         <translation>x tengely</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1372"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1568"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1637"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1837"/>
         <source>go x axis to left</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1385"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1581"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1650"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1850"/>
         <source>y axis</source>
         <translation>y tengely</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1385"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1581"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1650"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1850"/>
         <source>go y axis to up</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1399"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1656"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1664"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1925"/>
         <source>press</source>
         <translation>lenyomás</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1411"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1676"/>
         <source>right back</source>
         <translation>jobb hátsó</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1447"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1712"/>
         <source>abxy</source>
         <translation>abxy</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1557"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1826"/>
         <source>right stick</source>
         <translation>jobb kar</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1595"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1864"/>
         <source>press button at left</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1595"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1864"/>
         <source>-x axis</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1610"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1879"/>
         <source>press button at right</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1610"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1879"/>
         <source>+x axis</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1626"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1895"/>
         <source>press button to up</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1626"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1895"/>
         <source>-y axis</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1641"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1910"/>
         <source>press button to down</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1641"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1910"/>
         <source>+y axis</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1674"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1943"/>
         <source>center</source>
         <translation>közép</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1683"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1952"/>
         <source>select</source>
         <translation>select</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1697"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1966"/>
         <source>guide/hotkey</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1895"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="2164"/>
         <source>hold down to edit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1984"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="2253"/>
         <source>hold down to remove assignment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="2037"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="2306"/>
         <source>press button</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="2037"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="2306"/>
         <source>move axis</source>
         <translation type="unfinished"></translation>
     </message>
@@ -910,12 +910,12 @@ in the following directories:</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="2088"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="2357"/>
         <source>select input</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="2088"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="2357"/>
         <source>controller</source>
         <translation type="unfinished"></translation>
     </message>
@@ -924,12 +924,12 @@ in the following directories:</source>
         <translation type="vanished">guide</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1710"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1979"/>
         <source>start</source>
         <translation>start</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1807"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="2076"/>
         <source>hold down to quit</source>
         <translation>kilépéshez tartsd lenyomva</translation>
     </message>
@@ -1461,7 +1461,7 @@ in the following directories:</source>
 <context>
     <name>MainMenuPanel</name>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="146"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="169"/>
         <source>Settings</source>
         <translation>Beállítások</translation>
     </message>
@@ -1470,52 +1470,52 @@ in the following directories:</source>
         <translation type="vanished">Segítség</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="75"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="97"/>
         <source>Updates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="90"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="112"/>
         <source>Accounts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="104"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="127"/>
         <source>Controllers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="118"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="141"/>
         <source>Interface</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="132"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="155"/>
         <source>Games</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="162"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="185"/>
         <source>Quit</source>
         <translation>Kilépés</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="182"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="205"/>
         <source>Restart</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="193"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="216"/>
         <source>Shutdown</source>
         <translation>Leállítás</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="204"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="227"/>
         <source>Reboot</source>
         <translation>Újraindítás</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="215"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="238"/>
         <source>Exit Pegasus</source>
         <translation>Kilépés</translation>
     </message>
@@ -2439,52 +2439,52 @@ in the following directories:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="232"/>
+        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="235"/>
         <source>Pre-released</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="240"/>
+        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="243"/>
         <source>bytes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="243"/>
+        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="246"/>
         <source>KB</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="246"/>
+        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="249"/>
         <source>MB</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="249"/>
+        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="252"/>
         <source>Size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="249"/>
+        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="252"/>
         <source>Published at</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="318"/>
+        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="331"/>
         <source>Update ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="318"/>
+        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="331"/>
         <source>Retry ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="318"/>
+        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="331"/>
         <source>Restart ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="318"/>
+        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="331"/>
         <source>Reboot ?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2503,7 +2503,7 @@ in the following directories:</source>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="94"/>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="216"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="213"/>
         <source>Output</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2514,7 +2514,7 @@ in the following directories:</source>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="119"/>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="244"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="240"/>
         <source>Resolution</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2524,68 +2524,68 @@ in the following directories:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="145"/>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="272"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="144"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="267"/>
         <source>Frequency</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="146"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="145"/>
         <source>Choose frequency for your primary screen.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="170"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="168"/>
         <source>Rotate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="171"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="169"/>
         <source>Choose orientation for your primary screen.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="195"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="192"/>
         <source>Secondary screen settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="217"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="214"/>
         <source>Choose your output for secondary screen.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="245"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="241"/>
         <source>Choose resolution for secondary screen.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="273"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="268"/>
         <source>Choose frequency for secondary screen.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="299"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="293"/>
         <source>Rotation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="300"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="294"/>
         <source>Choose orientation for your secondary screen.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="326"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="319"/>
         <source>Position</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="327"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="320"/>
         <source>Choose position for your Secondary screen.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="366"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="358"/>
         <source>Apply</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2784,13 +2784,33 @@ in the following directories:</source>
         <translation type="unfinished">Mégse</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="1141"/>
+        <location filename="../src/frontend/main.qml" line="1142"/>
         <source>Update available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="1141"/>
+        <location filename="../src/frontend/main.qml" line="1142"/>
         <source>Updates available</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/main.qml" line="1181"/>
+        <source>Update done !</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/main.qml" line="1184"/>
+        <source>Update done, need restart !</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/main.qml" line="1187"/>
+        <source>Update done, need reboot !</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/main.qml" line="1190"/>
+        <source>Update failed !</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
