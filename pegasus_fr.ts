@@ -633,52 +633,52 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
         <translation type="vanished">Apparier les contrôleurs bluetooth</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="116"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="129"/>
         <source>Bluetooth devices</source>
         <translation>Dispositifs Bluetooth</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="117"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="130"/>
         <source>connect your pads</source>
         <translation>connecter vos manettes</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="133"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="114"/>
         <source>Gamepad layout</source>
         <translation>Disposition des manettes</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="134"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="115"/>
         <source>Show game layout configuration controller</source>
         <translation>Afficher la disposition des contrôleurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="148"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="145"/>
         <source>Advanced controllers configuration</source>
         <translation>Configuration avancée des contrôleurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="149"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="146"/>
         <source>Choose your drivers or Special Controllers</source>
         <translation>Choisissez vos pilotes ou les contrôleurs spéciaux</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="170"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="167"/>
         <source>Controllers inputs</source>
         <translation>Entrées des contrôleurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="395"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="392"/>
         <source>Selected gamepad layout</source>
         <translation>Editer la configuration</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="442"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="439"/>
         <source>Change the order</source>
         <translation>Modifier l&apos;ordre</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="488"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="485"/>
         <source>Stop moving</source>
         <translation>Arrête de bouger</translation>
     </message>
@@ -1448,6 +1448,41 @@ dans les répertoires suivants :</translation>
         <translation>Garder le thème chargé (Beta)</translation>
     </message>
     <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="259"/>
+        <source>Once enabled, only files from gamelist will be take into account.
+(Best game file loading ;-)</source>
+        <translation>Une fois activé, seuls les fichiers de la liste de jeux seront pris en compte.
+(Meilleur chargement des fichiers de jeu ;-)</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="273"/>
+        <source>Once enabled, system gamelist will be seach in priority else game files will be search.
+(Intermediate game file loading)</source>
+        <translation>Une fois activé, la liste de jeux sera cherché en priorité sinon les fichiers de jeux seront cherchés.
+(Chargement intermédiaire des fichiers de jeux)</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="287"/>
+        <source>Once enabled, only media from gamelist will be take into account.
+(Best loading ;-) / Less Media :-( )</source>
+        <translation>Une fois activé, seul les médias de la liste de jeux (gamelist) seront pris en compte.
+(Meilleur chargement ;-) / Moins de media :-( )</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="301"/>
+        <source>Once enabled, during Skraper media scan a media.xml is generated.
+(Quick loading ;-) / All Media :-) )</source>
+        <translation>ne fois activé, pendant le scan des média de Skraper, un media.xml sera généré
+(Chargement rapide ;-) / Tout les médias :-) )</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="315"/>
+        <source>Once enabled, media could be loaded dynamically and when it&apos;s requested.
+(Less memory used :-) / More impact ;-| )</source>
+        <translation>Une fois activé, un média peut être chargé dynamiquement et quand c&apos;est requis.
+(Moins de mémoire utilisée ;-) / Plus d&apos;impact :-| )</translation>
+    </message>
+    <message>
         <source>Multi-Windows</source>
         <translation type="vanished">Multi-Fenêtres</translation>
     </message>
@@ -1457,10 +1492,9 @@ dans les répertoires suivants :</translation>
         <translation>Une fois activé, vous pouvez exécuter les émulateurs et garder pegasus/thème actif</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="287"/>
         <source>Once enabled, only media from gamelist will be take into account. 
  (Best loading ;-) / Less Media :-( )</source>
-        <translation>Une fois activé, seul les médias de la liste de jeux (gamelist) seront pris en compte. (Meilleur chargement ;-) / Moins de media :-( )</translation>
+        <translation type="vanished">Une fois activé, seul les médias de la liste de jeux (gamelist) seront pris en compte. (Meilleur chargement ;-) / Moins de media :-( )</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="300"/>
@@ -1468,10 +1502,9 @@ dans les répertoires suivants :</translation>
         <translation>Liste de média (Beta)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="301"/>
         <source>Once enabled, during Skraper media scan a media.xml is generated. 
  (Quick loading ;-) / All Media :-) )</source>
-        <translation>Une fois activé, pendant le scan des média de Skraper, un media.xml sera généré</translation>
+        <translation type="vanished">Une fois activé, pendant le scan des média de Skraper, un media.xml sera généré</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="314"/>
@@ -1479,10 +1512,9 @@ dans les répertoires suivants :</translation>
         <translation>Media &apos;Sur Demande&apos; (Beta)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="315"/>
         <source>Once enabled, media could be loaded dynamically and when it&apos;s requested. 
  (Less memory used :-) / More impact ;-| )</source>
-        <translation>Une fois activé, un média peut être chargé dynamiquement et quand c&apos;est requis. (Moins de mémoire utilisée ;-) / Plus d&apos;impact :-| )</translation>
+        <translation type="vanished">Une fois activé, un média peut être chargé dynamiquement et quand c&apos;est requis. (Moins de mémoire utilisée ;-) / Plus d&apos;impact :-| )</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="213"/>
@@ -1519,10 +1551,9 @@ dans les répertoires suivants :</translation>
         <translation>Liste de jeux uniquement</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="259"/>
         <source>Once enabled, only files from gamelist will be take into account. 
 (Best game file loading ;-)</source>
-        <translation>Une fois activé, seuls les fichiers de la liste de jeux seront pris en compte. 
+        <translation type="vanished">Une fois activé, seuls les fichiers de la liste de jeux seront pris en compte. 
 (Meilleur chargement des fichiers de jeu ;-)</translation>
     </message>
     <message>
@@ -1531,10 +1562,9 @@ dans les répertoires suivants :</translation>
         <translation>Liste de jeux de préférence (Beta)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="273"/>
         <source>Once enabled, system gamelist will be seach in priority else game files will be search. 
 (Intermediate game file loading)</source>
-        <translation>Une fois activé, la liste de jeux sera cherché en priorité sinon les fichiers de jeux seront cherchés.
+        <translation type="vanished">Une fois activé, la liste de jeux sera cherché en priorité sinon les fichiers de jeux seront cherchés.
         (Chargement intermédiaire des fichiers de jeu ;-)</translation>
     </message>
     <message>

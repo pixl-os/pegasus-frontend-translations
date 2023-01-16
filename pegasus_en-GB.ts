@@ -529,52 +529,52 @@ Only work with Retroarch cores.</translation>
         <translation>Controllers</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="116"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="129"/>
         <source>Bluetooth devices</source>
         <translation>Bluetooth devices</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="117"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="130"/>
         <source>connect your pads</source>
         <translation>connect your pads</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="133"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="114"/>
         <source>Gamepad layout</source>
         <translation>Gamepad layout</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="134"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="115"/>
         <source>Show game layout configuration controller</source>
         <translation>Show game layout configuration controller</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="148"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="145"/>
         <source>Advanced controllers configuration</source>
         <translation>Advanced controllers configuration</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="149"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="146"/>
         <source>Choose your drivers or Special Controllers</source>
         <translation>Choose your drivers or Special Controllers</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="170"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="167"/>
         <source>Controllers inputs</source>
         <translation>Controllers inputs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="395"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="392"/>
         <source>Selected gamepad layout</source>
         <translation>Selected gamepad layout</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="442"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="439"/>
         <source>Change the order</source>
         <translation>Change the order</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="488"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="485"/>
         <source>Stop moving</source>
         <translation>Stop moving</translation>
     </message>
@@ -1331,6 +1331,36 @@ in the following directories:</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="259"/>
+        <source>Once enabled, only files from gamelist will be take into account.
+(Best game file loading ;-)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="273"/>
+        <source>Once enabled, system gamelist will be seach in priority else game files will be search.
+(Intermediate game file loading)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="287"/>
+        <source>Once enabled, only media from gamelist will be take into account.
+(Best loading ;-) / Less Media :-( )</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="301"/>
+        <source>Once enabled, during Skraper media scan a media.xml is generated.
+(Quick loading ;-) / All Media :-) )</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="315"/>
+        <source>Once enabled, media could be loaded dynamically and when it&apos;s requested.
+(Less memory used :-) / More impact ;-| )</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Multi-Windows</source>
         <translation type="vanished">Multi-Windows</translation>
     </message>
@@ -1340,31 +1370,13 @@ in the following directories:</translation>
         <translation>Once enabled, you can run emulators in separate windows and keep pegasus/theme activated</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="287"/>
-        <source>Once enabled, only media from gamelist will be take into account. 
- (Best loading ;-) / Less Media :-( )</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="300"/>
         <source>Medialist (Beta)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="301"/>
-        <source>Once enabled, during Skraper media scan a media.xml is generated. 
- (Quick loading ;-) / All Media :-) )</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="314"/>
         <source>Media &apos;On Demand&apos; (Beta)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="315"/>
-        <source>Once enabled, media could be loaded dynamically and when it&apos;s requested. 
- (Less memory used :-) / More impact ;-| )</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1402,21 +1414,14 @@ in the following directories:</translation>
         <translation>Gamelist only</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="259"/>
         <source>Once enabled, only files from gamelist will be take into account. 
 (Best game file loading ;-)</source>
-        <translation>Once enabled, only files from gamelist will be take into account. 
+        <translation type="vanished">Once enabled, only files from gamelist will be take into account. 
 (Best game file loading ;-)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="272"/>
         <source>Gamelist first (Beta)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="273"/>
-        <source>Once enabled, system gamelist will be seach in priority else game files will be search. 
-(Intermediate game file loading)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
