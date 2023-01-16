@@ -1273,100 +1273,143 @@ in de volgende mappen:</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="138"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="100"/>
         <source>Customize interface</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="150"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="112"/>
         <source>choose background color interface</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="151"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="113"/>
         <source>Change background color only in interface</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="178"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="140"/>
         <source>choose text color interface</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="179"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="141"/>
         <source>Change text color only in interface</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="206"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="168"/>
         <source>choose selected color interface</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="207"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="169"/>
         <source>Change selected color only in interface</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="231"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="193"/>
         <source>Change menu controls</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="232"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="194"/>
         <source>Change control assignation only in menu</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="262"/>
-        <source>Multi-Windows</source>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="206"/>
+        <source>Theme management</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="263"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="227"/>
+        <source>Keep Theme Loaded (Beta)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="241"/>
         <source>Once enabled, you can run emulators in separate windows and keep pegasus/theme activated</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="275"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="287"/>
+        <source>Once enabled, only media from gamelist will be take into account. 
+ (Best loading ;-) / Less Media :-( )</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="300"/>
+        <source>Medialist (Beta)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="301"/>
+        <source>Once enabled, during Skraper media scan a media.xml is generated. 
+ (Quick loading ;-) / All Media :-) )</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="314"/>
+        <source>Media &apos;On Demand&apos; (Beta)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="315"/>
+        <source>Once enabled, media could be loaded dynamically and when it&apos;s requested. 
+ (Less memory used :-) / More impact ;-| )</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="213"/>
         <source>Theme</source>
         <translation type="unfinished">Thema</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="276"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="214"/>
         <source>Change theme system interface</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="289"/>
-        <source>Keep Theme Loaded</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="290"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="228"/>
         <source>Themes could stay loaded during gaming to avoid reloading after(Theme should be compatible)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="302"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="240"/>
+        <source>Multi-Windows (Beta)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="251"/>
+        <source>Games library loading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="258"/>
         <source>Gamelist only</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="303"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="259"/>
         <source>Once enabled, only files from gamelist will be take into account. 
 (Best game file loading ;-)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="316"/>
-        <source>Deactivate Skraper media</source>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="272"/>
+        <source>Gamelist first (Beta)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="317"/>
-        <source>Once enabled, only media from gamelist will be take into account. 
- ( Best loading ;-) / Less Media :-( )</source>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="273"/>
+        <source>Once enabled, system gamelist will be seach in priority else game files will be search. 
+(Intermediate game file loading)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="286"/>
+        <source>Deactivate Skraper media</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2724,92 +2767,92 @@ in de volgende mappen:</translation>
 <context>
     <name>main</name>
     <message>
-        <location filename="../src/frontend/main.qml" line="524"/>
+        <location filename="../src/frontend/main.qml" line="525"/>
         <source>A game is in the disk drive : </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="525"/>
+        <location filename="../src/frontend/main.qml" line="526"/>
         <source>Launch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="526"/>
+        <location filename="../src/frontend/main.qml" line="527"/>
         <source>Eject</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="527"/>
+        <location filename="../src/frontend/main.qml" line="528"/>
         <source>Back</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="564"/>
+        <location filename="../src/frontend/main.qml" line="565"/>
         <source>Error</source>
         <translation>Fout</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="600"/>
+        <location filename="../src/frontend/main.qml" line="601"/>
         <source>New controller</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="600"/>
+        <location filename="../src/frontend/main.qml" line="601"/>
         <source>Press any button to continue</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="600"/>
+        <location filename="../src/frontend/main.qml" line="601"/>
         <source>please read instructions at the bottom of next view to understand possible actions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="600"/>
+        <location filename="../src/frontend/main.qml" line="601"/>
         <source>mouse and keyboard could be used to help configuration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="793"/>
+        <location filename="../src/frontend/main.qml" line="794"/>
         <source>Create Netplay room ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="796"/>
+        <location filename="../src/frontend/main.qml" line="797"/>
         <source>Play</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="798"/>
+        <location filename="../src/frontend/main.qml" line="799"/>
         <source>Cancel</source>
         <translation type="unfinished">Annuleren</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="1142"/>
+        <location filename="../src/frontend/main.qml" line="1185"/>
         <source>Update available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="1142"/>
+        <location filename="../src/frontend/main.qml" line="1185"/>
         <source>Updates available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="1181"/>
+        <location filename="../src/frontend/main.qml" line="1224"/>
         <source>Update done !</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="1184"/>
+        <location filename="../src/frontend/main.qml" line="1227"/>
         <source>Update done, need restart !</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="1187"/>
+        <location filename="../src/frontend/main.qml" line="1230"/>
         <source>Update done, need reboot !</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="1190"/>
+        <location filename="../src/frontend/main.qml" line="1233"/>
         <source>Update failed !</source>
         <translation type="unfinished"></translation>
     </message>
