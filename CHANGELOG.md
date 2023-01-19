@@ -1,6 +1,13 @@
 # Change Log
 All notable changes to this project will be documented in this file (focus on change done on recalbox-integration branch).
 
+## [pixL-master] - 2023-01-16
+- update fr to take into account translation for new parameters/section in menu
+- fix to manage better return to line in menu  and improve translation
+
+## [pixL-master] - 2022-12-01
+- update fr to take into account translation for new texts popup
+
 ## [pixL-master] - 2022-11-18
 - translate fr
 - copy en to en_GB and base_en

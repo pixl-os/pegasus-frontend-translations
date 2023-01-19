@@ -633,52 +633,52 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
         <translation type="vanished">Apparier les contrôleurs bluetooth</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="116"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="129"/>
         <source>Bluetooth devices</source>
         <translation>Dispositifs Bluetooth</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="117"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="130"/>
         <source>connect your pads</source>
         <translation>connecter vos manettes</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="133"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="114"/>
         <source>Gamepad layout</source>
         <translation>Disposition des manettes</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="134"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="115"/>
         <source>Show game layout configuration controller</source>
         <translation>Afficher la disposition des contrôleurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="148"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="145"/>
         <source>Advanced controllers configuration</source>
         <translation>Configuration avancée des contrôleurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="149"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="146"/>
         <source>Choose your drivers or Special Controllers</source>
         <translation>Choisissez vos pilotes ou les contrôleurs spéciaux</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="170"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="167"/>
         <source>Controllers inputs</source>
         <translation>Entrées des contrôleurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="395"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="392"/>
         <source>Selected gamepad layout</source>
         <translation>Editer la configuration</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="442"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="439"/>
         <source>Change the order</source>
         <translation>Modifier l&apos;ordre</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="488"/>
+        <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="485"/>
         <source>Stop moving</source>
         <translation>Arrête de bouger</translation>
     </message>
@@ -1393,102 +1393,189 @@ dans les répertoires suivants :</translation>
         <translation>Interface</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="138"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="100"/>
         <source>Customize interface</source>
         <translation>Personnaliser l&apos;interface</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="150"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="112"/>
         <source>choose background color interface</source>
         <translation>choisir la couleur de l&apos;arrière-plan</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="151"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="113"/>
         <source>Change background color only in interface</source>
         <translation>Changer la couleur de l&apos;arrière-plan uniquement dans l&apos;interface</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="178"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="140"/>
         <source>choose text color interface</source>
         <translation>choisir la couleur du texte</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="179"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="141"/>
         <source>Change text color only in interface</source>
         <translation>choisir la couleur du texte uniquement dans l&apos;interface</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="206"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="168"/>
         <source>choose selected color interface</source>
         <translation>choisir la couleur de selection</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="207"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="169"/>
         <source>Change selected color only in interface</source>
         <translation>choisir la couleur de selection uniquement dans l&apos;interface</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="231"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="193"/>
         <source>Change menu controls</source>
         <translation>Modifier les commandes du menu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="232"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="194"/>
         <source>Change control assignation only in menu</source>
         <translation>changer l&apos;assignation des contrôleurs uniquement dans le menu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="262"/>
-        <source>Multi-Windows</source>
-        <translation>Multi-Fenêtres</translation>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="206"/>
+        <source>Theme management</source>
+        <translation>Gestion du thème</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="263"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="227"/>
+        <source>Keep Theme Loaded (Beta)</source>
+        <translation>Garder le thème chargé (Beta)</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="259"/>
+        <source>Once enabled, only files from gamelist will be take into account.
+(Best game file loading ;-)</source>
+        <translation>Une fois activé, seuls les fichiers de la liste de jeux seront pris en compte.
+(Meilleur chargement des fichiers de jeu ;-)</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="273"/>
+        <source>Once enabled, system gamelist will be seach in priority else game files will be search.
+(Intermediate game file loading)</source>
+        <translation>Une fois activé, la liste de jeux sera cherché en priorité sinon les fichiers de jeux seront cherchés.
+(Chargement intermédiaire des fichiers de jeux)</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="287"/>
+        <source>Once enabled, only media from gamelist will be take into account.
+(Best loading ;-) / Less Media :-( )</source>
+        <translation>Une fois activé, seul les médias de la liste de jeux (gamelist) seront pris en compte.
+(Meilleur chargement ;-) / Moins de media :-( )</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="301"/>
+        <source>Once enabled, during Skraper media scan a media.xml is generated.
+(Quick loading ;-) / All Media :-) )</source>
+        <translation>ne fois activé, pendant le scan des média de Skraper, un media.xml sera généré
+(Chargement rapide ;-) / Tout les médias :-) )</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="315"/>
+        <source>Once enabled, media could be loaded dynamically and when it&apos;s requested.
+(Less memory used :-) / More impact ;-| )</source>
+        <translation>Une fois activé, un média peut être chargé dynamiquement et quand c&apos;est requis.
+(Moins de mémoire utilisée ;-) / Plus d&apos;impact :-| )</translation>
+    </message>
+    <message>
+        <source>Multi-Windows</source>
+        <translation type="vanished">Multi-Fenêtres</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="241"/>
         <source>Once enabled, you can run emulators in separate windows and keep pegasus/theme activated</source>
         <translation>Une fois activé, vous pouvez exécuter les émulateurs et garder pegasus/thème actif</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="275"/>
+        <source>Once enabled, only media from gamelist will be take into account. 
+ (Best loading ;-) / Less Media :-( )</source>
+        <translation type="vanished">Une fois activé, seul les médias de la liste de jeux (gamelist) seront pris en compte. (Meilleur chargement ;-) / Moins de media :-( )</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="300"/>
+        <source>Medialist (Beta)</source>
+        <translation>Liste de média (Beta)</translation>
+    </message>
+    <message>
+        <source>Once enabled, during Skraper media scan a media.xml is generated. 
+ (Quick loading ;-) / All Media :-) )</source>
+        <translation type="vanished">Une fois activé, pendant le scan des média de Skraper, un media.xml sera généré</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="314"/>
+        <source>Media &apos;On Demand&apos; (Beta)</source>
+        <translation>Media &apos;Sur Demande&apos; (Beta)</translation>
+    </message>
+    <message>
+        <source>Once enabled, media could be loaded dynamically and when it&apos;s requested. 
+ (Less memory used :-) / More impact ;-| )</source>
+        <translation type="vanished">Une fois activé, un média peut être chargé dynamiquement et quand c&apos;est requis. (Moins de mémoire utilisée ;-) / Plus d&apos;impact :-| )</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="213"/>
         <source>Theme</source>
         <translation>Thème</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="276"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="214"/>
         <source>Change theme system interface</source>
         <translation>Modifier thème de l&apos;interface système</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="289"/>
         <source>Keep Theme Loaded</source>
-        <translation>Garder le thème chargé</translation>
+        <translation type="vanished">Garder le thème chargé</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="290"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="228"/>
         <source>Themes could stay loaded during gaming to avoid reloading after(Theme should be compatible)</source>
         <translation>Les themes peuvent restés chargés pour éviter le rechargement (Le thème doit être compatible)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="302"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="240"/>
+        <source>Multi-Windows (Beta)</source>
+        <translation>Multi-Fenêtres (Beta)</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="251"/>
+        <source>Games library loading</source>
+        <translation>Chargement de la bibliothèque de jeux</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="258"/>
         <source>Gamelist only</source>
         <translation>Liste de jeux uniquement</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="303"/>
         <source>Once enabled, only files from gamelist will be take into account. 
 (Best game file loading ;-)</source>
-        <translation>Une fois activé, seuls les fichiers de la liste de jeux seront pris en compte. 
+        <translation type="vanished">Une fois activé, seuls les fichiers de la liste de jeux seront pris en compte. 
 (Meilleur chargement des fichiers de jeu ;-)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="316"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="272"/>
+        <source>Gamelist first (Beta)</source>
+        <translation>Liste de jeux de préférence (Beta)</translation>
+    </message>
+    <message>
+        <source>Once enabled, system gamelist will be seach in priority else game files will be search. 
+(Intermediate game file loading)</source>
+        <translation type="vanished">Une fois activé, la liste de jeux sera cherché en priorité sinon les fichiers de jeux seront cherchés.
+        (Chargement intermédiaire des fichiers de jeu ;-)</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="286"/>
         <source>Deactivate Skraper media</source>
         <translation>Désactiver Skraper</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="317"/>
         <source>Once enabled, only media from gamelist will be take into account. 
  ( Best loading ;-) / Less Media :-( )</source>
-        <translation>Une fois activé, seuls les médias de la gamelist seront pris en compte.
+        <translation type="vanished">Une fois activé, seuls les médias de la gamelist seront pris en compte.
  (Meilleur chargement ;-) / Moins de média :-( )</translation>
     </message>
 </context>
@@ -2882,27 +2969,27 @@ dans les répertoires suivants :</translation>
 <context>
     <name>main</name>
     <message>
-        <location filename="../src/frontend/main.qml" line="524"/>
+        <location filename="../src/frontend/main.qml" line="525"/>
         <source>A game is in the disk drive : </source>
         <translation>Un jeu est dans le lecteur de disque : </translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="525"/>
+        <location filename="../src/frontend/main.qml" line="526"/>
         <source>Launch</source>
         <translation>Lancer</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="526"/>
+        <location filename="../src/frontend/main.qml" line="527"/>
         <source>Eject</source>
         <translation>Ejecter</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="527"/>
+        <location filename="../src/frontend/main.qml" line="528"/>
         <source>Back</source>
         <translation>Retour</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="564"/>
+        <location filename="../src/frontend/main.qml" line="565"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
@@ -2911,67 +2998,67 @@ dans les répertoires suivants :</translation>
         <translation type="vanished">Nouveau type de contrôleur détecté</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="600"/>
+        <location filename="../src/frontend/main.qml" line="601"/>
         <source>Press any button to continue</source>
         <translation>Appuyez sur n&apos;importe quel bouton pour continuer</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="600"/>
+        <location filename="../src/frontend/main.qml" line="601"/>
         <source>please read instructions at the bottom of next view to understand possible actions</source>
         <translation>veuillez lire les instructions au bas de la vue suivante pour comprendre les actions possibles</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="600"/>
+        <location filename="../src/frontend/main.qml" line="601"/>
         <source>mouse and keyboard could be used to help configuration</source>
         <translation>la souris et le clavier pourraient être utilisés pour aider à la configuration</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="600"/>
+        <location filename="../src/frontend/main.qml" line="601"/>
         <source>New controller</source>
         <translation>Nouveau contrôleur</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="793"/>
+        <location filename="../src/frontend/main.qml" line="794"/>
         <source>Create Netplay room ?</source>
         <translation>Créer un salon Netplay ?</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="796"/>
+        <location filename="../src/frontend/main.qml" line="797"/>
         <source>Play</source>
         <translation>Jouer</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="798"/>
+        <location filename="../src/frontend/main.qml" line="799"/>
         <source>Cancel</source>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="1142"/>
+        <location filename="../src/frontend/main.qml" line="1185"/>
         <source>Update available</source>
         <translation>Mise à jour disponible</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="1142"/>
+        <location filename="../src/frontend/main.qml" line="1185"/>
         <source>Updates available</source>
         <translation>Mises à jour disponibles</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="1181"/>
+        <location filename="../src/frontend/main.qml" line="1224"/>
         <source>Update done !</source>
         <translation>Mise à jour effectuée !</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="1184"/>
+        <location filename="../src/frontend/main.qml" line="1227"/>
         <source>Update done, need restart !</source>
-        <translation>Mise à jour effectuée, besoin d'un redémarrage de l'interface !</translation>
+        <translation>Mise à jour effectuée, besoin d&apos;un redémarrage de l&apos;interface !</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="1187"/>
+        <location filename="../src/frontend/main.qml" line="1230"/>
         <source>Update done, need reboot !</source>
-        <translation>Mise à jour effectuée, besoin d'un redémarrage de l'OS !</translation>
+        <translation>Mise à jour effectuée, besoin d&apos;un redémarrage de l&apos;OS !</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="1190"/>
+        <location filename="../src/frontend/main.qml" line="1233"/>
         <source>Update failed !</source>
         <translation>Mise à jour echouée !</translation>
     </message>
