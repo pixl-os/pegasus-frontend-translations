@@ -801,7 +801,7 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
         <translation>Options de core</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="308"/>
+        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="309"/>
         <source>Default</source>
         <translation>par défaut</translation>
     </message>
@@ -839,164 +839,164 @@ dans les répertoires suivants :</translation>
 <context>
     <name>GamepadEditor</name>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="100"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="101"/>
         <source>Reset</source>
         <translation>Réinitialiser</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="100"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="101"/>
         <source>You remove now the assignment of </source>
         <translation>Vous supprimez maintenant l&apos;affectation de </translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="209"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="210"/>
         <source>No gamepads connected</source>
         <translation>Aucune manettes connectées</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1529"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1541"/>
         <source>left back</source>
         <translation>arrière gauche</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1540"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1687"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1552"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1699"/>
         <source>shoulder</source>
         <translation>gachette haut</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1554"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1700"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1566"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1712"/>
         <source>trigger</source>
         <translation>gachette bas</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1567"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1579"/>
         <source>dpad</source>
         <translation>croix directionnelle</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1575"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1587"/>
         <source>up</source>
         <translation>haut</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1588"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1600"/>
         <source>down</source>
         <translation>bas</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1601"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1613"/>
         <source>left</source>
         <translation>gauche</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1614"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1626"/>
         <source>right</source>
         <translation>droite</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1628"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1640"/>
         <source>left stick</source>
         <translation>stick gauche</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1637"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1837"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1649"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1849"/>
         <source>x axis</source>
         <translation>axe x</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1637"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1837"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1649"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1849"/>
         <source>go x axis to left</source>
         <translation>Aller à droit de l&apos;axe x</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1650"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1850"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1662"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1862"/>
         <source>y axis</source>
         <translation>axe y</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1650"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1850"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1662"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1862"/>
         <source>go y axis to up</source>
         <translation>Aller en haut de l&apos;axe y</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1664"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1925"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1676"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1937"/>
         <source>press</source>
         <translation>appuyer</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1676"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1688"/>
         <source>right back</source>
         <translation>Arrière droite</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1712"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1724"/>
         <source>abxy</source>
         <translation>abxy</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1826"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1838"/>
         <source>right stick</source>
         <translation>stick droit</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1864"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1876"/>
         <source>press button at left</source>
         <translation>appuyer sur le bouton gauche</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1864"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1876"/>
         <source>-x axis</source>
         <translation>axe -x</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1879"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1891"/>
         <source>press button at right</source>
         <translation>appuyer sur le bouton droit</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1879"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1891"/>
         <source>+x axis</source>
         <translation>axe +x</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1895"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1907"/>
         <source>press button to up</source>
         <translation>appuyer sur le bouton haut</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1895"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1907"/>
         <source>-y axis</source>
         <translation>axe -y</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1910"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1922"/>
         <source>press button to down</source>
         <translation>appuyer sur le bouton bas</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1910"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1922"/>
         <source>+y axis</source>
         <translation>axe +y</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1943"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1955"/>
         <source>center</source>
         <translation>centre</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1952"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1964"/>
         <source>select</source>
         <translation>select</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1966"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1978"/>
         <source>guide/hotkey</source>
         <translation>guide/hotkey</translation>
     </message>
@@ -1005,32 +1005,32 @@ dans les répertoires suivants :</translation>
         <translation type="vanished">hotkey</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1979"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1991"/>
         <source>start</source>
         <translation>start</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="2076"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="2088"/>
         <source>hold down to quit</source>
         <translation>Maintenir pour quitter</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="2164"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="2176"/>
         <source>hold down to edit</source>
         <translation>Maintenir pour modifier</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="2253"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="2265"/>
         <source>hold down to remove assignment</source>
         <translation>Maintenir pour supprimer</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="2306"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="2318"/>
         <source>press button</source>
         <translation>Presser le bouton</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="2306"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="2318"/>
         <source>move axis</source>
         <translation>déplacer l&apos;axis</translation>
     </message>
@@ -1040,12 +1040,12 @@ dans les répertoires suivants :</translation>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="2357"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="2369"/>
         <source>select input</source>
         <translation>Sélectionner l&apos;entrée</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="2357"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="2369"/>
         <source>controller</source>
         <translation>contrôleur</translation>
     </message>
@@ -1666,57 +1666,57 @@ dans les répertoires suivants :</translation>
 <context>
     <name>MainMenuPanel</name>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="97"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="105"/>
         <source>Updates</source>
         <translation>Mise à jours</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="112"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="120"/>
         <source>Accounts</source>
         <translation>Comptes</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="127"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="135"/>
         <source>Controllers</source>
         <translation>Contrôleurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="141"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="149"/>
         <source>Interface</source>
         <translation>Interface</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="155"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="163"/>
         <source>Games</source>
         <translation>Jeux</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="169"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="177"/>
         <source>Settings</source>
         <translation>Paramètres</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="185"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="193"/>
         <source>Quit</source>
         <translation>Quitter</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="205"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="213"/>
         <source>Restart</source>
         <translation>Redémarrer l&apos;interface</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="216"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="224"/>
         <source>Shutdown</source>
         <translation>Arrêter</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="227"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="235"/>
         <source>Reboot</source>
         <translation>Redémarrer</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="238"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="246"/>
         <source>Exit Pegasus</source>
         <translation>Quitter Pegasus</translation>
     </message>
@@ -2463,11 +2463,24 @@ dans les répertoires suivants :</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="297"/>
+        <source>Enabled redshift</source>
+        <translation>Activer redshift</translation>
+    </message>
+    <message>
+        <source>Redshift adjusts the color temperature of your screen according to your surroundings.
+This may help your eyes hurt less if you are working in front of the screen at night.
+Please restart to activate/deactivate</source>
+        <translation type="vanished">Redshift ajuste la température de couleur de votre écran en fonction de votre environnement.
+        Cela peut aider à réduire vos douleurs oculaires si vous travaillez devant l&apos;écran la nuit.
+Merci de redémarrer l&apos;interface pour activer/desactiver</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="316"/>
         <source>Vulkan video driver</source>
         <translation>Driver vidéo Vulkan</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="460"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="479"/>
         <source>Enable or disable Wifi</source>
         <translation>Pour activer ou désactiver Wifi</translation>
     </message>
@@ -2476,17 +2489,17 @@ dans les répertoires suivants :</translation>
         <translation type="vanished">Systèmes</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="572"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="591"/>
         <source>System information</source>
         <translation>Information Système</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="573"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="592"/>
         <source>More information Ip, Cpu, OpenGL ...</source>
         <translation>Plus d&apos;information IP, CPU, OpenGL, etc...</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="328"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="347"/>
         <source>Storage configuration</source>
         <translation>Configuration du stockage</translation>
     </message>
@@ -2495,122 +2508,137 @@ dans les répertoires suivants :</translation>
         <translation type="vanished">Pilote Video</translation>
     </message>
     <message>
+        <source>Redshift adjusts the color temperature of your screen according to your surroundings.
+This may help your eyes hurt less if you are working in front of the screen at night.
+Please restart to be take into account</source>
+        <translation type="vanished">Redshift ajuste la température de couleur de votre écran en fonction de votre environnement.
+Cela peut aider à réduire vos douleurs oculaires si vous travaillez devant l&apos;écran la nuit.
+Veuillez redémarrer pour être pris en compte</translation>
+    </message>
+    <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="298"/>
+        <source>Redshift adjusts the color temperature of your screen according to your surroundings.
+This may help your eyes hurt less if you are working in front of the screen at night.</source>
+        <translation>Redshift ajuste la température de couleur de votre écran en fonction de votre environnement.
+Cela peut aider à réduire vos douleurs oculaires si vous travaillez devant l&apos;écran la nuit.</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="317"/>
         <source>Force video driver to Vulkan</source>
         <translation>Forcer Vulkan pour le pilote video</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="337"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="356"/>
         <source>Storage device</source>
         <translation>Dispositif de stockage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="338"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="357"/>
         <source>change to over storage</source>
         <translation>changer pour un autre stockage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="356"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="375"/>
         <source>Networks</source>
         <translation>Réseaux</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="373"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="392"/>
         <source>Ethernet Local IP :</source>
         <translation>Ethernet IP Local :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="376"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="395"/>
         <source>Plug your cable to have network</source>
         <translation>Branchez un cable pour avoir du réseau</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="390"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="409"/>
         <source>Wifi Local IP :</source>
         <translation>Wifi IP Local :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="390"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="409"/>
         <source>Wifi used :</source>
         <translation>Wifi utilisé :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="393"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="412"/>
         <source>Connect your PC to any network</source>
         <translation>Connecter votre PC à un réseau</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="401"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="420"/>
         <source>Ethernet network</source>
         <translation>Réseau ethernet</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="459"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="478"/>
         <source>Wifi activation</source>
         <translation>Activation du Wifi</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="488"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="507"/>
         <source>Wifi networks</source>
         <translation>Réseaux Wifi</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="516"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="535"/>
         <source>System language</source>
         <translation>Langue du système</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="523"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="542"/>
         <source>Language</source>
         <translation>Langue</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="524"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="543"/>
         <source>Set your language interface</source>
         <translation>Définissez votre langue d&apos;interface</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="546"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="565"/>
         <source>Keyboard layout</source>
         <translation>Disposition du clavier</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="547"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="566"/>
         <source>Change keyboard layout language</source>
         <translation>Changer la langue de la disposition du clavier</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="565"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="584"/>
         <source>System</source>
         <translation>Système</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="586"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="605"/>
         <source>Debug mode</source>
         <translation>Mode débogage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="587"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="606"/>
         <source>Give me your log baby !!! ;-)</source>
         <translation>Donne-moi ton log bébé ! !! ;-)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="599"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="618"/>
         <source>Enable mouse support</source>
         <translation>Activer le support de la souris</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="600"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="619"/>
         <source>By default the cursor is visible if there are any pointer devices connected.</source>
         <translation>Par défaut, le curseur est visible si des dispositifs de pointage sont connectés.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="613"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="632"/>
         <source>Enable virtual keyboard support</source>
         <translation>Activer le support du clavier virtuel</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="614"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="633"/>
         <source>By default virtual keyboard is not activated.</source>
         <translation>Par defaut le clavier virtuel n&apos;est pas activé.</translation>
     </message>
@@ -2701,35 +2729,40 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="249"/>
         <source>MB</source>
-        <translation>MB</translation>
+        <translation>Mo</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="252"/>
+        <source>GB</source>
+        <translation>Go</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="255"/>
         <source>Size</source>
         <translation>Taille</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="252"/>
+        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="255"/>
         <source>Published at</source>
         <translation>Publié à</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="331"/>
+        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="334"/>
         <source>Update ?</source>
         <translation>Mise à jour ?</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="331"/>
+        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="334"/>
         <source>Retry ?</source>
         <translation>Refaire ?</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="331"/>
+        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="334"/>
         <source>Restart ?</source>
         <translation>Redémarrer l&apos;interface ?</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="331"/>
+        <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="334"/>
         <source>Reboot ?</source>
         <translation>Redémarrer ?</translation>
     </message>
@@ -2969,27 +3002,27 @@ dans les répertoires suivants :</translation>
 <context>
     <name>main</name>
     <message>
-        <location filename="../src/frontend/main.qml" line="525"/>
+        <location filename="../src/frontend/main.qml" line="529"/>
         <source>A game is in the disk drive : </source>
         <translation>Un jeu est dans le lecteur de disque : </translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="526"/>
+        <location filename="../src/frontend/main.qml" line="530"/>
         <source>Launch</source>
         <translation>Lancer</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="527"/>
+        <location filename="../src/frontend/main.qml" line="531"/>
         <source>Eject</source>
         <translation>Ejecter</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="528"/>
+        <location filename="../src/frontend/main.qml" line="532"/>
         <source>Back</source>
         <translation>Retour</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="565"/>
+        <location filename="../src/frontend/main.qml" line="569"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
@@ -2998,67 +3031,107 @@ dans les répertoires suivants :</translation>
         <translation type="vanished">Nouveau type de contrôleur détecté</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="601"/>
+        <source>Reboot</source>
+        <translation type="vanished">Redémarrer</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation type="vanished">Redémarrer l&apos;interface</translation>
+    </message>
+    <message>
+        <source>Parameter(s) changed need reboot</source>
+        <translation type="vanished">Paramètre(s) changé(s) nécessitant un redémarrage de l&apos;OS</translation>
+    </message>
+    <message>
+        <source>Parameter(s) changed need restart</source>
+        <translation type="vanished">Paramètre(s) changé(s) nécessitant un redémarrage de l&apos;interface</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/main.qml" line="361"/>
+        <source>The system will reboot. Are you sure?</source>
+        <translation>Le système va redémarrer. Vous êtes sûr ?</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/main.qml" line="366"/>
+        <source>Pegasus will restart. Are you sure?</source>
+        <translation>Pegasus va redémarrer. Es-tu sur ?</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/main.qml" line="371"/>
+        <source>Parameter(s) changed - the system needs to reboot to take into account.
+Are you sure?</source>
+        <translation>Paramètre(s) changé(s) - le système doit redémarrer pour le prendre en compte.
+Es-tu sur?</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/main.qml" line="376"/>
+        <source>Parameter(s) changed - Pegasus needs to restart to take into account.
+Are you sure?</source>
+        <translation>Paramètre(s) changé(s) - Pegasus doit redémarrer pour le prendre en compte.
+Es-tu sur?</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/main.qml" line="614"/>
         <source>Press any button to continue</source>
         <translation>Appuyez sur n&apos;importe quel bouton pour continuer</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="601"/>
+        <location filename="../src/frontend/main.qml" line="614"/>
         <source>please read instructions at the bottom of next view to understand possible actions</source>
         <translation>veuillez lire les instructions au bas de la vue suivante pour comprendre les actions possibles</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="601"/>
+        <location filename="../src/frontend/main.qml" line="614"/>
         <source>mouse and keyboard could be used to help configuration</source>
         <translation>la souris et le clavier pourraient être utilisés pour aider à la configuration</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="601"/>
+        <location filename="../src/frontend/main.qml" line="614"/>
         <source>New controller</source>
         <translation>Nouveau contrôleur</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="794"/>
+        <location filename="../src/frontend/main.qml" line="807"/>
         <source>Create Netplay room ?</source>
         <translation>Créer un salon Netplay ?</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="797"/>
+        <location filename="../src/frontend/main.qml" line="810"/>
         <source>Play</source>
         <translation>Jouer</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="799"/>
+        <location filename="../src/frontend/main.qml" line="812"/>
         <source>Cancel</source>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="1185"/>
+        <location filename="../src/frontend/main.qml" line="1198"/>
         <source>Update available</source>
         <translation>Mise à jour disponible</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="1185"/>
+        <location filename="../src/frontend/main.qml" line="1198"/>
         <source>Updates available</source>
         <translation>Mises à jour disponibles</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="1224"/>
+        <location filename="../src/frontend/main.qml" line="1237"/>
         <source>Update done !</source>
         <translation>Mise à jour effectuée !</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="1227"/>
+        <location filename="../src/frontend/main.qml" line="1240"/>
         <source>Update done, need restart !</source>
         <translation>Mise à jour effectuée, besoin d&apos;un redémarrage de l&apos;interface !</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="1230"/>
+        <location filename="../src/frontend/main.qml" line="1243"/>
         <source>Update done, need reboot !</source>
         <translation>Mise à jour effectuée, besoin d&apos;un redémarrage de l&apos;OS !</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="1233"/>
+        <location filename="../src/frontend/main.qml" line="1246"/>
         <source>Update failed !</source>
         <translation>Mise à jour echouée !</translation>
     </message>

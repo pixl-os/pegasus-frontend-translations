@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to this project will be documented in this file (focus on change done on recalbox-integration branch).
 
+## [pixL-master] - 2023-03-18
+- update fr for redshift menu, reboot/restart dialog box when parameter(s) changed, and MB/GB
+
 ## [pixL-master] - 2023-01-16
 - update fr to take into account translation for new parameters/section in menu
 - fix to manage better return to line in menu  and improve translation
