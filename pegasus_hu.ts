@@ -161,168 +161,164 @@ Only work with Retroarch cores.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="122"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="125"/>
+        <source>Enable Auto pairing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="126"/>
+        <source>Enable support of autopairing during 5 min after boot for bluetooth controllers.
+Please reboot to apply change</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="144"/>
         <source>Scanning Method</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="123"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="145"/>
         <source>Select Legacy or any new ones</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="142"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="164"/>
         <source>Pairing Device Method</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="143"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="165"/>
         <source>Select legacy or simple one</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="162"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="184"/>
         <source>Forget Device Method</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="163"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="185"/>
         <source>Select Legacy or simple one</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="181"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="203"/>
         <source>Enable ERTM</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="182"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="204"/>
         <source>Enable additional enhanced retransmission mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="195"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="217"/>
         <source>Hide Unknown Vendor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="196"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="218"/>
         <source>Hide device identified as Unknown Vendor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="209"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="231"/>
         <source>Hide No Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="210"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="232"/>
         <source>Hide device without name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="223"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="245"/>
         <source>Reset Bluetooth at start</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="224"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="246"/>
         <source>The goal is to restart the bluetooth stack at start/restart of Pegasus - could resolve issue of pairing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="238"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="260"/>
         <source>Sony PS3 bluetooth controllers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="256"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="278"/>
         <source>Sony PS3 Sixaxis drivers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="257"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="279"/>
         <source>Choose a driver between bluez, official and shanwan for Sisaxis</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="341"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="363"/>
         <source>Arcade Stick Driver</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="348"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="370"/>
         <source>Enable driver XGaming&apos;s</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="349"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="371"/>
         <source>XGaming&apos;s XArcade Tankstick and other compatible devices</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="359"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="381"/>
         <source>Dolphin emulators controllers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="366"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="388"/>
         <source>Wiimote sensor bar position</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="367"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="389"/>
         <source>set position to 1 for the sensor bar at the top of the screen, to 0 for the sensor bar at the bottom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="379"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="401"/>
         <source>Use authentics Wiimotes controllers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="380"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="402"/>
         <source>Use authentics Wiimotes pads in wii emulator (dolphin-emu)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="392"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="414"/>
         <source>Use authentics Gamecube pads</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="393"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="415"/>
         <source>Use authentics Gamecube pads in Gamecube emulator (dolphin-emu)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="403"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="425"/>
         <source>Joycon controllers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="410"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="432"/>
         <source>Joycon support</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="411"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="433"/>
         <source>Use authentics Joycon pads</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="422"/>
-        <source>Xbox One/Series controllers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="429"/>
-        <source>xow daemon activation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="430"/>
-        <source>Stop/Start daemon to help Xbox One/Series wireless dongle usage - no need to restart</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -405,96 +401,96 @@ Only work with Retroarch cores.</source>
 <context>
     <name>BluetoothDevices</name>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="841"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="861"/>
         <source>Controllers &gt; Bluetooth devices</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="890"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="910"/>
         <source>My Devices</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="969"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="989"/>
         <source>Do you want to forget or disconnect this device ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="969"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="989"/>
         <source>Are you sure to forget this device ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="972"/>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1009"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="992"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1029"/>
         <source>Forget</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="972"/>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1247"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="992"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1267"/>
         <source>Yes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="973"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="993"/>
         <source>Disconnect</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="974"/>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1137"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="994"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1157"/>
         <source>Cancel</source>
         <translation type="unfinished">Mégse</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="974"/>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1249"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="994"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1269"/>
         <source>No</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1009"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1029"/>
         <source>Forget/Disconnect</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1040"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1060"/>
         <source>Discovered devices</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1132"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1152"/>
         <source>Do you want to pair or ignored this device ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1135"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1155"/>
         <source>Pair</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1136"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1156"/>
         <source>Ignored</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1170"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1190"/>
         <source>Pair/Ignore ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1201"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1221"/>
         <source>Ignored Devices</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1244"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1264"/>
         <source>Are you sure to unblock this device ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1281"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1301"/>
         <source>Unblock</source>
         <translation type="unfinished"></translation>
     </message>
