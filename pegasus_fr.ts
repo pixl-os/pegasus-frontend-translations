@@ -204,87 +204,100 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
         <translation type="vanished">Activer le support des contrôleurs bluetooth</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="122"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="125"/>
+        <source>Enable Auto pairing</source>
+        <translation>Activer l&apos;appairage automatique</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="126"/>
+        <source>Enable support of autopairing during 5 min after boot for bluetooth controllers.
+Please reboot to apply change</source>
+        <translation>Active l&apos;appairage des contrôleurs bluetooth pendant 5 min après le démarrage.
+Merci de redémarrer pour prendre en compte les changements</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="144"/>
         <source>Scanning Method</source>
         <translation>Méthode de balayage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="123"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="145"/>
         <source>Select Legacy or any new ones</source>
         <translation>Sélectionnez Legacy ou autre</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="142"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="164"/>
         <source>Pairing Device Method</source>
         <translation>Méthode de jumelage des dispositifs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="143"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="165"/>
         <source>Select legacy or simple one</source>
         <translation>Sélectionnez legacy ou autre</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="162"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="184"/>
         <source>Forget Device Method</source>
         <translation>Méthode d&apos;oubli du dispositif</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="163"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="185"/>
         <source>Select Legacy or simple one</source>
         <translation>Sélectionnez legacy ou autre</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="181"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="203"/>
         <source>Enable ERTM</source>
         <translation>Activer ERTM</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="182"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="204"/>
         <source>Enable additional enhanced retransmission mode</source>
         <translation>Activer le mode de retransmission amélioré supplémentaire</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="195"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="217"/>
         <source>Hide Unknown Vendor</source>
         <translation>Cacher les dispositifs inconnu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="196"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="218"/>
         <source>Hide device identified as Unknown Vendor</source>
         <translation>Cacher les dispositif identifié comme étant inconnu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="209"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="231"/>
         <source>Hide No Name</source>
         <translation>Cacher les dispositifs sans nom</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="210"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="232"/>
         <source>Hide device without name</source>
         <translation>Cacher les dispositifs sans nom de construteur ou de produit</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="223"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="245"/>
         <source>Reset Bluetooth at start</source>
         <translation>Réinitialiser Bluetooth au démarrage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="224"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="246"/>
         <source>The goal is to restart the bluetooth stack at start/restart of Pegasus - could resolve issue of pairing</source>
-        <translation>L&apos;objectif est de redémarrer le Bluetooth au démarrage/redémarrage de Pegasus - pourrait résoudre le problème d&apos;appairage</translation>
+        <translation>L&apos;objectif est de redémarrer le Bluetooth au démarrage/redémarrage de Pegasus.
+Peut résoudre un problème d&apos;appairage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="238"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="260"/>
         <source>Sony PS3 bluetooth controllers</source>
         <translation>Sony PS3 bluetooth controllers</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="256"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="278"/>
         <source>Sony PS3 Sixaxis drivers</source>
         <translation>Sony PS3 Sixaxis drivers</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="257"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="279"/>
         <source>Choose a driver between bluez, official and shanwan for Sisaxis</source>
         <translation>Choisissez un driver entre bluez, driver officiel et shanwan pour Sixasis</translation>
     </message>
@@ -293,24 +306,21 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
         <translation type="vanished">Contrôleurs Sony</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="341"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="363"/>
         <source>Arcade Stick Driver</source>
         <translation>Driver Stick Arcade</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="422"/>
         <source>Xbox One/Series controllers</source>
-        <translation>Contrôleurs Xbox One/Series</translation>
+        <translation type="vanished">Contrôleurs Xbox One/Series</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="429"/>
         <source>xow daemon activation</source>
-        <translation>Activation du script xow</translation>
+        <translation type="vanished">Activation du script xow</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="430"/>
         <source>Stop/Start daemon to help Xbox One/Series wireless dongle usage - no need to restart</source>
-        <translation>Script d&apos;arrêt/démarrage pour faciliter l&apos;utilisation du dongle sans fil Xbox One/Series - pas besoin de redémarrer</translation>
+        <translation type="vanished">Script d&apos;arrêt/démarrage pour faciliter l&apos;utilisation du dongle sans fil Xbox One/Series - pas besoin de redémarrer</translation>
     </message>
     <message>
         <source>Enable Sony Playstation bluetooth controllers</source>
@@ -369,62 +379,62 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
         <translation type="vanished">Stick arcade</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="348"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="370"/>
         <source>Enable driver XGaming&apos;s</source>
         <translation>Activer le driver XGaming&apos;s</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="349"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="371"/>
         <source>XGaming&apos;s XArcade Tankstick and other compatible devices</source>
         <translation>XGaming&apos;s XArcade Tankstick et autre périphériques compatible</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="359"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="381"/>
         <source>Dolphin emulators controllers</source>
         <translation>Emulateur de contrôleur Dolphin</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="366"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="388"/>
         <source>Wiimote sensor bar position</source>
         <translation>Position de la barre du capteur de la Wiimote</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="367"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="389"/>
         <source>set position to 1 for the sensor bar at the top of the screen, to 0 for the sensor bar at the bottom</source>
         <translation>définir la position à 1 pour haut de l&apos;écran, 0 pour bas</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="379"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="401"/>
         <source>Use authentics Wiimotes controllers</source>
         <translation>Utiliser des contrôleurs Wiimotes authentiques</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="380"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="402"/>
         <source>Use authentics Wiimotes pads in wii emulator (dolphin-emu)</source>
         <translation>Utiliser des manettes Wiimotes authentiques dans l&apos;émulateur Wii (dolphin-emu)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="392"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="414"/>
         <source>Use authentics Gamecube pads</source>
         <translation>Utilisez des manettes Gamecube authentiques</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="393"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="415"/>
         <source>Use authentics Gamecube pads in Gamecube emulator (dolphin-emu)</source>
         <translation>Utiliser des manettes Gamecube authentiques dans l&apos;émulateur Gamecube (dolphin-emu)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="403"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="425"/>
         <source>Joycon controllers</source>
         <translation>Contrôleurs Joycon</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="410"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="432"/>
         <source>Joycon support</source>
         <translation>Support pour les Joycon</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="411"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="433"/>
         <source>Use authentics Joycon pads</source>
         <translation>Utilisez des manettes Joycon authentiques</translation>
     </message>
@@ -508,96 +518,96 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
 <context>
     <name>BluetoothDevices</name>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="841"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="861"/>
         <source>Controllers &gt; Bluetooth devices</source>
         <translation>Manettes &gt; Dispositifs Bluetooth</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="890"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="910"/>
         <source>My Devices</source>
         <translation>Mes appareils</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="969"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="989"/>
         <source>Do you want to forget or disconnect this device ?</source>
         <translation>Voulez-vous oublier ou déconnecter ce dispositif ?</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="969"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="989"/>
         <source>Are you sure to forget this device ?</source>
         <translation>Etes-vous sûr d&apos;oublier cet appareil ?</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="972"/>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1009"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="992"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1029"/>
         <source>Forget</source>
         <translation>Oublier</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="972"/>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1247"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="992"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1267"/>
         <source>Yes</source>
         <translation>Oui</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="973"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="993"/>
         <source>Disconnect</source>
         <translation>Déconnecter</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="974"/>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1137"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="994"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1157"/>
         <source>Cancel</source>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="974"/>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1249"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="994"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1269"/>
         <source>No</source>
         <translation>Non</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1009"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1029"/>
         <source>Forget/Disconnect</source>
         <translation>Oublier/Déconnecter</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1040"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1060"/>
         <source>Discovered devices</source>
         <translation>Dispositifs découverts</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1132"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1152"/>
         <source>Do you want to pair or ignored this device ?</source>
         <translation>Voulez-vous jumeler ou ignorer cet appareil ?</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1135"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1155"/>
         <source>Pair</source>
         <translation>Appairer</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1136"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1156"/>
         <source>Ignored</source>
         <translation>Ignorer</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1170"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1190"/>
         <source>Pair/Ignore ?</source>
         <translation>Appairer/Ignorer ?</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1201"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1221"/>
         <source>Ignored Devices</source>
         <translation>Dispositifs ignorés</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1244"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1264"/>
         <source>Are you sure to unblock this device ?</source>
         <translation>Êtes-vous sûr de pouvoir débloquer cet appareil ?</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1281"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1301"/>
         <source>Unblock</source>
         <translation>Débloquer</translation>
     </message>
@@ -2508,14 +2518,6 @@ Merci de redémarrer l&apos;interface pour activer/desactiver</translation>
         <translation type="vanished">Pilote Video</translation>
     </message>
     <message>
-        <source>Redshift adjusts the color temperature of your screen according to your surroundings.
-This may help your eyes hurt less if you are working in front of the screen at night.
-Please restart to be take into account</source>
-        <translation type="vanished">Redshift ajuste la température de couleur de votre écran en fonction de votre environnement.
-Cela peut aider à réduire vos douleurs oculaires si vous travaillez devant l&apos;écran la nuit.
-Veuillez redémarrer pour être pris en compte</translation>
-    </message>
-    <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="298"/>
         <source>Redshift adjusts the color temperature of your screen according to your surroundings.
 This may help your eyes hurt less if you are working in front of the screen at night.</source>
@@ -2719,12 +2721,12 @@ Cela peut aider à réduire vos douleurs oculaires si vous travaillez devant l&a
     <message>
         <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="243"/>
         <source>bytes</source>
-        <translation>bytes</translation>
+        <translation>octets</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="246"/>
         <source>KB</source>
-        <translation>KB</translation>
+        <translation>Ko</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/UpdatesMain.qml" line="249"/>
@@ -3025,26 +3027,6 @@ Cela peut aider à réduire vos douleurs oculaires si vous travaillez devant l&a
         <location filename="../src/frontend/main.qml" line="569"/>
         <source>Error</source>
         <translation>Erreur</translation>
-    </message>
-    <message>
-        <source>New type of controller detected</source>
-        <translation type="vanished">Nouveau type de contrôleur détecté</translation>
-    </message>
-    <message>
-        <source>Reboot</source>
-        <translation type="vanished">Redémarrer</translation>
-    </message>
-    <message>
-        <source>Restart</source>
-        <translation type="vanished">Redémarrer l&apos;interface</translation>
-    </message>
-    <message>
-        <source>Parameter(s) changed need reboot</source>
-        <translation type="vanished">Paramètre(s) changé(s) nécessitant un redémarrage de l&apos;OS</translation>
-    </message>
-    <message>
-        <source>Parameter(s) changed need restart</source>
-        <translation type="vanished">Paramètre(s) changé(s) nécessitant un redémarrage de l&apos;interface</translation>
     </message>
     <message>
         <location filename="../src/frontend/main.qml" line="361"/>
