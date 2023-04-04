@@ -85,7 +85,7 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
         <translation>Jouez un son si vous débloquez un trophée.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="209"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="223"/>
         <source>Netplay</source>
         <translation>Netplay</translation>
     </message>
@@ -111,74 +111,84 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
         <translation>Activer le son débloqué</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="226"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="208"/>
+        <source>Challenge indicators</source>
+        <translation>Indicateurs de défi</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="209"/>
+        <source>Allow achievements to display an on-screen indicator while the achievement can be earned.</source>
+        <translation>Autorise à afficher un indicateur à l'écran lorsque le succès peut être gagné.</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="240"/>
         <source>Netplay nickname</source>
         <translation>Surnom netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="227"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="241"/>
         <source>Set your netplay nickname</source>
         <translation>Définir votre pseudo netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="233"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="247"/>
         <source>Nickname</source>
         <translation>Pseudo</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="247"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="261"/>
         <source>Netplay rooms</source>
         <translation>Salons Netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="248"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="262"/>
         <source>Play online on many systems.
  (current games online, Friends, etc...)</source>
         <translation>Jouer en ligne sur beaucoup de systèmes.
  (Jeux en ligne en cours, amis, etc...)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="261"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="275"/>
         <source>Password netplay</source>
         <translation>Mot de passe netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="270"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="284"/>
         <source>Activate password netplay players</source>
         <translation>Activer le mot de passe pour les joueurs netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="271"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="285"/>
         <source>Set password for other players join your game</source>
         <translation>Définissez un mot de passe pour rejoindre votre jeu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="286"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="300"/>
         <source>Password netplay players</source>
         <translation>Mot de passe joueurs netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="287"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="301"/>
         <source>Choose password for join session</source>
         <translation>Choisissez un mot de passe pour rejoindre la session</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="308"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="322"/>
         <source>Activate password for netplay spectator</source>
         <translation>Activer le mot de passe pour les spectateurs netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="309"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="323"/>
         <source>Set password for netplay spectator</source>
         <translation>Définissez un mot de passe pour les spectateurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="324"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="338"/>
         <source>Password netplay spectator</source>
         <translation>Mot de passe spectateurs netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="325"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="339"/>
         <source>Choose password for netplay spectator</source>
         <translation>Choisissez un mot de passe pour les spectateurs de votre session</translation>
     </message>
@@ -2151,206 +2161,206 @@ dans les répertoires suivants :</translation>
         <translation>scanline</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="179"/>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="193"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="184"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="198"/>
         <source>Original</source>
         <translation>Originale</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="179"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="184"/>
         <source>Dark Green</source>
         <translation>Vert sombre</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="179"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="184"/>
         <source>Light Green</source>
         <translation>Vert lumineux</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="179"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="184"/>
         <source>Dark Gray</source>
         <translation>Gris sombre</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="185"/>
         <source>Light Gray</source>
         <translation>Gris lumineux</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="185"/>
         <source>Dark Red</source>
         <translation>Rouge sombre</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="185"/>
         <source>Light Red</source>
         <translation>Rouge lumineux</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="180"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="185"/>
         <source>Dark Pink</source>
         <translation>Rose sombre</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="181"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="186"/>
         <source>Light Pink</source>
         <translation>Rose lumineux</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="181"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="186"/>
         <source>Dark Brown</source>
         <translation>Marron sombre</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="181"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="186"/>
         <source>Light Brown</source>
         <translation>Marron lumineux</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="181"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="186"/>
         <source>Dark Blue</source>
         <translation>Bleu sombre</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="182"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="187"/>
         <source>Light Blue</source>
         <translation>Bleu lumineux</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="182"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="187"/>
         <source>Orange</source>
         <translation>Orange</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="182"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="187"/>
         <source>Yellow</source>
         <translation>Jaune</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="182"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="187"/>
         <source>Turquoise</source>
         <translation>Turquoise</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="183"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="188"/>
         <source>Magenta</source>
         <translation>Magenta</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="183"/>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="194"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="188"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="199"/>
         <source>Purple</source>
         <translation>Violet</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="183"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="188"/>
         <source>Steel</source>
         <translation>Acier</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="183"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="188"/>
         <source>Stone</source>
         <translation>Pierre</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="193"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="198"/>
         <source>Black</source>
         <translation>Noir</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="193"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="198"/>
         <source>White</source>
         <translation>Blanc</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="193"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="198"/>
         <source>Gray</source>
         <translation>Gris</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="194"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="199"/>
         <source>Blue</source>
         <translation>Bleu</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="194"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="199"/>
         <source>Green</source>
         <translation>Vert</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="194"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="199"/>
         <source>Red</source>
         <translation>Rouge</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="231"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="236"/>
         <source>All sounds on</source>
         <translation>Tous sons allumés</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="231"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="236"/>
         <source>sounds off</source>
         <translation>Sons éteints</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="232"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="237"/>
         <source>Not supported: Videos Sound only</source>
         <translation>Non supporté: Son Vidéos seulement</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="232"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="237"/>
         <source>Not supported: Musics Only</source>
         <translation>Non supporté: Musiques seulement</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="233"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="238"/>
         <source>Not supported: Musics or Videos Sound</source>
         <translation>Non supporté: Musiques ou Son Vidéos seulement</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="261"/>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="283"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="266"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="288"/>
         <source>no device detected</source>
         <translation>pas de matériel detecté</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="330"/>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="342"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="335"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="347"/>
         <source>Legacy (script)</source>
         <translation>Historique (script)</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="330"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="335"/>
         <source>Minimal Service Discovery (slow)</source>
         <translation>Service minimal de découverte (lent)</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="330"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="335"/>
         <source>Full Service Discovery (slower)</source>
         <translation>Service complet de découverte (le plus lent)</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="330"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="335"/>
         <source>Device Discovery (quicker)</source>
         <translation>Découverte Appareil (le plus rapide)</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="336"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="341"/>
         <source>Legacy (full script)</source>
         <translation>Historique (script complet)</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="336"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="341"/>
         <source>Simple one (partial script)</source>
         <translation>La simple (script partiel)</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="342"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="347"/>
         <source>Simple one (one commande line)</source>
         <translation>La simple (une ligne de commande)</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="398"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="403"/>
         <source>no value</source>
         <translation>pas de valeur</translation>
     </message>

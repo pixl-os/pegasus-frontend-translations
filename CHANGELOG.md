@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file (focus on change done on recalbox-integration branch).
 
+## [pixL-master] - 2023-04-05
+- translate fr for bluetooth/xbox controller changes + some fixes
+- translate fr for cheevos option
+
 ## [pixL-master] - 2023-03-18
 - update fr for redshift menu, reboot/restart dialog box when parameter(s) changed, and MB/GB
 
