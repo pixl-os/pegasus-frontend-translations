@@ -2254,6 +2254,12 @@ in the following directories:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="317"/>
+        <source>Force video driver to Vulkan.
+Beware some hardware is not compatible with this option used with care !</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="591"/>
         <source>System information</source>
         <translation type="unfinished"></translation>
@@ -2287,11 +2293,6 @@ in the following directories:</source>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="298"/>
         <source>Redshift adjusts the color temperature of your screen according to your surroundings.
 This may help your eyes hurt less if you are working in front of the screen at night.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="317"/>
-        <source>Force video driver to Vulkan</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
