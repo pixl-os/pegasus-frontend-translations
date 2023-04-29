@@ -118,7 +118,7 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
     <message>
         <location filename="../src/frontend/menu/settings/AccountMain.qml" line="209"/>
         <source>Allow achievements to display an on-screen indicator while the achievement can be earned.</source>
-        <translation>Autorise à afficher un indicateur à l'écran lorsque le succès peut être gagné.</translation>
+        <translation>Autorise à afficher un indicateur à l&apos;écran lorsque le succès peut être gagné.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AccountMain.qml" line="240"/>
@@ -930,7 +930,7 @@ dans les répertoires suivants :</translation>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1649"/>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1849"/>
         <source>go x axis to left</source>
-        <translation>Aller à droit de l&apos;axe x</translation>
+        <translation>Aller vers la gauche pour l&apos;axe x</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1662"/>
@@ -942,7 +942,7 @@ dans les répertoires suivants :</translation>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1662"/>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1862"/>
         <source>go y axis to up</source>
-        <translation>Aller en haut de l&apos;axe y</translation>
+        <translation>Aller vers le haut pour l&apos;axe y</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="1676"/>
@@ -2500,6 +2500,13 @@ Merci de redémarrer l&apos;interface pour activer/desactiver</translation>
         <translation>Driver vidéo Vulkan</translation>
     </message>
     <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="317"/>
+        <source>Force video driver to Vulkan.
+Beware some hardware is not compatible with this option used with care !</source>
+        <translation>Forcer Vulkan pour le pilote video
+Attention certains matériels ne sont pas compatibles avec cette option à utiliser avec précaution !</translation>
+    </message>
+    <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="479"/>
         <source>Enable or disable Wifi</source>
         <translation>Pour activer ou désactiver Wifi</translation>
@@ -2535,9 +2542,8 @@ This may help your eyes hurt less if you are working in front of the screen at n
 Cela peut aider à réduire vos douleurs oculaires si vous travaillez devant l&apos;écran la nuit.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="317"/>
         <source>Force video driver to Vulkan</source>
-        <translation>Forcer Vulkan pour le pilote video</translation>
+        <translation type="vanished">Forcer Vulkan pour le pilote video</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="356"/>

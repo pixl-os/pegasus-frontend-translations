@@ -2290,6 +2290,12 @@ in the following directories:</translation>
         <translation>Vulkan video driver</translation>
     </message>
     <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="317"/>
+        <source>Force video driver to Vulkan.
+Beware some hardware is not compatible with this option used with care !</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="591"/>
         <source>System information</source>
         <translation>System information</translation>
@@ -2326,9 +2332,8 @@ This may help your eyes hurt less if you are working in front of the screen at n
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="317"/>
         <source>Force video driver to Vulkan</source>
-        <translation>Force video driver to Vulkan</translation>
+        <translation type="vanished">Force video driver to Vulkan</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="356"/>
