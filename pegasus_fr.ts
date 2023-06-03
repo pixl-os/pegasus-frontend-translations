@@ -1492,7 +1492,7 @@ dans les répertoires suivants :</translation>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="301"/>
         <source>Once enabled, during Skraper media scan a media.xml is generated.
 (Quick loading ;-) / All Media :-) )</source>
-        <translation>ne fois activé, pendant le scan des média de Skraper, un media.xml sera généré
+        <translation>Une fois activé, pendant le scan des média de Skraper, un media.xml sera généré
 (Chargement rapide ;-) / Tout les médias :-) )</translation>
     </message>
     <message>
