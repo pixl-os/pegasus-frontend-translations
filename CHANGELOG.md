@@ -1,7 +1,11 @@
 # Change Log
 All notable changes to this project will be documented in this file (focus on change done on recalbox-integration branch).
-## [pixL-master] - 2023-xx-xx
-- fix translate fr for mistake latter in sentance
+
+## [pixL-master] - 2024-05-01
+- french translations for video settings/controllers/games settings
+
+## [pixL-master] - 2023-06-02
+- fix translate fr for mistake letter in sentence
 
 ## [pixL-master] - 2023-04-29
 - fix translate fr for axis direction
