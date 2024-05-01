@@ -4,12 +4,12 @@
 <context>
     <name>AccountMain</name>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="56"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="55"/>
         <source>Accounts</source>
         <translation>Comptes</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="109"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="106"/>
         <source>Retroachievement</source>
         <translation>Retroachievement</translation>
     </message>
@@ -26,52 +26,52 @@
         <translation type="vanished">Connexion à retroarchievement</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="126"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="122"/>
         <source>If you don&apos;t have an account go to the site :
  https://retroachievements.org/</source>
         <translation>Si vous n&apos;avez pas encore de compte, aller sur le site :
  https://retroachievements.org/</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="133"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="129"/>
         <source>Pseudo</source>
         <translation>Pseudo</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="146"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="143"/>
         <source>then login with your username and password</source>
         <translation>puis connectez-vous avec votre speudo et votre mot de passe</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="145"/>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="152"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="142"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="149"/>
         <source>Password</source>
         <translation>Mot de passe</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="125"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="121"/>
         <source>Username</source>
         <translation>Nom utilisateur</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="166"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="163"/>
         <source>Hardcore retroachievement</source>
         <translation>Retroachievement hardcore</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="167"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="164"/>
         <source>Unlock trophies without cheats and rewind. 
 Only work with Retroarch cores.</source>
         <translation>Déverrouillez les trophées sans triche ni retour en arrière.
 Fonctionne uniquement avec les cores Retroarch.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="180"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="174"/>
         <source>Auto screenshot</source>
         <translation>Capture d&apos;écran automatique</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="181"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="175"/>
         <source>Take an screenshot when an achievement is triggere.</source>
         <translation>Faites une capture d&apos;écran lorsqu&apos;un trophée est débloqué.</translation>
     </message>
@@ -80,12 +80,12 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
         <translation type="vanished">Activer le son de déverrouillage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="195"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="186"/>
         <source>Play Sounds if you unlock a trophies.</source>
         <translation>Jouez un son si vous débloquez un trophée.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="223"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="219"/>
         <source>Netplay</source>
         <translation>Netplay</translation>
     </message>
@@ -106,89 +106,102 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
         <translation type="vanished">Afficher les informations netplay, roms etc ...</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="194"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="185"/>
         <source>Activate unlock sounds</source>
         <translation>Activer le son débloqué</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="208"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="196"/>
         <source>Challenge indicators</source>
         <translation>Indicateurs de défi</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="209"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="197"/>
         <source>Allow achievements to display an on-screen indicator while the achievement can be earned.</source>
         <translation>Autorise à afficher un indicateur à l&apos;écran lorsque le succès peut être gagné.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="240"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="207"/>
+        <source>Retroachievement Games search (Beta)</source>
+        <translation>Recherche des jeux avec 'Retroachievements' (Beta)</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="208"/>
+        <source>Check and identify games with retroachievents.
+Using md5 hash calculation during list loading (could be slow during first scrollings)</source>
+        <translation>Vérifie et identifie les jeux avec retroachievements.
+Utilisant le calcul de hash md5 pendant le chargement des listes de jeux
+(peut être lent pendant les premiers défilements)</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="234"/>
         <source>Netplay nickname</source>
         <translation>Surnom netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="241"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="235"/>
         <source>Set your netplay nickname</source>
         <translation>Définir votre pseudo netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="247"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="242"/>
         <source>Nickname</source>
         <translation>Pseudo</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="261"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="256"/>
         <source>Netplay rooms</source>
         <translation>Salons Netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="262"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="257"/>
         <source>Play online on many systems.
  (current games online, Friends, etc...)</source>
         <translation>Jouer en ligne sur beaucoup de systèmes.
  (Jeux en ligne en cours, amis, etc...)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="275"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="270"/>
         <source>Password netplay</source>
         <translation>Mot de passe netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="284"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="279"/>
         <source>Activate password netplay players</source>
         <translation>Activer le mot de passe pour les joueurs netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="285"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="280"/>
         <source>Set password for other players join your game</source>
         <translation>Définissez un mot de passe pour rejoindre votre jeu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="300"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="294"/>
         <source>Password netplay players</source>
         <translation>Mot de passe joueurs netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="301"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="295"/>
         <source>Choose password for join session</source>
         <translation>Choisissez un mot de passe pour rejoindre la session</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="322"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="338"/>
         <source>Activate password for netplay spectator</source>
         <translation>Activer le mot de passe pour les spectateurs netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="323"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="339"/>
         <source>Set password for netplay spectator</source>
         <translation>Définissez un mot de passe pour les spectateurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="338"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="353"/>
         <source>Password netplay spectator</source>
         <translation>Mot de passe spectateurs netplay</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="339"/>
+        <location filename="../src/frontend/menu/settings/AccountMain.qml" line="354"/>
         <source>Choose password for netplay spectator</source>
         <translation>Choisissez un mot de passe pour les spectateurs de votre session</translation>
     </message>
@@ -196,12 +209,12 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
 <context>
     <name>AdvancedControllersConf</name>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="51"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="76"/>
         <source>Controllers &gt; Advanced controllers configuration</source>
         <translation>Contrôleurs &gt; Configuration avancée des manettes</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="103"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="136"/>
         <source>Bluetooth controlers</source>
         <translation>Contrôleurs Bluetooth</translation>
     </message>
@@ -214,109 +227,182 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
         <translation type="vanished">Activer le support des contrôleurs bluetooth</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="125"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="158"/>
         <source>Enable Auto pairing</source>
         <translation>Activer l&apos;appairage automatique</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="126"/>
         <source>Enable support of autopairing during 5 min after boot for bluetooth controllers.
 Please reboot to apply change</source>
-        <translation>Active l&apos;appairage des contrôleurs bluetooth pendant 5 min après le démarrage.
+        <translation type="vanished">Active l&apos;appairage des contrôleurs bluetooth pendant 5 min après le démarrage.
 Merci de redémarrer pour prendre en compte les changements</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="144"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="159"/>
+        <source>Enable support of autopairing during 5 min after boot
+This Pairing is not persistent after reboot, Please reboot to apply change</source>
+        <translation>Active l'appairage automatique pendant 5 minutes après le démarrage,
+Il n'est pas forcément persistant (redémarrer pour appliquer ce paramètre)</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="179"/>
         <source>Scanning Method</source>
         <translation>Méthode de balayage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="145"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="180"/>
         <source>Select Legacy or any new ones</source>
         <translation>Sélectionnez Legacy ou autre</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="164"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="226"/>
         <source>Pairing Device Method</source>
         <translation>Méthode de jumelage des dispositifs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="165"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="227"/>
         <source>Select legacy or simple one</source>
         <translation>Sélectionnez legacy ou autre</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="184"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="273"/>
         <source>Forget Device Method</source>
         <translation>Méthode d&apos;oubli du dispositif</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="185"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="274"/>
         <source>Select Legacy or simple one</source>
         <translation>Sélectionnez legacy ou autre</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="203"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="317"/>
         <source>Enable ERTM</source>
         <translation>Activer ERTM</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="204"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="318"/>
         <source>Enable additional enhanced retransmission mode</source>
         <translation>Activer le mode de retransmission amélioré supplémentaire</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="217"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="331"/>
         <source>Hide Unknown Vendor</source>
         <translation>Cacher les dispositifs inconnu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="218"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="332"/>
         <source>Hide device identified as Unknown Vendor</source>
         <translation>Cacher les dispositif identifié comme étant inconnu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="231"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="345"/>
         <source>Hide No Name</source>
         <translation>Cacher les dispositifs sans nom</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="232"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="346"/>
         <source>Hide device without name</source>
         <translation>Cacher les dispositifs sans nom de construteur ou de produit</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="245"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="359"/>
         <source>Reset Bluetooth at start</source>
         <translation>Réinitialiser Bluetooth au démarrage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="246"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="360"/>
         <source>The goal is to restart the bluetooth stack at start/restart of Pegasus - could resolve issue of pairing</source>
         <translation>L&apos;objectif est de redémarrer le Bluetooth au démarrage/redémarrage de Pegasus.
 Peut résoudre un problème d&apos;appairage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="260"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="374"/>
         <source>Sony PS3 bluetooth controllers</source>
         <translation>Sony PS3 bluetooth controllers</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="278"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="395"/>
         <source>Sony PS3 Sixaxis drivers</source>
         <translation>Sony PS3 Sixaxis drivers</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="279"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="396"/>
         <source>Choose a driver between bluez, official and shanwan for Sisaxis</source>
         <translation>Choisissez un driver entre bluez, driver officiel et shanwan pour Sixasis</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="586"/>
+        <source>Lightguns</source>
+        <translation>Lightguns</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="594"/>
+        <source>Sinden lightgun crossair enabled</source>
+        <translation>Activation du réticule pour le Sinden lightgun</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="595"/>
+        <source>Force crossair display for compatible games</source>
+        <translation>Affichage forcé du réticule pour les jeux compatibles</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="612"/>
+        <source>Sinden lightgun border color</source>
+        <translation>Couleur de la bordure pour le Sinden lightgun</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="613"/>
+        <source>Select the border&apos;s color for sinden lightguns</source>
+        <translation>Choix de la couleur de la bordure du Sinden lightgun</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="680"/>
+        <source>Sinden lightgun border size</source>
+        <translation>Taille de la bordure du Sinden lightgun</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="681"/>
+        <source>Select the border&apos;s size for sinden lightguns</source>
+        <translation>Choix de la taille de la bordure du Sinden lightgun</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="727"/>
+        <source>Sinden lightgun recoil mode</source>
+        <translation>Mode du recul du Sinden Lightgun</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="728"/>
+        <source>Select the behavior of sinden lightgun recoils</source>
+        <translation>Choix du comportement du recul du Sinden lightgun</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="817"/>
+        <source>Restart Sinden Lightgun service (apply changes)</source>
+        <translation>Redémarrer le service du Sinden (changements inclus)</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="827"/>
+        <source>Are you ready to restart service
+and change settings ?</source>
+        <translation>Etes-vous sur de vouloir redémarrer le service
+et changer le paramétrage ?</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="830"/>
+        <source>Yes</source>
+        <translation>Oui</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="832"/>
+        <source>No</source>
+        <translation>Non</translation>
     </message>
     <message>
         <source>Sony controllers</source>
         <translation type="vanished">Contrôleurs Sony</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="363"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="505"/>
         <source>Arcade Stick Driver</source>
         <translation>Driver Stick Arcade</translation>
     </message>
@@ -389,62 +475,62 @@ Peut résoudre un problème d&apos;appairage</translation>
         <translation type="vanished">Stick arcade</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="370"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="512"/>
         <source>Enable driver XGaming&apos;s</source>
         <translation>Activer le driver XGaming&apos;s</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="371"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="513"/>
         <source>XGaming&apos;s XArcade Tankstick and other compatible devices</source>
         <translation>XGaming&apos;s XArcade Tankstick et autre périphériques compatible</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="381"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="523"/>
         <source>Dolphin emulators controllers</source>
         <translation>Emulateur de contrôleur Dolphin</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="388"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="530"/>
         <source>Wiimote sensor bar position</source>
         <translation>Position de la barre du capteur de la Wiimote</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="389"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="531"/>
         <source>set position to 1 for the sensor bar at the top of the screen, to 0 for the sensor bar at the bottom</source>
         <translation>définir la position à 1 pour haut de l&apos;écran, 0 pour bas</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="401"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="543"/>
         <source>Use authentics Wiimotes controllers</source>
         <translation>Utiliser des contrôleurs Wiimotes authentiques</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="402"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="544"/>
         <source>Use authentics Wiimotes pads in wii emulator (dolphin-emu)</source>
         <translation>Utiliser des manettes Wiimotes authentiques dans l&apos;émulateur Wii (dolphin-emu)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="414"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="556"/>
         <source>Use authentics Gamecube pads</source>
         <translation>Utilisez des manettes Gamecube authentiques</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="415"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="557"/>
         <source>Use authentics Gamecube pads in Gamecube emulator (dolphin-emu)</source>
         <translation>Utiliser des manettes Gamecube authentiques dans l&apos;émulateur Gamecube (dolphin-emu)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="425"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="567"/>
         <source>Joycon controllers</source>
         <translation>Contrôleurs Joycon</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="432"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="574"/>
         <source>Joycon support</source>
         <translation>Support pour les Joycon</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="433"/>
+        <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="575"/>
         <source>Use authentics Joycon pads</source>
         <translation>Utilisez des manettes Joycon authentiques</translation>
     </message>
@@ -452,9 +538,129 @@ Peut résoudre un problème d&apos;appairage</translation>
 <context>
     <name>AdvancedEmulatorMain</name>
     <message>
-        <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="42"/>
+        <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="52"/>
         <source>Games &gt; Advanced emulators settings</source>
         <translation>Jeux &gt; Paramètres avancés des émulateurs</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="102"/>
+        <source>Cemu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="103"/>
+        <source>Change Configuration for Cemu emulator for Nintendo Wiiu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="116"/>
+        <source>Citra-emu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="117"/>
+        <source>Change Configuration for Citra-emu emulator for Nintendo 3ds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="130"/>
+        <source>Dolphin</source>
+        <translation type="unfinished">Dolphin</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="131"/>
+        <source>Change Configuration for Dolphin emulator for Nintendo GameCube and Wii.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="144"/>
+        <source>Dolphin-Triforce</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="145"/>
+        <source>Change Configuration for Dolphin-Triforce emulator for Triforce arcade systems.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="158"/>
+        <source>Duckstation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="159"/>
+        <source>Change Configuration for Duckstation emulator for Playstation 1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="172"/>
+        <source>Model2emu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="173"/>
+        <source>Change Configuration for Model2 emulator for Sega Model2 !</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="186"/>
+        <source>Pcsx2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="187"/>
+        <source>Change Configuration for Pcsx2 emulator for Sony Playstation 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="200"/>
+        <source>PPSSPP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="201"/>
+        <source>Change Configuration for PPSSPP emulator for Sony Playstation Portable !</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="215"/>
+        <source>Retroarch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="216"/>
+        <source>Change Configuration for retroarch/libretro multi emulator !</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="229"/>
+        <source>Supermodel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="230"/>
+        <source>Change Configuration for Supermodel emulator for Sega Model3 !</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="243"/>
+        <source>Xemu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="244"/>
+        <source>Change Configuration for Xemu emulator for Microsoft Xbox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="257"/>
+        <source>Yuzu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="258"/>
+        <source>Change Configuration for Yuzu emulator for Nintendo switch</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -528,96 +734,96 @@ Peut résoudre un problème d&apos;appairage</translation>
 <context>
     <name>BluetoothDevices</name>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="861"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="880"/>
         <source>Controllers &gt; Bluetooth devices</source>
         <translation>Manettes &gt; Dispositifs Bluetooth</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="910"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="929"/>
         <source>My Devices</source>
         <translation>Mes appareils</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="989"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1008"/>
         <source>Do you want to forget or disconnect this device ?</source>
         <translation>Voulez-vous oublier ou déconnecter ce dispositif ?</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="989"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1008"/>
         <source>Are you sure to forget this device ?</source>
         <translation>Etes-vous sûr d&apos;oublier cet appareil ?</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="992"/>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1029"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1011"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1048"/>
         <source>Forget</source>
         <translation>Oublier</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="992"/>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1267"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1011"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1286"/>
         <source>Yes</source>
         <translation>Oui</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="993"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1012"/>
         <source>Disconnect</source>
         <translation>Déconnecter</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="994"/>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1157"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1013"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1176"/>
         <source>Cancel</source>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="994"/>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1269"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1013"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1288"/>
         <source>No</source>
         <translation>Non</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1029"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1048"/>
         <source>Forget/Disconnect</source>
         <translation>Oublier/Déconnecter</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1060"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1079"/>
         <source>Discovered devices</source>
         <translation>Dispositifs découverts</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1152"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1171"/>
         <source>Do you want to pair or ignored this device ?</source>
         <translation>Voulez-vous jumeler ou ignorer cet appareil ?</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1155"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1174"/>
         <source>Pair</source>
         <translation>Appairer</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1156"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1175"/>
         <source>Ignored</source>
         <translation>Ignorer</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1190"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1209"/>
         <source>Pair/Ignore ?</source>
         <translation>Appairer/Ignorer ?</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1221"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1240"/>
         <source>Ignored Devices</source>
         <translation>Dispositifs ignorés</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1264"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1283"/>
         <source>Are you sure to unblock this device ?</source>
         <translation>Êtes-vous sûr de pouvoir débloquer cet appareil ?</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1301"/>
+        <location filename="../src/frontend/menu/settings/BluetoothDevices.qml" line="1320"/>
         <source>Unblock</source>
         <translation>Débloquer</translation>
     </message>
@@ -638,6 +844,100 @@ Peut résoudre un problème d&apos;appairage</translation>
         <location filename="../src/frontend/dialogs/CdRomDialog.qml" line="280"/>
         <source>Cancel</source>
         <translation>Annuler</translation>
+    </message>
+</context>
+<context>
+    <name>CemuSettings</name>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/CemuSettings.qml" line="42"/>
+        <source>Advanced emulators settings &gt; Cemu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/CemuSettings.qml" line="89"/>
+        <source>Game screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/CemuSettings.qml" line="127"/>
+        <source>Upscale Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/CemuSettings.qml" line="128"/>
+        <source>Used when the game resolution is smaller than the windows size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/CemuSettings.qml" line="173"/>
+        <source>Downscale Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/CemuSettings.qml" line="174"/>
+        <source>Used when the game resolution is bigger than the windows size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/CemuSettings.qml" line="219"/>
+        <source>Vsync</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/CemuSettings.qml" line="220"/>
+        <source>Choose your vertical sync type.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/CemuSettings.qml" line="260"/>
+        <source>Core options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/CemuSettings.qml" line="267"/>
+        <source>Enable Async Compilation shaders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/CemuSettings.qml" line="268"/>
+        <source>Async shaders and pipeline compilation, reduce stutter at the cost of objects. 
+Not rendering for a short time, vulkan only.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CitraSettings</name>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/CitraSettings.qml" line="42"/>
+        <source>Advanced emulators settings &gt; Citra-emu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/CitraSettings.qml" line="89"/>
+        <source>Game screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/CitraSettings.qml" line="101"/>
+        <source>Internal Resolution</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/CitraSettings.qml" line="102"/>
+        <source>Controls the rendering resolution. 
+A high resolution greatly improves visual quality, 
+But cause issues in certain games.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/CitraSettings.qml" line="147"/>
+        <source>Texture filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/CitraSettings.qml" line="148"/>
+        <source>Reduce the amount of aliasing caused by rasterizing 3d graphics.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -725,105 +1025,261 @@ Peut résoudre un problème d&apos;appairage</translation>
     </message>
 </context>
 <context>
+    <name>DolphinSettings</name>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="42"/>
+        <source>Advanced emulators settings &gt; Dolphin-emu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="89"/>
+        <source>Game screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="101"/>
+        <source>Internal Resolution</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="102"/>
+        <source>Controls the rendering resolution. 
+A high resolution greatly improves visual quality, 
+But cause issues in certain games.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="144"/>
+        <source>Enable Vsync</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="145"/>
+        <source>Enable Vsync for best rendering, but improve performance.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="157"/>
+        <source>Enable Widescreen Hack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="158"/>
+        <source>Force screen ratio to 16/9.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="173"/>
+        <source>Anti-Aliasing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="174"/>
+        <source>Reduce the amount of aliasing caused by rasterizing 3d graphics.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="214"/>
+        <source>Gameplay options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="221"/>
+        <source>Enable Cheats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="222"/>
+        <source>Ingames cheats enable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DolphinTriforceSettings</name>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinTriforceSettings.qml" line="42"/>
+        <source>Advanced emulators settings &gt; Dolphin Triforce</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinTriforceSettings.qml" line="88"/>
+        <source>Game screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinTriforceSettings.qml" line="100"/>
+        <source>Internal Resolution</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinTriforceSettings.qml" line="101"/>
+        <source>Controls the rendering resolution. 
+A high resolution greatly improves visual quality, 
+But cause issues in certain games.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinTriforceSettings.qml" line="143"/>
+        <source>Enable Vsync</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinTriforceSettings.qml" line="144"/>
+        <source>Enable Vsync for best rendering, but improve performance.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinTriforceSettings.qml" line="156"/>
+        <source>Enable Widescreen Hack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinTriforceSettings.qml" line="157"/>
+        <source>Force screen ratio to 16/9.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinTriforceSettings.qml" line="172"/>
+        <source>Anti-Aliasing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinTriforceSettings.qml" line="173"/>
+        <source>Reduce the amount of aliasing caused by rasterizing 3d graphics.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DuckstationSettings</name>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DuckstationSettings.qml" line="42"/>
+        <source>Advanced emulators settings &gt; Duckstation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DuckstationSettings.qml" line="89"/>
+        <source>Game screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DuckstationSettings.qml" line="101"/>
+        <source>Internal Resolution</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DuckstationSettings.qml" line="102"/>
+        <source>Controls the rendering resolution. 
+A high resolution greatly improves visual quality, 
+But cause issues in certain games.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DuckstationSettings.qml" line="144"/>
+        <source>Enable Vsync</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DuckstationSettings.qml" line="145"/>
+        <source>Vertical Syncronisation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DuckstationSettings.qml" line="155"/>
+        <source>Gameplay options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DuckstationSettings.qml" line="162"/>
+        <source>Enable Cheats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/DuckstationSettings.qml" line="163"/>
+        <source>Ingames cheats enable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EmulatorConfiguration</name>
     <message>
-        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="46"/>
         <source>Advanced emulators settings &gt; </source>
-        <translation>Paramètres avancés des émulateurs &gt; </translation>
+        <translation type="vanished">Paramètres avancés des émulateurs &gt; </translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="93"/>
         <source>Game screen</source>
-        <translation>Écran de jeu</translation>
+        <translation type="vanished">Écran de jeu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="105"/>
         <source>Game ratio</source>
-        <translation>Ratio de jeu</translation>
+        <translation type="vanished">Ratio de jeu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="106"/>
         <source>Set ratio for this system (auto,4/3,16/9,16/10,etc...)</source>
-        <translation>Définir le ratio pour ce système (auto,4/3,16/9,16/10,etc...)</translation>
+        <translation type="vanished">Définir le ratio pour ce système (auto,4/3,16/9,16/10,etc...)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="126"/>
         <source>Smooth games</source>
-        <translation>Lissage en jeux</translation>
+        <translation type="vanished">Lissage en jeux</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="127"/>
         <source>Set smooth for this system</source>
-        <translation>Régler le lissage pour ce système</translation>
+        <translation type="vanished">Régler le lissage pour ce système</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="143"/>
         <source>Predefined shaders</source>
-        <translation>Shaders prédéfinis</translation>
+        <translation type="vanished">Shaders prédéfinis</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="144"/>
         <source>Set predefined Shader effect for this system</source>
-        <translation>Définir les effets des shaders prédédefinis pour ce système</translation>
+        <translation type="vanished">Définir les effets des shaders prédédefinis pour ce système</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="168"/>
         <source>Shaders</source>
-        <translation>Shaders</translation>
+        <translation type="vanished">Shaders</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="169"/>
         <source>Set prefered Shader effect</source>
-        <translation>Définir l&apos;effet de shader préféré pour ce système</translation>
+        <translation type="vanished">Définir l&apos;effet de shader préféré pour ce système</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="191"/>
         <source>Set overlay</source>
-        <translation>Définir les overlays</translation>
+        <translation type="vanished">Définir les overlays</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="192"/>
         <source>Set overlay on this system</source>
-        <translation>Définir les overlays pour ce système</translation>
+        <translation type="vanished">Définir les overlays pour ce système</translation>
     </message>
     <message>
         <source>Set prefered Shader effect for this system</source>
         <translation type="vanished">Définir l&apos;effet de shader préféré pour ce système</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="204"/>
         <source>Gameplay options</source>
-        <translation>Options de jeux</translation>
+        <translation type="vanished">Options de jeux</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="213"/>
         <source>Game rewind</source>
-        <translation>Rembobinage du jeu</translation>
+        <translation type="vanished">Rembobinage du jeu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="214"/>
         <source>Set rewind for this system &apos;Only work with Retroarch&apos;</source>
-        <translation>Régler le rembobinage pour ce système &apos;Ne fonctionne qu&apos;avec Retroarch&apos;</translation>
+        <translation type="vanished">Régler le rembobinage pour ce système &apos;Ne fonctionne qu&apos;avec Retroarch&apos;</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="228"/>
         <source>Auto save/load</source>
-        <translation>Sauvegarde/chargement automatique</translation>
+        <translation type="vanished">Sauvegarde/chargement automatique</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="229"/>
         <source>Set autosave/load savestate for this system</source>
-        <translation>Définir l&apos;état de sauvegarde automatique/chargement pour ce système</translation>
+        <translation type="vanished">Définir l&apos;état de sauvegarde automatique/chargement pour ce système</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="240"/>
         <source>Core options</source>
-        <translation>Options de core</translation>
+        <translation type="vanished">Options de core</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/EmulatorConfiguration.qml" line="309"/>
         <source>Default</source>
-        <translation>par défaut</translation>
+        <translation type="vanished">par défaut</translation>
     </message>
 </context>
 <context>
@@ -1073,170 +1529,181 @@ dans les répertoires suivants :</translation>
 <context>
     <name>GamesMain</name>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="55"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="56"/>
         <source>Games</source>
         <translation>Jeux</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="102"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="103"/>
         <source>Game screen</source>
         <translation>Écran de jeu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="114"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="116"/>
         <source>Game ratio</source>
         <translation>Ratio de jeu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="115"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="117"/>
         <source>Set ratio for all emulators (auto,4/3,16/9,16/10,etc...)</source>
         <translation>Définir le ratio pour tout les émulateurs (auto,4/3,16/9,16/10,etc...)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="135"/>
         <source>Pixel perfect</source>
-        <translation>Pixel parfait</translation>
+        <translation type="vanished">Pixel parfait</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="136"/>
         <source>Once enabled, your screen will be cropped, and you will have a pixel perfect image</source>
-        <translation>Une fois activé, votre écran sera rogné, et vous aurez une image parfaite au pixel près</translation>
+        <translation type="vanished">Une fois activé, votre écran sera rogné, et vous aurez une image parfaite au pixel près</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="148"/>
         <source>Smooth games</source>
-        <translation>Lissage en jeux</translation>
+        <translation type="vanished">Lissage en jeux</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="149"/>
         <source>Set smooth for all emulators</source>
-        <translation>Régler le lissage pour tout les émulateurs</translation>
+        <translation type="vanished">Régler le lissage pour tout les émulateurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="163"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="162"/>
         <source>Predefined shader</source>
         <translation>Shaders prédéfini</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="164"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="163"/>
         <source>Set predefined Shader effect</source>
         <translation>Définir les effets des shaders prédéfinis pour tous les émulateurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="186"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="208"/>
         <source>Shaders</source>
         <translation>Shaders</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="187"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="209"/>
         <source>Set prefered Shader effect</source>
         <translation>Définir l&apos;effet du shader préféré pour tous les émulateurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="207"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="251"/>
         <source>Set overlays</source>
         <translation>Définir les overlays</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="208"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="252"/>
         <source>Set overlays for all systems</source>
         <translation>Définir les overlays pour tout les systèmes</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="220"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="264"/>
         <source>Show framerate</source>
         <translation>Afficher le framerate</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="221"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="265"/>
         <source>Show FPS in game</source>
         <translation>Afficher les FPS dans le jeu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="231"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="296"/>
+        <source>Settings systems</source>
+        <translation>Paramètres par systèmes</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="297"/>
+        <source>choose emulators, ratio and more per systems</source>
+        <translation>Choix de l'émulateur, ratio et plus par systèmes</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="311"/>
+        <source>Advanced emulators settings</source>
+        <translation>Paramètres avancés des émulateurs</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="312"/>
+        <source>Configuration per emulators, resolution, antialiasing, etc...</source>
+        <translation>Configuration par émulateurs, résolution, antialiasing, etc...</translation>
+    </message>
+    <message>
         <source>Gameplay options</source>
-        <translation>Options de jeux</translation>
+        <translation type="vanished">Options de jeux</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="238"/>
         <source>Game rewind</source>
-        <translation>Rembobinage du jeu</translation>
+        <translation type="vanished">Rembobinage du jeu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="239"/>
         <source>Set rewind for all emulators &apos;Only work with Retroarch&apos;</source>
-        <translation>Régler le rembobinage pour tout les émulateurs &apos;Ne fonctionne qu&apos;avec Retroarch&apos;</translation>
+        <translation type="vanished">Régler le rembobinage pour tout les émulateurs &apos;Ne fonctionne qu&apos;avec Retroarch&apos;</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="251"/>
         <source>Auto save/load</source>
-        <translation>Sauvegarde/chargement automatique</translation>
+        <translation type="vanished">Sauvegarde/chargement automatique</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="252"/>
         <source>Set autosave/load savestate for all emulators</source>
-        <translation>Définir l&apos;état de sauvegarde automatique/chargement pour tout les émulateurs</translation>
+        <translation type="vanished">Définir l&apos;état de sauvegarde automatique/chargement pour tout les émulateurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="263"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="275"/>
         <source>Other options</source>
         <translation>Autre options</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="270"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="282"/>
         <source>Bios Checking</source>
         <translation>Contrôle des bios</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="271"/>
+        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="283"/>
         <source>Check all necessary bios !</source>
         <translation>Contrôle de tous les bios nécessaires !</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="284"/>
         <source>Advandced emulators settings</source>
-        <translation>Paramètres avancés des émulateurs</translation>
+        <translation type="vanished">Paramètres avancés des émulateurs</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamesMain.qml" line="285"/>
         <source>choose emulator, ratio and more by system</source>
-        <translation>choisir l&apos;émulateur, le ratio et plus par système</translation>
+        <translation type="vanished">choisir l&apos;émulateur, le ratio et plus par système</translation>
     </message>
 </context>
 <context>
     <name>Generic3ChoicesDialog</name>
     <message>
-        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="197"/>
-        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="228"/>
-        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="290"/>
-        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="320"/>
-        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="349"/>
-        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="380"/>
+        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="206"/>
+        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="234"/>
+        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="265"/>
+        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="327"/>
+        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="357"/>
+        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="386"/>
+        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="430"/>
         <source>Please wait...</source>
         <translation>Veuillez patienter...</translation>
     </message>
     <message>
-        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="198"/>
-        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="229"/>
-        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="291"/>
-        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="321"/>
-        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="350"/>
-        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="381"/>
+        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="207"/>
+        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="235"/>
+        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="266"/>
+        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="328"/>
+        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="358"/>
+        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="387"/>
+        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="431"/>
         <source>Under progress...</source>
         <translation>En cours de Progression...</translation>
     </message>
     <message>
-        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="214"/>
+        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="251"/>
         <source>Ok</source>
         <translation>Ok</translation>
     </message>
     <message>
-        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="306"/>
+        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="343"/>
         <source>2nd choice</source>
         <translation>2nd choix</translation>
     </message>
     <message>
-        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="366"/>
+        <location filename="../src/frontend/dialogs/Generic3ChoicesDialog.qml" line="403"/>
         <source>Cancel</source>
         <translation>Annuler</translation>
     </message>
@@ -1301,87 +1768,87 @@ dans les répertoires suivants :</translation>
 <context>
     <name>InformationSystem</name>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="106"/>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="109"/>
         <source>Linux Kernel :</source>
         <translation>Kernel Linux :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="107"/>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="110"/>
         <source>Architecture :</source>
         <translation>Architecture :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="108"/>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="111"/>
         <source>CPU :</source>
         <translation>CPU :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="109"/>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="112"/>
         <source>CPU Thread Number :</source>
         <translation>CPU nombre de thread :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="110"/>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="113"/>
         <source>CPU Maximum Frequency :</source>
         <translation>CPU fréquence maximum :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="111"/>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="114"/>
         <source>RAM (free/total):</source>
         <translation>RAM (Libre/Total) :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="112"/>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="115"/>
         <source>GPU(s) :</source>
         <translation>GPU(s) :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="113"/>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="116"/>
         <source>Video RAM :</source>
         <translation>RAM Vidéo :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="114"/>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="117"/>
         <source>OpenGL ES :</source>
         <translation>ES OpenGL :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="115"/>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="118"/>
         <source>OpenGL Core :</source>
         <translation>Coeur OpenGL :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="116"/>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="119"/>
         <source>OpenGL Vendor/Driver :</source>
         <translation>Fabricant/Driver OpenGL :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="117"/>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="120"/>
         <source>OpenGL Renderer :</source>
         <translation>Moteur OpenGL :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="118"/>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="121"/>
         <source>Vulkan Renderer version :</source>
         <translation>Moteur de rendu Vulkan :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="123"/>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="126"/>
         <source>Wifi Local IP :</source>
         <translation>Wifi IP Local :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="124"/>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="127"/>
         <source>Ethernet Local IP :</source>
         <translation>Ethernet IP Local :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="125"/>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="128"/>
         <source>External IP :</source>
         <translation>IP Externe :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="126"/>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="129"/>
         <source>CPU Temperature :</source>
         <translation>Température du CPU:</translation>
     </message>
@@ -1390,17 +1857,17 @@ dans les répertoires suivants :</translation>
         <translation type="vanished">Température(s) de tous les systèmes :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="135"/>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="138"/>
         <source>Number of system(s) :</source>
         <translation>Nombre de système(s) :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="136"/>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="139"/>
         <source>Number of game(s) :</source>
         <translation>Nombre de jeux :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="150"/>
+        <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="153"/>
         <source>Settings &gt; System Information</source>
         <translation>Paramètres &gt; Information du Système</translation>
     </message>
@@ -1418,85 +1885,95 @@ dans les répertoires suivants :</translation>
         <translation>Personnaliser l&apos;interface</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="112"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="113"/>
         <source>choose background color interface</source>
         <translation>choisir la couleur de l&apos;arrière-plan</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="113"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="114"/>
         <source>Change background color only in interface</source>
         <translation>Changer la couleur de l&apos;arrière-plan uniquement dans l&apos;interface</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="140"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="164"/>
         <source>choose text color interface</source>
         <translation>choisir la couleur du texte</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="141"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="165"/>
         <source>Change text color only in interface</source>
         <translation>choisir la couleur du texte uniquement dans l&apos;interface</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="168"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="215"/>
         <source>choose selected color interface</source>
         <translation>choisir la couleur de selection</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="169"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="216"/>
         <source>Change selected color only in interface</source>
         <translation>choisir la couleur de selection uniquement dans l&apos;interface</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="193"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="263"/>
         <source>Change menu controls</source>
         <translation>Modifier les commandes du menu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="194"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="264"/>
         <source>Change control assignation only in menu</source>
         <translation>changer l&apos;assignation des contrôleurs uniquement dans le menu</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="206"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="276"/>
         <source>Theme management</source>
         <translation>Gestion du thème</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="227"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="322"/>
         <source>Keep Theme Loaded (Beta)</source>
         <translation>Garder le thème chargé (Beta)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="259"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="353"/>
+        <source>Hide embedded games</source>
+        <translation>Cacher les jeux embarqués</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="354"/>
+        <source>Once enabled, default games embedded from pixL will be hide</source>
+        <translation>Après activation, les jeux embarqués dans pixL seront cachés</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="368"/>
         <source>Once enabled, only files from gamelist will be take into account.
 (Best game file loading ;-)</source>
         <translation>Une fois activé, seuls les fichiers de la liste de jeux seront pris en compte.
 (Meilleur chargement des fichiers de jeu ;-)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="273"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="382"/>
         <source>Once enabled, system gamelist will be seach in priority else game files will be search.
 (Intermediate game file loading)</source>
         <translation>Une fois activé, la liste de jeux sera cherché en priorité sinon les fichiers de jeux seront cherchés.
 (Chargement intermédiaire des fichiers de jeux)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="287"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="396"/>
         <source>Once enabled, only media from gamelist will be take into account.
 (Best loading ;-) / Less Media :-( )</source>
         <translation>Une fois activé, seul les médias de la liste de jeux (gamelist) seront pris en compte.
 (Meilleur chargement ;-) / Moins de media :-( )</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="301"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="410"/>
         <source>Once enabled, during Skraper media scan a media.xml is generated.
 (Quick loading ;-) / All Media :-) )</source>
         <translation>Une fois activé, pendant le scan des média de Skraper, un media.xml sera généré
 (Chargement rapide ;-) / Tout les médias :-) )</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="315"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="424"/>
         <source>Once enabled, media could be loaded dynamically and when it&apos;s requested.
 (Less memory used :-) / More impact ;-| )</source>
         <translation>Une fois activé, un média peut être chargé dynamiquement et quand c&apos;est requis.
@@ -1507,7 +1984,7 @@ dans les répertoires suivants :</translation>
         <translation type="vanished">Multi-Fenêtres</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="241"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="336"/>
         <source>Once enabled, you can run emulators in separate windows and keep pegasus/theme activated</source>
         <translation>Une fois activé, vous pouvez exécuter les émulateurs et garder pegasus/thème actif</translation>
     </message>
@@ -1517,7 +1994,7 @@ dans les répertoires suivants :</translation>
         <translation type="vanished">Une fois activé, seul les médias de la liste de jeux (gamelist) seront pris en compte. (Meilleur chargement ;-) / Moins de media :-( )</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="300"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="409"/>
         <source>Medialist (Beta)</source>
         <translation>Liste de média (Beta)</translation>
     </message>
@@ -1527,7 +2004,7 @@ dans les répertoires suivants :</translation>
         <translation type="vanished">Une fois activé, pendant le scan des média de Skraper, un media.xml sera généré</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="314"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="423"/>
         <source>Media &apos;On Demand&apos; (Beta)</source>
         <translation>Media &apos;Sur Demande&apos; (Beta)</translation>
     </message>
@@ -1537,12 +2014,12 @@ dans les répertoires suivants :</translation>
         <translation type="vanished">Une fois activé, un média peut être chargé dynamiquement et quand c&apos;est requis. (Moins de mémoire utilisée ;-) / Plus d&apos;impact :-| )</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="213"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="283"/>
         <source>Theme</source>
         <translation>Thème</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="214"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="284"/>
         <source>Change theme system interface</source>
         <translation>Modifier thème de l&apos;interface système</translation>
     </message>
@@ -1551,22 +2028,22 @@ dans les répertoires suivants :</translation>
         <translation type="vanished">Garder le thème chargé</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="228"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="323"/>
         <source>Themes could stay loaded during gaming to avoid reloading after(Theme should be compatible)</source>
         <translation>Les themes peuvent restés chargés pour éviter le rechargement (Le thème doit être compatible)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="240"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="335"/>
         <source>Multi-Windows (Beta)</source>
         <translation>Multi-Fenêtres (Beta)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="251"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="346"/>
         <source>Games library loading</source>
         <translation>Chargement de la bibliothèque de jeux</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="258"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="367"/>
         <source>Gamelist only</source>
         <translation>Liste de jeux uniquement</translation>
     </message>
@@ -1577,7 +2054,7 @@ dans les répertoires suivants :</translation>
 (Meilleur chargement des fichiers de jeu ;-)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="272"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="381"/>
         <source>Gamelist first (Beta)</source>
         <translation>Liste de jeux de préférence (Beta)</translation>
     </message>
@@ -1588,7 +2065,7 @@ dans les répertoires suivants :</translation>
         (Chargement intermédiaire des fichiers de jeu ;-)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="286"/>
+        <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="395"/>
         <source>Deactivate Skraper media</source>
         <translation>Désactiver Skraper</translation>
     </message>
@@ -1739,6 +2216,184 @@ dans les répertoires suivants :</translation>
         <location filename="../src/frontend/menu/MainMenuPanel.qml" line="246"/>
         <source>Exit Pegasus</source>
         <translation>Quitter Pegasus</translation>
+    </message>
+</context>
+<context>
+    <name>Model2emuSettings</name>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="42"/>
+        <source>Advanced emulators settings &gt; Model2emu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="93"/>
+        <source>Xinput</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="94"/>
+        <source>Enable Xinput mode for controllers (auto mapping forced and manage vibration)
+else Dinput will be used. (on change, need reboot)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="109"/>
+        <source>Fake Gouraud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="110"/>
+        <source>Tries to guess Per-vertex colour (gouraud) from the Model2 per-poly information (flat).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="121"/>
+        <source>Bilinear Filtering</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="122"/>
+        <source>Enables bilinear filtering of textures.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="133"/>
+        <source>Trilinear Filtering</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="134"/>
+        <source>Enables mipmap usage and trilinear filtering. (doesn’t work with some games, DoA for example)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="145"/>
+        <source>Filter Tilemaps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="146"/>
+        <source>Enables bilinear filtering on tilemaps. (looks good, but can cause some stretch artifacts)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="157"/>
+        <source>Force Managed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="158"/>
+        <source>Forces the DX driver to use Managed textures instead of Dynamic.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="169"/>
+        <source>Enable MIP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="170"/>
+        <source>Enables Direct3D Automipmap generation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="181"/>
+        <source>Mesh Transparency</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="182"/>
+        <source>Enabled meshed polygons for translucency.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="193"/>
+        <source>Full screen anti-aliasing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="194"/>
+        <source>Enable full screen antialiasing in Direct3D.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="205"/>
+        <source>Scanlines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="206"/>
+        <source>Enable default scanlines.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="217"/>
+        <source>Wine configuration (Beta)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="228"/>
+        <source>Wine &apos;engine&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="229"/>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="275"/>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="321"/>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="367"/>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="425"/>
+        <source>Select the one to use, keep &apos;AUTO&apos; if you don&apos;t know</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="274"/>
+        <source>Wine AppImage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="320"/>
+        <source>Wine architecture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="366"/>
+        <source>Windows version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="408"/>
+        <source>Wine Software renderer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="409"/>
+        <source>Enable software renderer for wine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="424"/>
+        <source>Wine audio driver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="480"/>
+        <source>Clean Model2emu wine bottle(s) (to re-install)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="488"/>
+        <source>Are you sure to delete existing bottles ?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="491"/>
+        <source>Yes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="493"/>
+        <source>No</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2048,6 +2703,167 @@ dans les répertoires suivants :</translation>
     </message>
 </context>
 <context>
+    <name>Pcsx2Settings</name>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Pcsx2Settings.qml" line="42"/>
+        <source>Advanced emulators settings &gt; Pcsx2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Pcsx2Settings.qml" line="89"/>
+        <source>Game screen</source>
+        <translation type="unfinished">Écran de jeu</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Pcsx2Settings.qml" line="101"/>
+        <source>Internal Resolution</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Pcsx2Settings.qml" line="102"/>
+        <source>Controls the rendering resolution. 
+A high resolution greatly improves visual quality, 
+But cause issues in certain games.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Pcsx2Settings.qml" line="144"/>
+        <source>Enable Vsync</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Pcsx2Settings.qml" line="145"/>
+        <source>Vertical syncronisation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Pcsx2Settings.qml" line="160"/>
+        <source>Anisotropy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Pcsx2Settings.qml" line="161"/>
+        <source>Reduce the amount of aliasing caused by rasterizing 3d graphics.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Pcsx2Settings.qml" line="206"/>
+        <source>Tv Shaders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Pcsx2Settings.qml" line="207"/>
+        <source>Set your shaders effect.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Pcsx2Settings.qml" line="247"/>
+        <source>Gameplay options</source>
+        <translation type="unfinished">Options de jeux</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Pcsx2Settings.qml" line="254"/>
+        <source>Enable Cheats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Pcsx2Settings.qml" line="255"/>
+        <source>Ingames cheats enable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PpssppSettings</name>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="42"/>
+        <source>Advanced emulators settings &gt; PPSSPP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="89"/>
+        <source>Game screen</source>
+        <translation type="unfinished">Écran de jeu</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="101"/>
+        <source>Internal Resolution</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="102"/>
+        <source>Controls the rendering resolution. 
+A high resolution greatly improves visual quality, 
+But cause issues in certain games.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="144"/>
+        <source>Force 60Hz</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="145"/>
+        <source>Render duplicate frames to 60Hz.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="159"/>
+        <source>Antialiasing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="160"/>
+        <source>Antialiasing msaa level.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="205"/>
+        <source>texture scaling level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="206"/>
+        <source>Set level of texture shaders.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="251"/>
+        <source>texture scaling type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="252"/>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="299"/>
+        <source>Set type of texture shaders.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="298"/>
+        <source>texture shaders type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="345"/>
+        <source>Anisotropy level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="346"/>
+        <source>Set anisotropy level.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="391"/>
+        <source>Texture filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="392"/>
+        <source>Set type of texture filter.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ProviderEditor</name>
     <message>
         <location filename="../src/frontend/menu/settings/ProviderEditor.qml" line="77"/>
@@ -2088,13 +2904,18 @@ dans les répertoires suivants :</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="51"/>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="107"/>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="134"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="117"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="141"/>
         <source>none</source>
         <translation>aucune</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="51"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="186"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="236"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="271"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="280"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="289"/>
         <source>auto</source>
         <translation>auto</translation>
     </message>
@@ -2130,237 +2951,895 @@ dans les répertoires suivants :</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="84"/>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="96"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="106"/>
         <source>left</source>
         <translation>gauche</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="84"/>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="96"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="106"/>
         <source>right</source>
         <translation>droite</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="96"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="94"/>
+        <source>switch</source>
+        <translation>switch</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="94"/>
+        <source>clone</source>
+        <translation>clone</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="94"/>
+        <source>extended</source>
+        <translation>étendu</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="106"/>
         <source>above</source>
         <translation>au dessus</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="96"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="106"/>
         <source>below</source>
         <translation>en dessous</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="107"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="117"/>
         <source>retro</source>
         <translation>retro</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="107"/>
         <source>scanline</source>
-        <translation>scanline</translation>
+        <translation type="vanished">scanline</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="184"/>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="198"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="117"/>
+        <source>scanlines</source>
+        <translation>scanlines</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="298"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="312"/>
         <source>Original</source>
         <translation>Originale</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="184"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="298"/>
         <source>Dark Green</source>
         <translation>Vert sombre</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="184"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="298"/>
         <source>Light Green</source>
         <translation>Vert lumineux</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="184"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="298"/>
         <source>Dark Gray</source>
         <translation>Gris sombre</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="185"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="299"/>
         <source>Light Gray</source>
         <translation>Gris lumineux</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="185"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="299"/>
         <source>Dark Red</source>
         <translation>Rouge sombre</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="185"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="299"/>
         <source>Light Red</source>
         <translation>Rouge lumineux</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="185"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="299"/>
         <source>Dark Pink</source>
         <translation>Rose sombre</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="186"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="300"/>
         <source>Light Pink</source>
         <translation>Rose lumineux</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="186"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="300"/>
         <source>Dark Brown</source>
         <translation>Marron sombre</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="186"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="300"/>
         <source>Light Brown</source>
         <translation>Marron lumineux</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="186"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="300"/>
         <source>Dark Blue</source>
         <translation>Bleu sombre</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="187"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="301"/>
         <source>Light Blue</source>
         <translation>Bleu lumineux</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="187"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="301"/>
         <source>Orange</source>
         <translation>Orange</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="187"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="301"/>
         <source>Yellow</source>
         <translation>Jaune</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="187"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="301"/>
         <source>Turquoise</source>
         <translation>Turquoise</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="188"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="302"/>
         <source>Magenta</source>
         <translation>Magenta</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="188"/>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="199"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="302"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="313"/>
         <source>Purple</source>
         <translation>Violet</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="188"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="302"/>
         <source>Steel</source>
         <translation>Acier</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="188"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="302"/>
         <source>Stone</source>
         <translation>Pierre</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="198"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="312"/>
         <source>Black</source>
         <translation>Noir</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="198"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="312"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="725"/>
         <source>White</source>
         <translation>Blanc</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="198"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="312"/>
         <source>Gray</source>
         <translation>Gris</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="199"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="313"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="725"/>
         <source>Blue</source>
         <translation>Bleu</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="199"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="313"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="725"/>
         <source>Green</source>
         <translation>Vert</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="199"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="313"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="725"/>
         <source>Red</source>
         <translation>Rouge</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="236"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="350"/>
         <source>All sounds on</source>
         <translation>Tous sons allumés</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="236"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="350"/>
         <source>sounds off</source>
         <translation>Sons éteints</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="237"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="351"/>
         <source>Not supported: Videos Sound only</source>
         <translation>Non supporté: Son Vidéos seulement</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="237"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="351"/>
         <source>Not supported: Musics Only</source>
         <translation>Non supporté: Musiques seulement</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="238"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="352"/>
         <source>Not supported: Musics or Videos Sound</source>
         <translation>Non supporté: Musiques ou Son Vidéos seulement</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="266"/>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="288"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="380"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="661"/>
         <source>no device detected</source>
         <translation>pas de matériel detecté</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="335"/>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="347"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="391"/>
+        <source>Auto Multiple of 640x528</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="391"/>
+        <source>Native 640x528</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="391"/>
+        <source>x2 Native 1280x1056 (720p)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="391"/>
+        <source>x3 Native 1920x1584 (1080p)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="392"/>
+        <source>x4 Native 2560x2112 (1440p)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="392"/>
+        <source>x5 Native 3200x2640</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="392"/>
+        <source>x6 Native 3840x3168 (4k)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="392"/>
+        <source>x7 Native 4480x3696</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="393"/>
+        <source>x8 Native 5120x4224 (5k)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="404"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="445"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="469"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="735"/>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="404"/>
+        <source>2x MSAA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="404"/>
+        <source>4x MSAA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="404"/>
+        <source>8x MSAA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="414"/>
+        <source>Native (ps1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="414"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="425"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="506"/>
+        <source>x2 Native (720p)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="414"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="425"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="507"/>
+        <source>x3 Native (1080p)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="414"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="425"/>
+        <source>x4 Native (1440p 2k)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="415"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="426"/>
+        <source>x5 Native (1620p)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="415"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="426"/>
+        <source>x6 Native (4k)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="415"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="426"/>
+        <source>x7 Native (2520p)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="415"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="426"/>
+        <source>x8 Native (2880p)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="425"/>
+        <source>Native (ps2)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="436"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="495"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="543"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="552"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="570"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="588"/>
+        <source>Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="436"/>
+        <source>2x</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="436"/>
+        <source>4x</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="436"/>
+        <source>8x</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="436"/>
+        <source>16x</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="445"/>
+        <source>Scanline filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="445"/>
+        <source>Diagonal filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="446"/>
+        <source>Triangular filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="446"/>
+        <source>Wave filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="446"/>
+        <source>Lottes CRT filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="456"/>
+        <source>Auto (Window Size)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="456"/>
+        <source>Native 400x240</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="456"/>
+        <source>x2 Native 800x480</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="456"/>
+        <source>x3 Native 1200x720</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="457"/>
+        <source>x4 Native 1600x960</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="457"/>
+        <source>x5 Native 2000x1200</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="457"/>
+        <source>x6 Native 2400x1440</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="457"/>
+        <source>x7 Native 2800x1680</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="458"/>
+        <source>x8 Native 3200x1920</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="458"/>
+        <source>x9 Native 3600x2160</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="458"/>
+        <source>x10 Native 4000x2400</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="469"/>
+        <source>Anime4k</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="469"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="483"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="561"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="610"/>
+        <source>Bicubic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="470"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="484"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="610"/>
+        <source>Nearest Neighbor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="470"/>
+        <source>ScaleForce</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="470"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="561"/>
+        <source>xBRZ</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="483"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="610"/>
+        <source>Bilinear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="484"/>
+        <source>Hermite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="495"/>
+        <source>Double buffering</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="495"/>
+        <source>Triple buffering</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="506"/>
+        <source>Auto (screen resolution)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="506"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="517"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="530"/>
+        <source>Native</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="507"/>
+        <source>x4 Native (2k)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="507"/>
+        <source>x5 Native (4k)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="517"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="530"/>
+        <source>x2 Native</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="517"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="530"/>
+        <source>x3 Native</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="517"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="531"/>
+        <source>x4 Native</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="518"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="531"/>
+        <source>x5 Native</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="518"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="531"/>
+        <source>x6 Native</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="518"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="531"/>
+        <source>x7 Native</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="518"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="532"/>
+        <source>x8 Native</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="519"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="532"/>
+        <source>x9 Native</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="519"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="532"/>
+        <source>x10 Native</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="530"/>
+        <source>Auto 1:1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="543"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="552"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="570"/>
+        <source>x2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="543"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="552"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="570"/>
+        <source>x4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="543"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="570"/>
+        <source>x8</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="552"/>
+        <source>x3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="552"/>
+        <source>x5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="561"/>
+        <source>Hybrid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="561"/>
+        <source>Hybrid + Bicubic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="570"/>
+        <source>x16</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="579"/>
+        <source>Auto</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="579"/>
+        <source>Nearest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="579"/>
+        <source>Linear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="579"/>
+        <source>Auto Max Quality</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="588"/>
+        <source>Tex2xBRZ</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="588"/>
+        <source>Tex4xBRZ</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="588"/>
+        <source>TexMMPX</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="597"/>
+        <source>x0.5 (360p/540p) [experimental]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="597"/>
+        <source>x0.75 (540p/810p) [experimental]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="597"/>
+        <source>x1 (720p/1080p) [native]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="597"/>
+        <source>x1.5 (1080p/1620p) [experimental]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="598"/>
+        <source>x2 (1440p/2160p)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="598"/>
+        <source>x3 (2160p/3240p)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="598"/>
+        <source>x4 (2880p/4320p)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="598"/>
+        <source>x5 (3600p/5400p)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="599"/>
+        <source>x6 (4320p/6480p)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="599"/>
+        <source>x7 (5040p/7560p)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="599"/>
+        <source>x8 (5760p/8640p)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="611"/>
+        <source>Gaussian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="611"/>
+        <source>Scaleforce</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="611"/>
+        <source>AMD Fidelity FX</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="622"/>
+        <source>Immediate (VSync Off)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="622"/>
+        <source>FIFO (VSync On)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="622"/>
+        <source>FIFO Relaxed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="631"/>
+        <source>basic white</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="631"/>
+        <source>basic black</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="631"/>
+        <source>nord</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="632"/>
+        <source>gruvbox dark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="632"/>
+        <source>boysenberry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="632"/>
+        <source>hacking the kernel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="633"/>
+        <source>twilight zone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="633"/>
+        <source>dracula</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="633"/>
+        <source>solarized dark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="634"/>
+        <source>solarized light</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="634"/>
+        <source>gray dark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="634"/>
+        <source>gray light</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="635"/>
+        <source>purple rain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="708"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="720"/>
         <source>Legacy (script)</source>
         <translation>Historique (script)</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="335"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="708"/>
         <source>Minimal Service Discovery (slow)</source>
         <translation>Service minimal de découverte (lent)</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="335"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="708"/>
         <source>Full Service Discovery (slower)</source>
         <translation>Service complet de découverte (le plus lent)</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="335"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="708"/>
         <source>Device Discovery (quicker)</source>
         <translation>Découverte Appareil (le plus rapide)</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="341"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="714"/>
         <source>Legacy (full script)</source>
         <translation>Historique (script complet)</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="341"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="714"/>
         <source>Simple one (partial script)</source>
         <translation>La simple (script partiel)</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="347"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="720"/>
         <source>Simple one (one commande line)</source>
         <translation>La simple (une ligne de commande)</translation>
     </message>
     <message>
-        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="403"/>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="730"/>
+        <source>Super Thin</source>
+        <translation>Super Fine</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="730"/>
+        <source>Thin</source>
+        <translation>Fine</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="730"/>
+        <source>Medium</source>
+        <translation>Moyenne</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="730"/>
+        <source>Big</source>
+        <translation>Grande</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="735"/>
+        <source>Stronger</source>
+        <translation>Plus fort</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="735"/>
+        <source>Softer</source>
+        <translation>Plus douce</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="735"/>
+        <source>Strong Machine Gun</source>
+        <translation>Mitrailleuse puissante</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="735"/>
+        <source>Soft Machine Gun</source>
+        <translation>Mitrailleuse douce</translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="792"/>
         <source>no value</source>
         <translation>pas de valeur</translation>
     </message>
@@ -2405,6 +3884,99 @@ dans les répertoires suivants :</translation>
     </message>
 </context>
 <context>
+    <name>RetroarchSettings</name>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="42"/>
+        <source>Advanced emulators settings &gt; Retroarch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="89"/>
+        <source>Game screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="98"/>
+        <source>Pixel perfect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="99"/>
+        <source>Once enabled, your screen will be cropped, and you will have a pixel perfect image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="111"/>
+        <source>Smooth games</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="112"/>
+        <source>Set smooth for all Retroarch core.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="122"/>
+        <source>Gameplay options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="129"/>
+        <source>Game rewind</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="130"/>
+        <source>Set rewind for all Retroarch core.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="142"/>
+        <source>Auto save/load</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="143"/>
+        <source>Set autosave/load savestate for all Retroarch core.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="153"/>
+        <source>Menu options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="160"/>
+        <source>Swap menu validate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="161"/>
+        <source>Swap buttons for OK/Cancel in retroarch menu only.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="173"/>
+        <source>Load content animations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="174"/>
+        <source>Show a little animation on launch game.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="188"/>
+        <source>Change menu color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="189"/>
+        <source>Change color of retroarch interface.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>SettingsMain</name>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="59"/>
@@ -2427,62 +3999,70 @@ dans les répertoires suivants :</translation>
         <translation>Choisir le mode audio</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="144"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="165"/>
         <source>Output</source>
         <translation>Sortie</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="145"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="166"/>
         <source>Choose audio output</source>
         <translation>Choisir la sortie audio</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="184"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="223"/>
         <source>Boot video volume</source>
         <translation>Volume de la vidéo de démarrage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="185"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="224"/>
         <source>Set audio volume only for boot video</source>
         <translation>Configure seulement le volume de la vidéo de démarrage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="220"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="257"/>
         <source>Volume</source>
         <translation>Volume</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="221"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="258"/>
         <source>Set audio volume</source>
         <translation>Régler le volume audio</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="255"/>
         <source>i915 driver force-probe activation</source>
-        <translation>Activation i915 Driver force-probe</translation>
+        <translation type="vanished">Activation i915 Driver force-probe</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="256"/>
         <source>Any driver issue detected ! Use this option to discover inputs quickly (need reboot)</source>
-        <translation>Problème détecté ! Activer l&apos;option pour voir les sorties audio plus vite (besoin de rebooter)</translation>
+        <translation type="vanished">Problème détecté ! Activer l&apos;option pour voir les sorties audio plus vite (besoin de rebooter)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="273"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="318"/>
         <source>Video Configuration</source>
         <translation>Configuration vidéo</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="280"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="325"/>
         <source>Video configuration</source>
         <translation>Configuration vidéo</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="281"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="326"/>
         <source>choose output</source>
         <translation>choisir la sortie</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="297"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="346"/>
+        <source>Brightness</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="347"/>
+        <source>Set backlight brightness for internal/primary screen only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="396"/>
         <source>Enabled redshift</source>
         <translation>Activer redshift</translation>
     </message>
@@ -2495,19 +4075,19 @@ Please restart to activate/deactivate</source>
 Merci de redémarrer l&apos;interface pour activer/desactiver</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="316"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="415"/>
         <source>Vulkan video driver</source>
         <translation>Driver vidéo Vulkan</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="317"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="416"/>
         <source>Force video driver to Vulkan.
 Beware some hardware is not compatible with this option used with care !</source>
         <translation>Forcer Vulkan pour le pilote video
 Attention certains matériels ne sont pas compatibles avec cette option à utiliser avec précaution !</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="479"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="604"/>
         <source>Enable or disable Wifi</source>
         <translation>Pour activer ou désactiver Wifi</translation>
     </message>
@@ -2516,17 +4096,17 @@ Attention certains matériels ne sont pas compatibles avec cette option à utili
         <translation type="vanished">Systèmes</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="591"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="774"/>
         <source>System information</source>
         <translation>Information Système</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="592"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="775"/>
         <source>More information Ip, Cpu, OpenGL ...</source>
         <translation>Plus d&apos;information IP, CPU, OpenGL, etc...</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="347"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="448"/>
         <source>Storage configuration</source>
         <translation>Configuration du stockage</translation>
     </message>
@@ -2535,7 +4115,7 @@ Attention certains matériels ne sont pas compatibles avec cette option à utili
         <translation type="vanished">Pilote Video</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="298"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="397"/>
         <source>Redshift adjusts the color temperature of your screen according to your surroundings.
 This may help your eyes hurt less if you are working in front of the screen at night.</source>
         <translation>Redshift ajuste la température de couleur de votre écran en fonction de votre environnement.
@@ -2546,117 +4126,117 @@ Cela peut aider à réduire vos douleurs oculaires si vous travaillez devant l&a
         <translation type="vanished">Forcer Vulkan pour le pilote video</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="356"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="458"/>
         <source>Storage device</source>
         <translation>Dispositif de stockage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="357"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="459"/>
         <source>change to over storage</source>
         <translation>changer pour un autre stockage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="375"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="500"/>
         <source>Networks</source>
         <translation>Réseaux</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="392"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="517"/>
         <source>Ethernet Local IP :</source>
         <translation>Ethernet IP Local :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="395"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="520"/>
         <source>Plug your cable to have network</source>
         <translation>Branchez un cable pour avoir du réseau</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="409"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="534"/>
         <source>Wifi Local IP :</source>
         <translation>Wifi IP Local :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="409"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="534"/>
         <source>Wifi used :</source>
         <translation>Wifi utilisé :</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="412"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="537"/>
         <source>Connect your PC to any network</source>
         <translation>Connecter votre PC à un réseau</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="420"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="545"/>
         <source>Ethernet network</source>
         <translation>Réseau ethernet</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="478"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="603"/>
         <source>Wifi activation</source>
         <translation>Activation du Wifi</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="507"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="632"/>
         <source>Wifi networks</source>
         <translation>Réseaux Wifi</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="535"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="660"/>
         <source>System language</source>
         <translation>Langue du système</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="542"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="670"/>
         <source>Language</source>
         <translation>Langue</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="543"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="671"/>
         <source>Set your language interface</source>
         <translation>Définissez votre langue d&apos;interface</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="565"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="726"/>
         <source>Keyboard layout</source>
         <translation>Disposition du clavier</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="566"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="727"/>
         <source>Change keyboard layout language</source>
         <translation>Changer la langue de la disposition du clavier</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="584"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="767"/>
         <source>System</source>
         <translation>Système</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="605"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="788"/>
         <source>Debug mode</source>
         <translation>Mode débogage</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="606"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="789"/>
         <source>Give me your log baby !!! ;-)</source>
         <translation>Donne-moi ton log bébé ! !! ;-)</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="618"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="801"/>
         <source>Enable mouse support</source>
         <translation>Activer le support de la souris</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="619"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="802"/>
         <source>By default the cursor is visible if there are any pointer devices connected.</source>
         <translation>Par défaut, le curseur est visible si des dispositifs de pointage sont connectés.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="632"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="815"/>
         <source>Enable virtual keyboard support</source>
         <translation>Activer le support du clavier virtuel</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="633"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="816"/>
         <source>By default virtual keyboard is not activated.</source>
         <translation>Par defaut le clavier virtuel n&apos;est pas activé.</translation>
     </message>
@@ -2672,6 +4252,327 @@ Cela peut aider à réduire vos douleurs oculaires si vous travaillez devant l&a
         <location filename="../src/frontend/dialogs/ShutdownDialog.qml" line="25"/>
         <source>The system will shut down. Are you sure?</source>
         <translation>Le système va s&apos;arrêter. Vous êtes sûr?</translation>
+    </message>
+</context>
+<context>
+    <name>SupermodelSettings</name>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="42"/>
+        <source>Advanced emulators settings &gt; Supermodel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="89"/>
+        <source>Game screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="101"/>
+        <source>Internal Resolution</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="102"/>
+        <source>Controls the rendering resolution. 
+A high resolution greatly improves visual quality, 
+But cause issues in certain games.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="144"/>
+        <source>Crosshairs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="145"/>
+        <source>Active crosshairs on lightgun games.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="155"/>
+        <source>Core options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="162"/>
+        <source>New 3d engine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="163"/>
+        <source>Switch between legacy and new 3d engine. 
+Enable for new 3d engine by default.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="175"/>
+        <source>Multi textures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="176"/>
+        <source>Use 8 texture maps for decoding (legacy engine). 
+Disabled on default.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="189"/>
+        <source>Gpu threaded</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="190"/>
+        <source>Run graphics rendering in main thread. 
+Enable by default.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="202"/>
+        <source>Quad Rendering</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="203"/>
+        <source>Enable proper quad rendering. 
+Enable by default.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="244"/>
+        <source>Netplay</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="251"/>
+        <source>Network</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="252"/>
+        <source>Enable Network betwen two cab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="263"/>
+        <source>Address Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="264"/>
+        <source>type your output address for next net cab&apos;s.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="271"/>
+        <source>127.0.0.1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="283"/>
+        <source>Port In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="284"/>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="304"/>
+        <source>type your Input port for next net cab&apos;s.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="291"/>
+        <source>1970</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="303"/>
+        <source>Port Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="311"/>
+        <source>1971</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="322"/>
+        <source>Sound configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="329"/>
+        <source>Legacy Sound engine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="330"/>
+        <source>Use Legacy SCSP engine. 
+Disable on default.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="342"/>
+        <source>Flip stereo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="343"/>
+        <source>Swap left and right audio channels.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="353"/>
+        <source>Controllers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="360"/>
+        <source>Active service button</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="361"/>
+        <source>Active service button for acces menu test arcade game. 
+Configured in L3: service R3 test.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="377"/>
+        <source>Set sensitvity Controller</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="378"/>
+        <source>The sensitvity is expressed as a percentage. 
+The default value is 25%.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="408"/>
+        <source>Set dead zone Controller</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="409"/>
+        <source>The dead zone is expressed as a percentage. 
+the axis and the default value is 2%.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="439"/>
+        <source>Set saturation controller</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="440"/>
+        <source>The saturation is expressed as a percentage 0-200. 
+the default value is 100%.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SystemsAdvancedEmulatorMain</name>
+    <message>
+        <location filename="../src/frontend/menu/settings/SystemsAdvancedEmulatorMain.qml" line="42"/>
+        <source>Games &gt; Settings systems</source>
+        <translation>Jeux &gt; Paramétrages systèmes</translation>
+    </message>
+</context>
+<context>
+    <name>SystemsEmulatorConfiguration</name>
+    <message>
+        <location filename="../src/frontend/menu/settings/SystemsEmulatorConfiguration.qml" line="47"/>
+        <source>Settings systems &gt; </source>
+        <translation>Paramétrages systèmes &gt; </translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SystemsEmulatorConfiguration.qml" line="94"/>
+        <source>Game screen</source>
+        <translation>Écran de jeu</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SystemsEmulatorConfiguration.qml" line="106"/>
+        <source>Game ratio</source>
+        <translation>Ratio de jeu</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SystemsEmulatorConfiguration.qml" line="107"/>
+        <source>Set ratio for this system (auto,4/3,16/9,16/10,etc...)</source>
+        <translation>Définir le ratio pour ce système (auto,4/3,16/9,16/10,etc...)</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SystemsEmulatorConfiguration.qml" line="149"/>
+        <source>Smooth games</source>
+        <translation>Lissage en jeux</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SystemsEmulatorConfiguration.qml" line="150"/>
+        <source>Set smooth for this system</source>
+        <translation>Régler le lissage pour ce système</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SystemsEmulatorConfiguration.qml" line="167"/>
+        <source>Predefined shaders</source>
+        <translation>Shaders prédéfinis</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SystemsEmulatorConfiguration.qml" line="168"/>
+        <source>Set predefined Shader effect for this system</source>
+        <translation>Définir les effets des shaders prédédefinis pour ce système</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SystemsEmulatorConfiguration.qml" line="215"/>
+        <source>Shaders</source>
+        <translation>Shaders</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SystemsEmulatorConfiguration.qml" line="216"/>
+        <source>Set prefered Shader effect</source>
+        <translation>Initialise l'effet de shader préféré</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SystemsEmulatorConfiguration.qml" line="260"/>
+        <source>Set overlay</source>
+        <translation>Définir les overlays</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SystemsEmulatorConfiguration.qml" line="261"/>
+        <source>Set overlay on this system</source>
+        <translation>Définir les overlays pour ce système</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SystemsEmulatorConfiguration.qml" line="273"/>
+        <source>Gameplay options</source>
+        <translation>Options de jeux</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SystemsEmulatorConfiguration.qml" line="282"/>
+        <source>Game rewind</source>
+        <translation>Rembobinage du jeu</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SystemsEmulatorConfiguration.qml" line="283"/>
+        <source>Set rewind for this system &apos;Only work with Retroarch&apos;</source>
+        <translation>Régler le rembobinage pour ce système &apos;Ne fonctionne qu&apos;avec Retroarch&apos;</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SystemsEmulatorConfiguration.qml" line="297"/>
+        <source>Auto save/load</source>
+        <translation>Sauvegarde/chargement automatique</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SystemsEmulatorConfiguration.qml" line="298"/>
+        <source>Set autosave/load savestate for this system</source>
+        <translation>Définir l&apos;état de sauvegarde automatique/chargement pour ce système</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SystemsEmulatorConfiguration.qml" line="309"/>
+        <source>Core options</source>
+        <translation>Options de core</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SystemsEmulatorConfiguration.qml" line="403"/>
+        <source>Default</source>
+        <translation>par défaut</translation>
     </message>
 </context>
 <context>
@@ -2793,97 +4694,128 @@ Cela peut aider à réduire vos douleurs oculaires si vous travaillez devant l&a
         <translation>Paramètres &gt; Configuration Vidéo</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="82"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="91"/>
+        <source>Display mode</source>
+        <translation>Mode d'affichage</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="92"/>
+        <source>Choose any mode to manage behavior when you plug/unplug any screen</source>
+        <translation>Choisir un mode de gestion du comportement
+lors de la connexion/déconnexion d'un écran</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="142"/>
         <source>Primary screen settings</source>
         <translation>Paramètres de l&apos;écran primaire</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="94"/>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="213"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="165"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="469"/>
         <source>Output</source>
         <translation>Sortie</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="95"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="166"/>
         <source>Choose your output for primary screen.</source>
         <translation>Choisissez votre sortie pour l&apos;écran primaire.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="119"/>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="240"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="239"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="544"/>
         <source>Resolution</source>
         <translation>Résolution</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="120"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="240"/>
         <source>Choose resolution for your primary screen.</source>
         <translation>Choisissez la résolution de votre écran principal.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="144"/>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="267"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="316"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="619"/>
         <source>Frequency</source>
         <translation>Fréquences</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="145"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="317"/>
         <source>Choose frequency for your primary screen.</source>
         <translation>Choisissez la fréquence de votre écran principal.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="168"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="388"/>
         <source>Rotate</source>
         <translation>Rotation</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="169"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="389"/>
         <source>Choose orientation for your primary screen.</source>
         <translation>Choisissez l&apos;orientation de votre écran principal.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="192"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="445"/>
         <source>Secondary screen settings</source>
         <translation>Paramètres de l&apos;écran secondaire</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="214"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="470"/>
         <source>Choose your output for secondary screen.</source>
         <translation>Choisissez votre sortie pour l&apos;écran secondaire.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="241"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="545"/>
         <source>Choose resolution for secondary screen.</source>
         <translation>Choisissez la résolution de l&apos;écran secondaire.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="268"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="620"/>
         <source>Choose frequency for secondary screen.</source>
         <translation>Choisissez la fréquence de l&apos;écran secondaire.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="293"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="692"/>
         <source>Rotation</source>
         <translation>Rotation</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="294"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="693"/>
         <source>Choose orientation for your secondary screen.</source>
         <translation>Choisissez l&apos;orientation de votre écran secondaire.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="319"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="748"/>
         <source>Position</source>
         <translation>Position</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="320"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="749"/>
         <source>Choose position for your Secondary screen.</source>
         <translation>Choisissez la position de votre écran secondaire.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="358"/>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="814"/>
         <source>Apply</source>
         <translation>Appliquer</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="845"/>
+        <source>Confirmation</source>
+        <translation>Confirmation</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="846"/>
+        <source>Do you want to keep this change ?</source>
+        <translation>Voulez vous garder ce changement ?</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="849"/>
+        <source>Yes</source>
+        <translation>Oui</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/VideoSettings.qml" line="851"/>
+        <source>No</source>
+        <translation>Non</translation>
     </message>
 </context>
 <context>
@@ -2929,37 +4861,37 @@ Cela peut aider à réduire vos douleurs oculaires si vous travaillez devant l&a
         <translation>De 1 à 3 pour correspondre aux 3 conf que l&apos;on peut avoir</translation>
     </message>
     <message>
-        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="492"/>
-        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="530"/>
-        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="602"/>
-        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="636"/>
-        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="669"/>
-        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="700"/>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="491"/>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="527"/>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="595"/>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="629"/>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="662"/>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="693"/>
         <source>Please wait...</source>
         <translation>Veuillez patienter...</translation>
     </message>
     <message>
-        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="493"/>
-        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="531"/>
-        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="603"/>
-        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="637"/>
-        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="670"/>
-        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="701"/>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="492"/>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="528"/>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="596"/>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="630"/>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="663"/>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="694"/>
         <source>Under progress...</source>
         <translation>En cours de Progression...</translation>
     </message>
     <message>
-        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="514"/>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="512"/>
         <source>Ok</source>
         <translation>Ok</translation>
     </message>
     <message>
-        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="622"/>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="615"/>
         <source>2nd choice</source>
         <translation>2nd choix</translation>
     </message>
     <message>
-        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="686"/>
+        <location filename="../src/frontend/dialogs/WifiDialog.qml" line="679"/>
         <source>Cancel</source>
         <translation>Annuler</translation>
     </message>
@@ -2992,144 +4924,264 @@ Cela peut aider à réduire vos douleurs oculaires si vous travaillez devant l&a
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/WifiNetworks.qml" line="367"/>
+        <location filename="../src/frontend/menu/settings/WifiNetworks.qml" line="368"/>
         <source>Settings &gt; Wifi networks</source>
         <translation>Paramètres &gt; Réseaux Wifi</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/WifiNetworks.qml" line="415"/>
+        <location filename="../src/frontend/menu/settings/WifiNetworks.qml" line="416"/>
         <source>Wifi networks</source>
         <translation>Réseaux Wifi</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/WifiNetworks.qml" line="546"/>
+        <location filename="../src/frontend/menu/settings/WifiNetworks.qml" line="547"/>
         <source>Do you want to be connected to this wifi ?</source>
         <translation>Est ce que vous voulez vous connecter à ce wifi ?</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/WifiNetworks.qml" line="582"/>
+        <location filename="../src/frontend/menu/settings/WifiNetworks.qml" line="583"/>
         <source>Connected</source>
         <translation>Connecté</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/WifiNetworks.qml" line="582"/>
+        <location filename="../src/frontend/menu/settings/WifiNetworks.qml" line="583"/>
         <source>Connect ?</source>
         <translation>Connecter ?</translation>
     </message>
 </context>
 <context>
+    <name>XemuSettings</name>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/XemuSettings.qml" line="42"/>
+        <source>Advanced emulators settings &gt; Xemu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/XemuSettings.qml" line="89"/>
+        <source>Game screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/XemuSettings.qml" line="101"/>
+        <source>Internal Resolution</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/XemuSettings.qml" line="102"/>
+        <source>Controls the rendering resolution. 
+A high resolution greatly improves visual quality, 
+But cause issues in certain games.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>YuzuSettings</name>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/YuzuSettings.qml" line="42"/>
+        <source>Advanced emulators settings &gt; Yuzu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/YuzuSettings.qml" line="88"/>
+        <source>Game screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/YuzuSettings.qml" line="100"/>
+        <source>Internal Resolution</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/YuzuSettings.qml" line="101"/>
+        <source>Controls the rendering resolution. 
+A high resolution greatly improves visual quality, 
+But cause issues in certain games.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/YuzuSettings.qml" line="145"/>
+        <source>Scaling Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/YuzuSettings.qml" line="146"/>
+        <source>Set your scaling filter resolution.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/YuzuSettings.qml" line="191"/>
+        <source>Fsr Sharpening</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/YuzuSettings.qml" line="192"/>
+        <source>FidelityFX Super Resolution for great game rendering.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/YuzuSettings.qml" line="219"/>
+        <source>Vsync</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/YuzuSettings.qml" line="220"/>
+        <source>Choose your vertical sync type.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/YuzuSettings.qml" line="260"/>
+        <source>Core options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/YuzuSettings.qml" line="267"/>
+        <source>Enable Async shaders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/YuzuSettings.qml" line="268"/>
+        <source>Async shaders and pipeline compilation, 
+Reduce stutter at the cost of objects.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/YuzuSettings.qml" line="278"/>
+        <source>Extended memory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/YuzuSettings.qml" line="279"/>
+        <source>Unsafe extended memory layout (8GB DRAM). 
+Disabled on default.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/YuzuSettings.qml" line="289"/>
+        <source>Docked Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/YuzuSettings.qml" line="290"/>
+        <source>Increases resolution, decreasing performance. 
+Handheld Mode is used when disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>main</name>
     <message>
-        <location filename="../src/frontend/main.qml" line="529"/>
+        <location filename="../src/frontend/main.qml" line="567"/>
         <source>A game is in the disk drive : </source>
         <translation>Un jeu est dans le lecteur de disque : </translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="530"/>
+        <location filename="../src/frontend/main.qml" line="568"/>
         <source>Launch</source>
         <translation>Lancer</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="531"/>
+        <location filename="../src/frontend/main.qml" line="569"/>
         <source>Eject</source>
         <translation>Ejecter</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="532"/>
+        <location filename="../src/frontend/main.qml" line="570"/>
         <source>Back</source>
         <translation>Retour</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="569"/>
+        <location filename="../src/frontend/main.qml" line="607"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="361"/>
+        <location filename="../src/frontend/main.qml" line="399"/>
+        <location filename="../src/frontend/main.qml" line="663"/>
         <source>The system will reboot. Are you sure?</source>
         <translation>Le système va redémarrer. Vous êtes sûr ?</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="366"/>
+        <location filename="../src/frontend/main.qml" line="404"/>
+        <location filename="../src/frontend/main.qml" line="668"/>
         <source>Pegasus will restart. Are you sure?</source>
         <translation>Pegasus va redémarrer. Es-tu sur ?</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="371"/>
+        <location filename="../src/frontend/main.qml" line="409"/>
         <source>Parameter(s) changed - the system needs to reboot to take into account.
 Are you sure?</source>
         <translation>Paramètre(s) changé(s) - le système doit redémarrer pour le prendre en compte.
 Es-tu sur?</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="376"/>
+        <location filename="../src/frontend/main.qml" line="414"/>
         <source>Parameter(s) changed - Pegasus needs to restart to take into account.
 Are you sure?</source>
         <translation>Paramètre(s) changé(s) - Pegasus doit redémarrer pour le prendre en compte.
 Es-tu sur?</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="614"/>
+        <location filename="../src/frontend/main.qml" line="652"/>
         <source>Press any button to continue</source>
         <translation>Appuyez sur n&apos;importe quel bouton pour continuer</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="614"/>
+        <location filename="../src/frontend/main.qml" line="652"/>
         <source>please read instructions at the bottom of next view to understand possible actions</source>
         <translation>veuillez lire les instructions au bas de la vue suivante pour comprendre les actions possibles</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="614"/>
+        <location filename="../src/frontend/main.qml" line="652"/>
         <source>mouse and keyboard could be used to help configuration</source>
         <translation>la souris et le clavier pourraient être utilisés pour aider à la configuration</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="614"/>
+        <location filename="../src/frontend/main.qml" line="652"/>
         <source>New controller</source>
         <translation>Nouveau contrôleur</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="807"/>
+        <location filename="../src/frontend/main.qml" line="862"/>
         <source>Create Netplay room ?</source>
         <translation>Créer un salon Netplay ?</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="810"/>
+        <location filename="../src/frontend/main.qml" line="865"/>
         <source>Play</source>
         <translation>Jouer</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="812"/>
+        <location filename="../src/frontend/main.qml" line="867"/>
         <source>Cancel</source>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="1198"/>
+        <location filename="../src/frontend/main.qml" line="1273"/>
         <source>Update available</source>
         <translation>Mise à jour disponible</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="1198"/>
+        <location filename="../src/frontend/main.qml" line="1273"/>
         <source>Updates available</source>
         <translation>Mises à jour disponibles</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="1237"/>
+        <location filename="../src/frontend/main.qml" line="1312"/>
         <source>Update done !</source>
         <translation>Mise à jour effectuée !</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="1240"/>
+        <location filename="../src/frontend/main.qml" line="1315"/>
         <source>Update done, need restart !</source>
         <translation>Mise à jour effectuée, besoin d&apos;un redémarrage de l&apos;interface !</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="1243"/>
+        <location filename="../src/frontend/main.qml" line="1318"/>
         <source>Update done, need reboot !</source>
         <translation>Mise à jour effectuée, besoin d&apos;un redémarrage de l&apos;OS !</translation>
     </message>
     <message>
-        <location filename="../src/frontend/main.qml" line="1246"/>
+        <location filename="../src/frontend/main.qml" line="1321"/>
         <source>Update failed !</source>
         <translation>Mise à jour echouée !</translation>
     </message>
