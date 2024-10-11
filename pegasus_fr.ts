@@ -540,33 +540,33 @@ et changer le paramétrage ?</translation>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedDirectoriesConf.qml" line="37"/>
         <source>Mount error</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur de montage</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedDirectoriesConf.qml" line="73"/>
         <source>Settings &gt; Advanced Directories Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres &gt; Configuration avancée des répertoires</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedDirectoriesConf.qml" line="127"/>
         <source>ROMS directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Répertoires ROMS</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedDirectoriesConf.qml" line="128"/>
         <location filename="../src/frontend/menu/settings/AdvancedDirectoriesConf.qml" line="171"/>
         <source>unselect directories to ignored (all selected by default)</source>
-        <translation type="unfinished"></translation>
+        <translation>désélectionner les répertoires à ignorer (tous sélectionnés par défaut)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedDirectoriesConf.qml" line="170"/>
         <source>THEMES directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Répertoires de thèmes</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedDirectoriesConf.qml" line="212"/>
         <source>BIOS directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Répertoire des BIOS</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedDirectoriesConf.qml" line="213"/>
@@ -578,67 +578,67 @@ et changer le paramétrage ?</translation>
         <location filename="../src/frontend/menu/settings/AdvancedDirectoriesConf.qml" line="466"/>
         <location filename="../src/frontend/menu/settings/AdvancedDirectoriesConf.qml" line="507"/>
         <source>select directory to take into account (share one by default)</source>
-        <translation type="unfinished"></translation>
+        <translation>sélectionner le répertoire à prendre en compte (partager un par défaut)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedDirectoriesConf.qml" line="254"/>
         <source>SAVES directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Répertoire SAVES</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedDirectoriesConf.qml" line="296"/>
         <source>OVERLAYS directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Répertoire OVERLAYS</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedDirectoriesConf.qml" line="338"/>
         <source>SHADERS directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Répertoire SHADERS</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedDirectoriesConf.qml" line="380"/>
         <source>USERSCRIPTS directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Répertoire USERSCRIPTS</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedDirectoriesConf.qml" line="422"/>
         <source>SCREENHOTS directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Répertoire SCREENSHOTS</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedDirectoriesConf.qml" line="465"/>
         <source>VIDEOS directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Répertoire VIDEOS</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedDirectoriesConf.qml" line="506"/>
         <source>MUSIC directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Répertoire MUSIC</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedDirectoriesConf.qml" line="616"/>
         <source>Mount directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Répertoire de montage</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedDirectoriesConf.qml" line="617"/>
         <source>Do you want to mount immediately</source>
-        <translation type="unfinished"></translation>
+        <translation>Voulez-vous le monter immédiatement</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedDirectoriesConf.qml" line="617"/>
         <source>as</source>
-        <translation type="unfinished"></translation>
+        <translation>comme</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedDirectoriesConf.qml" line="620"/>
         <source>Yes</source>
-        <translation type="unfinished">Oui</translation>
+        <translation>Oui</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedDirectoriesConf.qml" line="622"/>
         <source>No</source>
-        <translation type="unfinished">Non</translation>
+        <translation>Non</translation>
     </message>
 </context>
 <context>
@@ -651,112 +651,112 @@ et changer le paramétrage ?</translation>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="101"/>
         <source>Cemu</source>
-        <translation type="unfinished"></translation>
+        <translation>Cemu</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="102"/>
         <source>Change Configuration for Cemu emulator for Nintendo Wiiu</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier la configuration de l&apos;émulateur Cemu pour Nintendo Wii-U</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="115"/>
         <source>Citra-emu</source>
-        <translation type="unfinished"></translation>
+        <translation>Citra-emu</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="116"/>
         <source>Change Configuration for Citra-emu emulator for Nintendo 3ds</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier la configuration de l&apos;émulateur Citra-emu pour Nintendo 3ds</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="129"/>
         <source>Dolphin</source>
-        <translation type="unfinished">Dolphin</translation>
+        <translation>Dolphin</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="130"/>
         <source>Change Configuration for Dolphin emulator for Nintendo GameCube and Wii.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier la configuration de l&apos;émulateur Dolphin pour Nintendo GameCube et Wii.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="143"/>
         <source>Dolphin-Triforce</source>
-        <translation type="unfinished"></translation>
+        <translation>Dolphin-Triforce</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="144"/>
         <source>Change Configuration for Dolphin-Triforce emulator for Triforce arcade systems.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier la configuration de l&apos;émulateur Dolphin-Triforce pour les systèmes d&apos;arcade Triforce.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="157"/>
         <source>Duckstation</source>
-        <translation type="unfinished"></translation>
+        <translation>Duckstation</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="158"/>
         <source>Change Configuration for Duckstation emulator for Playstation 1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier la configuration de l&apos;émulateur Duckstation pour Playstation 1.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="171"/>
         <source>Model2emu</source>
-        <translation type="unfinished"></translation>
+        <translation>Model2emu</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="172"/>
         <source>Change Configuration for Model2 emulator for Sega Model2 !</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier la configuration de l&apos;émulateur Model 2 pour Sega Model 2 !</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="185"/>
         <source>Pcsx2</source>
-        <translation type="unfinished"></translation>
+        <translation>Pcsx2</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="186"/>
         <source>Change Configuration for Pcsx2 emulator for Sony Playstation 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier la configuration de l&apos;émulateur Pcsx2 pour Sony Playstation 2</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="199"/>
         <source>PPSSPP</source>
-        <translation type="unfinished"></translation>
+        <translation>PPSSPP</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="200"/>
         <source>Change Configuration for PPSSPP emulator for Sony Playstation Portable !</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier la configuration de l&apos;émulateur PPSSPP pour Sony Playstation Portable !</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="214"/>
         <source>Retroarch</source>
-        <translation type="unfinished"></translation>
+        <translation>Retroarch</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="215"/>
         <source>Change Configuration for retroarch/libretro multi emulator !</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier la configuration pour l&apos;émulateur multiple retroarch/libretro !</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="228"/>
         <source>Supermodel</source>
-        <translation type="unfinished"></translation>
+        <translation>Supermodel</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="229"/>
         <source>Change Configuration for Supermodel emulator for Sega Model3 !</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier la configuration de l&apos;émulateur Supermodel pour Sega Model3 !</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="242"/>
         <source>Xemu</source>
-        <translation type="unfinished"></translation>
+        <translation>Xemu</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedEmulatorMain.qml" line="243"/>
         <source>Change Configuration for Xemu emulator for Microsoft Xbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier la configuration de l&apos;émulateur Xemu pour Microsoft Xbox</translation>
     </message>
 </context>
 <context>
@@ -929,17 +929,17 @@ et changer le paramétrage ?</translation>
     <message>
         <location filename="../src/frontend/dialogs/CartridgeDialog.qml" line="562"/>
         <source>Ok</source>
-        <translation type="unfinished">Ok</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="../src/frontend/dialogs/CartridgeDialog.qml" line="600"/>
         <source>2nd choice</source>
-        <translation type="unfinished">2nd choix</translation>
+        <translation>2nd choix</translation>
     </message>
     <message>
         <location filename="../src/frontend/dialogs/CartridgeDialog.qml" line="641"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
 </context>
 <context>
@@ -965,58 +965,59 @@ et changer le paramétrage ?</translation>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/CemuSettings.qml" line="42"/>
         <source>Advanced emulators settings &gt; Cemu</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres avancés des émulateurs &gt; Cemu</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/CemuSettings.qml" line="89"/>
         <source>Game screen</source>
-        <translation type="unfinished">Écran de jeu</translation>
+        <translation>Écran de jeu</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/CemuSettings.qml" line="127"/>
         <source>Upscale Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtre améliorer</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/CemuSettings.qml" line="128"/>
         <source>Used when the game resolution is smaller than the windows size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisé lorsque la résolution du jeu est inférieure à la taille des fenêtres.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/CemuSettings.qml" line="173"/>
         <source>Downscale Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtre rétrograder</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/CemuSettings.qml" line="174"/>
         <source>Used when the game resolution is bigger than the windows size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisé lorsque la résolution du jeu est supérieure à la taille des fenêtres.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/CemuSettings.qml" line="219"/>
         <source>Vsync</source>
-        <translation type="unfinished"></translation>
+        <translation>Vsync</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/CemuSettings.qml" line="220"/>
         <source>Choose your vertical sync type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez votre type de synchronisation verticale.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/CemuSettings.qml" line="260"/>
         <source>Core options</source>
-        <translation type="unfinished">Options de core</translation>
+        <translation>Options de core</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/CemuSettings.qml" line="267"/>
         <source>Enable Async Compilation shaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer les shaders de compilation asynchrone</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/CemuSettings.qml" line="268"/>
         <source>Async shaders and pipeline compilation, reduce stutter at the cost of objects. 
 Not rendering for a short time, vulkan only.</source>
-        <translation type="unfinished"></translation>
+        <translation>Synchronisez les shaders et la compilation du pipeline, réduisez le bégaiement au détriment des objets.
+Pas de rendu pendant une courte période, Vulkan uniquement.</translation>
     </message>
 </context>
 <context>
@@ -1024,34 +1025,36 @@ Not rendering for a short time, vulkan only.</source>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/CitraSettings.qml" line="42"/>
         <source>Advanced emulators settings &gt; Citra-emu</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres avancés des émulateurs &gt; Citra-emu</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/CitraSettings.qml" line="89"/>
         <source>Game screen</source>
-        <translation type="unfinished">Écran de jeu</translation>
+        <translation>Écran de jeu</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/CitraSettings.qml" line="101"/>
         <source>Internal Resolution</source>
-        <translation type="unfinished"></translation>
+        <translation>Résolution interne</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/CitraSettings.qml" line="102"/>
         <source>Controls the rendering resolution. 
 A high resolution greatly improves visual quality, 
 But cause issues in certain games.</source>
-        <translation type="unfinished"></translation>
+        <translation>Contrôle la résolution du rendu.
+Une haute résolution améliore considérablement la qualité visuelle,
+Mais peut entraîner des problèmes dans certains jeux.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/CitraSettings.qml" line="147"/>
         <source>Texture filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtre de texture</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/CitraSettings.qml" line="148"/>
         <source>Reduce the amount of aliasing caused by rasterizing 3d graphics.</source>
-        <translation type="unfinished"></translation>
+        <translation>Réduisez la quantité d&apos;aliasing provoquée par la pixellisation des graphiques 3D.</translation>
     </message>
 </context>
 <context>
@@ -1143,124 +1146,126 @@ But cause issues in certain games.</source>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="42"/>
         <source>Advanced emulators settings &gt; Dolphin-emu</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres avancés des émulateurs &gt; Dolphin-emu</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="89"/>
         <source>Game screen</source>
-        <translation type="unfinished">Écran de jeu</translation>
+        <translation>Écran de jeu</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="101"/>
         <source>Internal Resolution</source>
-        <translation type="unfinished"></translation>
+        <translation>Résolution interne</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="102"/>
         <source>Controls the rendering resolution. 
 A high resolution greatly improves visual quality, 
 But cause issues in certain games.</source>
-        <translation type="unfinished"></translation>
+        <translation>Contrôle la résolution du rendu.
+Une haute résolution améliore considérablement la qualité visuelle,
+Mais peut entraîner des problèmes dans certains jeux.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="144"/>
         <source>Enable Vsync</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer Vsync</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="145"/>
         <source>Enable Vsync for best rendering, but improve performance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activez Vsync pour un meilleur rendu, mais améliorez les performances.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="157"/>
         <source>Enable Widescreen Hack</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer le forçage grand écran</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="158"/>
         <source>Force screen ratio to 16/9.</source>
-        <translation type="unfinished"></translation>
+        <translation>Forcer le rapport d&apos;écran à 16/9.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="173"/>
         <source>Anti-Aliasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Anti-Aliasing</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="174"/>
         <source>Reduce the amount of aliasing caused by rasterizing 3d graphics.</source>
-        <translation type="unfinished"></translation>
+        <translation>Réduisez la quantité d&apos;aliasing provoquée par la pixellisation des graphiques 3D.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="214"/>
         <source>Gameplay options</source>
-        <translation type="unfinished">Options de jeux</translation>
+        <translation>Options de jeux</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="221"/>
         <source>Enable Cheats</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer les astuces</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="222"/>
         <source>Ingames cheats enable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les astuces dans les jeux sont activées.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="232"/>
         <source>Controllers</source>
-        <translation type="unfinished">Contrôleurs</translation>
+        <translation>Contrôleurs</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="241"/>
         <source>Wiimote sensor bar position</source>
-        <translation type="unfinished">Position de la barre du capteur de la Wiimote</translation>
+        <translation>Position de la barre du capteur de la Wiimote</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="242"/>
         <source>set position to 1 for the sensor bar at the top of the screen, to 0 for the sensor bar at the bottom</source>
-        <translation type="unfinished">définir la position à 1 pour haut de l&apos;écran, 0 pour bas</translation>
+        <translation>définir la position à 1 pour haut de l&apos;écran, 0 pour bas</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="254"/>
         <source>Use authentics Wiimotes controllers</source>
-        <translation type="unfinished">Utiliser des contrôleurs Wiimotes authentiques</translation>
+        <translation>Utiliser des contrôleurs Wiimotes authentiques</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="255"/>
         <source>Use authentics Wiimotes pads in Wii games</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez des manettes Wiimotes authentiques dans les jeux Wii</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="267"/>
         <source>Activate nunchuck</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer le nunchuck</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="268"/>
         <source>For emulated Wiimotes using gamepads</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour les télécommandes Wii émulées utilisant le Gamepass</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="283"/>
         <source>Buttons mapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappage des boutons</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="284"/>
         <source>A/B/1/2 buttons position for emulated Wiimotes using gamepads</source>
-        <translation type="unfinished"></translation>
+        <translation>Position des boutons A/B/1/2 pour les Wiimotes émulées à l&apos;aide de manettes de jeu</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="328"/>
         <source>Use authentics Gamecube pads</source>
-        <translation type="unfinished">Utilisez des manettes Gamecube authentiques</translation>
+        <translation>Utilisez des manettes Gamecube authentiques</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinSettings.qml" line="329"/>
         <source>Use authentics Gamecube pads in Gamecube emulator</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser des manettes Gamecube authentiques dans l&apos;émulateur Gamecube</translation>
     </message>
 </context>
 <context>
@@ -1268,54 +1273,56 @@ But cause issues in certain games.</source>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinTriforceSettings.qml" line="42"/>
         <source>Advanced emulators settings &gt; Dolphin Triforce</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres avancés des émulateurs &gt; Dolphin Triforce</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinTriforceSettings.qml" line="88"/>
         <source>Game screen</source>
-        <translation type="unfinished">Écran de jeu</translation>
+        <translation>Écran de jeu</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinTriforceSettings.qml" line="100"/>
         <source>Internal Resolution</source>
-        <translation type="unfinished"></translation>
+        <translation>Résolution interne</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinTriforceSettings.qml" line="101"/>
         <source>Controls the rendering resolution. 
 A high resolution greatly improves visual quality, 
 But cause issues in certain games.</source>
-        <translation type="unfinished"></translation>
+        <translation>Contrôle la résolution du rendu.
+Une haute résolution améliore considérablement la qualité visuelle,
+Mais peut entraîner des problèmes dans certains jeux.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinTriforceSettings.qml" line="143"/>
         <source>Enable Vsync</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer Vsync</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinTriforceSettings.qml" line="144"/>
         <source>Enable Vsync for best rendering, but improve performance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activez Vsync pour un meilleur rendu, mais améliorez les performances.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinTriforceSettings.qml" line="156"/>
         <source>Enable Widescreen Hack</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer le forçage grand écran</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinTriforceSettings.qml" line="157"/>
         <source>Force screen ratio to 16/9.</source>
-        <translation type="unfinished"></translation>
+        <translation>Forcer le rapport d&apos;écran à 16/9.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinTriforceSettings.qml" line="172"/>
         <source>Anti-Aliasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Anti-Aliasing</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DolphinTriforceSettings.qml" line="173"/>
         <source>Reduce the amount of aliasing caused by rasterizing 3d graphics.</source>
-        <translation type="unfinished"></translation>
+        <translation>Réduisez la quantité d&apos;aliasing provoquée par la pixellisation des graphiques 3D.</translation>
     </message>
 </context>
 <context>
@@ -1323,49 +1330,51 @@ But cause issues in certain games.</source>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DuckstationSettings.qml" line="42"/>
         <source>Advanced emulators settings &gt; Duckstation</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres avancés des émulateurs &gt; Duckstation</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DuckstationSettings.qml" line="89"/>
         <source>Game screen</source>
-        <translation type="unfinished">Écran de jeu</translation>
+        <translation>Écran de jeu</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DuckstationSettings.qml" line="101"/>
         <source>Internal Resolution</source>
-        <translation type="unfinished"></translation>
+        <translation>Résolution interne</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DuckstationSettings.qml" line="102"/>
         <source>Controls the rendering resolution. 
 A high resolution greatly improves visual quality, 
 But cause issues in certain games.</source>
-        <translation type="unfinished"></translation>
+        <translation>Contrôle la résolution du rendu.
+Une haute résolution améliore considérablement la qualité visuelle,
+Mais peut entraîner des problèmes dans certains jeux.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DuckstationSettings.qml" line="144"/>
         <source>Enable Vsync</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer Vsync</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DuckstationSettings.qml" line="145"/>
         <source>Vertical Syncronisation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Synchronisation verticale.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DuckstationSettings.qml" line="155"/>
         <source>Gameplay options</source>
-        <translation type="unfinished">Options de jeux</translation>
+        <translation>Options de jeux</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DuckstationSettings.qml" line="162"/>
         <source>Enable Cheats</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer les astuces</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DuckstationSettings.qml" line="163"/>
         <source>Ingames cheats enable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les astuces dans les jeux sont activées.</translation>
     </message>
 </context>
 <context>
@@ -1486,161 +1495,171 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="77"/>
         <source>Games &gt; Game Reader/Dumper settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeux &gt; Paramètres du lecteur/capture de jeux</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="130"/>
         <source>USB-NES dumper</source>
-        <translation type="unfinished"></translation>
+        <translation>Capture USB-NES</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="149"/>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="230"/>
         <source>Cartridge SRAM in your saves</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartouche SRAM dans vos sauvegardes</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="150"/>
         <source>Move &apos;Save&apos; from cartridge to play with it (if not already move)
 (Unfortunatelly retroach/usb-nes are not compatible to update SRAM directly)</source>
-        <translation type="unfinished"></translation>
+        <translation>Déplacez «&#xa0;Enregistrer&#xa0;» de la cartouche pour jouer avec (si ce n&apos;est pas déjà fait)
+(Malheureusement, retroarch/usb-nes ne sont pas compatibles pour mettre à jour directement la SRAM)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="164"/>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="245"/>
         <source>Cartridge ROM in your dumps</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartouche ROM dans vos captures</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="165"/>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="246"/>
         <source>Copy and rename &apos;Rom&apos; from cartridge to keep it
 (will be in &apos;dumps&apos; share directory)</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiez et renommez la «&#xa0;Rom&#xa0;» de la cartouche pour la conserver
+(elle sera dans le répertoire de partage «&#xa0;dumps&#xa0;»)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="195"/>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="292"/>
         <source>Save rom information in file</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer les informations de la ROM dans le fichier</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="196"/>
         <source>Enable saving of rom information identified by the dumper
 (stored in your roms directory and named &apos;usb-nes.romlist.csv&apos;)</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer la sauvegarde des informations de la ROM identifiées par la capture
+(stockées dans votre répertoire roms et nommées &apos;usb-nes.romlist.csv&apos;)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="211"/>
         <source>RETRODE dumper</source>
-        <translation type="unfinished"></translation>
+        <translation>Capture RETRODE</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="231"/>
         <source>Move &apos;Save&apos; from cartridge to play with it (if not already move)
 (Unfortunatelly retroach/retrode are not compatible to update SRAM directly)</source>
-        <translation type="unfinished"></translation>
+        <translation>Déplacez «&#xa0;Enregistrer&#xa0;» de la cartouche pour jouer avec (si ce n&apos;est pas déjà fait)
+(Malheureusement, Retroach/Retrode ne sont pas compatibles pour mettre à jour directement la SRAM)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="293"/>
         <source>Enable saving of rom information identified by the dumper
 (stored in your roms directory and named &apos;retrode.romlist.csv&apos;)</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer la sauvegarde des informations de la ROM identifiées par la capture
+(stockées dans votre répertoire roms et nommées &apos;retrode.romlist.csv&apos;)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="310"/>
         <source>Controllers mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode contrôleurs</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="311"/>
         <source>Select a mode to manage Retrode controller ports
 (see RETRODE documentation for more details on this parameter)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez un mode pour gérer les ports du contrôleur Retrode
+(consultez la documentation RETRODE pour plus de détails sur ce paramètre)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="356"/>
         <source>Blink controllers</source>
-        <translation type="unfinished"></translation>
+        <translation>Contrôleurs de clignotement</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="357"/>
         <source>to blink green led when we press on gamepad controls (activated by default)
 (see RETRODE documentation for more details on this parameter)</source>
-        <translation type="unfinished"></translation>
+        <translation>faire clignoter la led verte lorsque l&apos;on appuie sur les commandes de la manette (activé par défaut)
+(voir la documentation RETRODE pour plus de détails sur ce paramètre)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="375"/>
         <source>Detection delay</source>
-        <translation type="unfinished"></translation>
+        <translation>Délai de détection</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="376"/>
         <source>Specifies the lag between insertion/removal and the triggering of re-detection routine
 (set to 5 usually)</source>
-        <translation type="unfinished"></translation>
+        <translation>Spécifie le décalage entre l&apos;insertion/le retrait et le déclenchement de la routine de redétection
+(généralement défini sur 5)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="404"/>
         <source>Force System</source>
-        <translation type="unfinished"></translation>
+        <translation>Système forcé</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="405"/>
         <source>Select a system to force rom detection or leave &apos;auto&apos; (default value)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez un système pour forcer la détection de la ROM ou laissez «&#xa0;auto&#xa0;» (valeur par défaut)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="453"/>
         <source>Force Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille forcé</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="454"/>
         <source>Select a size to force rom size or leave &apos;auto&apos; (default value)
 (see RETRODE documentation for more details on this parameter)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez une taille pour forcer la taille de la ROM ou laissez «&#xa0;auto&#xa0;» (valeur par défaut)
+(voir la documentation RETRODE pour plus de détails sur ce paramètre)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="499"/>
         <source>Force Mapper</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappage forcé</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="500"/>
         <source>to select alternative mapper (0 is default value)
 (see RETRODE documentation for more details on this parameter)</source>
-        <translation type="unfinished"></translation>
+        <translation>pour sélectionner un mappeur alternatif (0 est la valeur par défaut)
+(voir la documentation RETRODE pour plus de détails sur ce paramètre)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="528"/>
         <source>Update RETRODE.CFG (apply changes)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre à jour RETRODE.CFG (appliquer les modifications)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="543"/>
         <source>Are you ready to change settings of your device now ?&lt;br&gt;(After, it&apos;s adviced to re-plug retrode device to fully apply new settings)</source>
-        <translation type="unfinished"></translation>
+        <translation>Êtes-vous prêt à modifier les paramètres de votre appareil maintenant&#xa0;?&lt;br&gt;(Après, il est conseillé de rebrancher l&apos;appareil rétro pour appliquer complètement les nouveaux paramètres)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="546"/>
         <source>Yes</source>
-        <translation type="unfinished">Oui</translation>
+        <translation>Oui</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="548"/>
         <source>No</source>
-        <translation type="unfinished">Non</translation>
+        <translation>Non</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="556"/>
         <source>RETRODE not connected ?</source>
-        <translation type="unfinished"></translation>
+        <translation>RETRODE n&apos;est pas connecté ?</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDumperReaderSettings.qml" line="556"/>
         <source>Sorry, we can&apos;t update now the configuration&lt;br&gt;Your RETRODE device seems not connected to your pixL !</source>
-        <translation type="unfinished"></translation>
+        <translation>Désolé, nous ne pouvons pas mettre à jour maintenant la configuration&lt;br&gt;Votre appareil RETRODE ne semble pas connecté à votre pixL !</translation>
     </message>
 </context>
 <context>
@@ -1958,12 +1977,12 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/GamesMain.qml" line="328"/>
         <source>Game Reader/Dumper settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres du lecteur/capteur de jeu</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamesMain.qml" line="329"/>
         <source>Configure device(s) to read/dump your game</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurer le(s) périphérique(s) pour lire/capturer votre jeu</translation>
     </message>
     <message>
         <source>Gameplay options</source>
@@ -2083,7 +2102,7 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/dialogs/GenericWaitDialog.qml" line="120"/>
         <source>Please wait...</source>
-        <translation type="unfinished">Veuillez patienter...</translation>
+        <translation>Veuillez patienter...</translation>
     </message>
 </context>
 <context>
@@ -2572,118 +2591,119 @@ dans les répertoires suivants :</translation>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="42"/>
         <source>Advanced emulators settings &gt; Model2emu</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres avancés des émulateurs &gt; Model2emu</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="93"/>
         <source>Xinput</source>
-        <translation type="unfinished"></translation>
+        <translation>Xinput</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="94"/>
         <source>Enable Xinput mode for controllers (auto mapping forced and manage vibration) 
 else Dinput will be used. (on change, need reboot)</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer le mode Xinput pour les contrôleurs (mappage automatique forcé et gestion des vibrations)
+sinon Dinput sera utilisé. (en cas de changement, redémarrage nécessaire)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="109"/>
         <source>Fake Gouraud</source>
-        <translation type="unfinished"></translation>
+        <translation>Faux Gouraud</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="110"/>
         <source>Tries to guess Per-vertex colour (gouraud) from the Model2 per-poly information (flat).</source>
-        <translation type="unfinished"></translation>
+        <translation>Tente de deviner la couleur par vertex (gouraud) à partir des informations par poly du modèle 2 (plat).</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="121"/>
         <source>Bilinear Filtering</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrage bilinéaire</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="122"/>
         <source>Enables bilinear filtering of textures.</source>
-        <translation type="unfinished"></translation>
+        <translation>Permet le filtrage bilinéaire des textures.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="133"/>
         <source>Trilinear Filtering</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrage trilinéaire</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="134"/>
         <source>Enables mipmap usage and trilinear filtering. (doesn’t work with some games, DoA for example)</source>
-        <translation type="unfinished"></translation>
+        <translation>Permet l&apos;utilisation du mipmap et le filtrage trilinéaire. (ne fonctionne pas avec certains jeux, DoA par exemple)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="145"/>
         <source>Filter Tilemaps</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrer les Lignes de temps</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="146"/>
         <source>Enables bilinear filtering on tilemaps. (looks good, but can cause some stretch artifacts)</source>
-        <translation type="unfinished"></translation>
+        <translation>Active le filtrage bilinéaire sur les cartes de tuiles. (ça a l&apos;air bien, mais peut provoquer des artefacts d&apos;étirement)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="157"/>
         <source>Force Managed</source>
-        <translation type="unfinished"></translation>
+        <translation>Géré par la force</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="158"/>
         <source>Forces the DX driver to use Managed textures instead of Dynamic.</source>
-        <translation type="unfinished"></translation>
+        <translation>Force le pilote DX à utiliser des textures gérées au lieu de textures dynamiques.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="169"/>
         <source>Enable MIP</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer MIP</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="170"/>
         <source>Enables Direct3D Automipmap generation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Permet la génération de Direct3D Automipmap.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="181"/>
         <source>Mesh Transparency</source>
-        <translation type="unfinished"></translation>
+        <translation>Transparence du maillage</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="182"/>
         <source>Enabled meshed polygons for translucency.</source>
-        <translation type="unfinished"></translation>
+        <translation>Polygones maillés activés pour la translucidité.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="193"/>
         <source>Full screen anti-aliasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Anti-aliasing plein écran</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="194"/>
         <source>Enable full screen antialiasing in Direct3D.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer l&apos;anti-aliasing plein écran dans Direct3D.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="205"/>
         <source>Scanlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Scanlines</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="206"/>
         <source>Enable default scanlines.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer les lignes de scanlines par défaut.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="217"/>
         <source>Wine configuration (Beta)</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuration du Wine (Beta)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="228"/>
         <source>Wine &apos;engine&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Le « moteur » du Wine</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="229"/>
@@ -2692,57 +2712,57 @@ else Dinput will be used. (on change, need reboot)</source>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="367"/>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="425"/>
         <source>Select the one to use, keep &apos;AUTO&apos; if you don&apos;t know</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez celui à utiliser, gardez « AUTO » si vous ne savez pas</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="274"/>
         <source>Wine AppImage</source>
-        <translation type="unfinished"></translation>
+        <translation>Appimage Wine</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="320"/>
         <source>Wine architecture</source>
-        <translation type="unfinished"></translation>
+        <translation>Architecture Wine</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="366"/>
         <source>Windows version</source>
-        <translation type="unfinished"></translation>
+        <translation>Version Windows</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="408"/>
         <source>Wine Software renderer</source>
-        <translation type="unfinished"></translation>
+        <translation>Logiciel de rendu Wine</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="409"/>
         <source>Enable software renderer for wine</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer le moteur de rendu logiciel pour Wine</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="424"/>
         <source>Wine audio driver</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilote audio Wine</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="480"/>
         <source>Clean Model2emu wine bottle(s) (to re-install)</source>
-        <translation type="unfinished"></translation>
+        <translation>Conteneur(s) de Wine Model2emu propre(s) (à réinstaller)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="488"/>
         <source>Are you sure to delete existing bottles ?</source>
-        <translation type="unfinished"></translation>
+        <translation>Etes-vous sûr de vouloir supprimer les conteneurs existantes ?</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="491"/>
         <source>Yes</source>
-        <translation type="unfinished">Oui</translation>
+        <translation>Oui</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="493"/>
         <source>No</source>
-        <translation type="unfinished">Non</translation>
+        <translation>Non</translation>
     </message>
 </context>
 <context>
@@ -3042,7 +3062,7 @@ else Dinput will be used. (on change, need reboot)</source>
     <message>
         <location filename="../src/frontend/messages/NoGamesError.qml" line="24"/>
         <source>Pegasus couldn&apos;t find any games on your pixL. If you have not set up pixL yet, you can find the documentation here: &lt;i&gt;%1&lt;/i&gt;.&lt;br&gt;If you still see this message, make sure your config files are readable, exist in one of the expected locations and are in the expected format.&lt;br&gt; Click on &apos;Start&apos; from controller buttons, or &apos;F1&apos; from keyboard keys to load menu and change settings if necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegasus n&apos;a trouvé aucun jeu sur votre pixL. Si vous n&apos;avez pas encore configuré pixL, vous pouvez trouver la documentation ici&#xa0;: &lt;i&gt;%1&lt;/i&gt;.&lt;br&gt;Si vous voyez toujours ce message, assurez-vous que vos fichiers de configuration sont lisibles, qu&apos;ils existent dans l&apos;un des emplacements prévus et qu&apos;ils sont au format attendu.&lt;br&gt;Cliquez sur «&#xa0;Démarrer&#xa0;» à partir des boutons du contrôleur ou sur «&#xa0;F1&#xa0;» à partir des touches du clavier pour charger le menu et modifier les paramètres si nécessaire.</translation>
     </message>
     <message>
         <location filename="../src/frontend/messages/NoGamesError.qml" line="34"/>
@@ -3060,69 +3080,71 @@ else Dinput will be used. (on change, need reboot)</source>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Pcsx2Settings.qml" line="42"/>
         <source>Advanced emulators settings &gt; Pcsx2</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres avancés des émulateurs &gt; Pcsx2</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Pcsx2Settings.qml" line="89"/>
         <source>Game screen</source>
-        <translation type="unfinished">Écran de jeu</translation>
+        <translation>Écran de jeu</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Pcsx2Settings.qml" line="101"/>
         <source>Internal Resolution</source>
-        <translation type="unfinished"></translation>
+        <translation>Résolution interne</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Pcsx2Settings.qml" line="102"/>
         <source>Controls the rendering resolution. 
 A high resolution greatly improves visual quality, 
 But cause issues in certain games.</source>
-        <translation type="unfinished"></translation>
+        <translation>Contrôle la résolution du rendu.
+Une haute résolution améliore considérablement la qualité visuelle,
+Mais peut entraîner des problèmes dans certains jeux.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Pcsx2Settings.qml" line="144"/>
         <source>Enable Vsync</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer Vsync</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Pcsx2Settings.qml" line="145"/>
         <source>Vertical syncronisation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Synchronisation verticale.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Pcsx2Settings.qml" line="160"/>
         <source>Anisotropy</source>
-        <translation type="unfinished"></translation>
+        <translation>Anisotropy</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Pcsx2Settings.qml" line="161"/>
         <source>Reduce the amount of aliasing caused by rasterizing 3d graphics.</source>
-        <translation type="unfinished"></translation>
+        <translation>Réduisez la quantité d&apos;aliasing provoquée par la pixellisation des graphiques 3D.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Pcsx2Settings.qml" line="206"/>
         <source>Tv Shaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Shaders TV</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Pcsx2Settings.qml" line="207"/>
         <source>Set your shaders effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Définissez votre effet de shaders.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Pcsx2Settings.qml" line="247"/>
         <source>Gameplay options</source>
-        <translation type="unfinished">Options de jeux</translation>
+        <translation>Options de jeux</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Pcsx2Settings.qml" line="254"/>
         <source>Enable Cheats</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer les astuces</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Pcsx2Settings.qml" line="255"/>
         <source>Ingames cheats enable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les astuces dans les jeux sont activées.</translation>
     </message>
 </context>
 <context>
@@ -3130,90 +3152,92 @@ But cause issues in certain games.</source>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="42"/>
         <source>Advanced emulators settings &gt; PPSSPP</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres avancés des émulateurs &gt; PPSSPP</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="89"/>
         <source>Game screen</source>
-        <translation type="unfinished">Écran de jeu</translation>
+        <translation>Écran de jeu</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="101"/>
         <source>Internal Resolution</source>
-        <translation type="unfinished"></translation>
+        <translation>Résolution interne</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="102"/>
         <source>Controls the rendering resolution. 
 A high resolution greatly improves visual quality, 
 But cause issues in certain games.</source>
-        <translation type="unfinished"></translation>
+        <translation>Contrôle la résolution du rendu.
+Une haute résolution améliore considérablement la qualité visuelle,
+Mais peut entraîner des problèmes dans certains jeux.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="144"/>
         <source>Force 60Hz</source>
-        <translation type="unfinished"></translation>
+        <translation>Force 60Hz</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="145"/>
         <source>Render duplicate frames to 60Hz.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendre les images dupliquées à 60 Hz.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="159"/>
         <source>Antialiasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Antialiasing</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="160"/>
         <source>Antialiasing msaa level.</source>
-        <translation type="unfinished"></translation>
+        <translation>Niveau msaa d&apos;Antialiasing.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="205"/>
         <source>texture scaling level</source>
-        <translation type="unfinished"></translation>
+        <translation>niveau de mise à l&apos;échelle de la texture</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="206"/>
         <source>Set level of texture shaders.</source>
-        <translation type="unfinished"></translation>
+        <translation>Définir le niveau des shaders de texture.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="251"/>
         <source>texture scaling type</source>
-        <translation type="unfinished"></translation>
+        <translation>type de mise à l&apos;échelle de la texture</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="252"/>
         <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="299"/>
         <source>Set type of texture shaders.</source>
-        <translation type="unfinished"></translation>
+        <translation>Définir le type de shaders de texture.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="298"/>
         <source>texture shaders type</source>
-        <translation type="unfinished"></translation>
+        <translation>type de shader de texture</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="345"/>
         <source>Anisotropy level</source>
-        <translation type="unfinished"></translation>
+        <translation>Niveau Anisotropie</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="346"/>
         <source>Set anisotropy level.</source>
-        <translation type="unfinished"></translation>
+        <translation>Définir le niveau d&apos;anisotropie.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="391"/>
         <source>Texture filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtre de texture</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/PpssppSettings.qml" line="392"/>
         <source>Set type of texture filter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Définir le type de filtre de texture.</translation>
     </message>
 </context>
 <context>
@@ -3525,47 +3549,47 @@ But cause issues in certain games.</source>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="398"/>
         <source>Auto Multiple of 640x528</source>
-        <translation type="unfinished"></translation>
+        <translation>Multiple automatique de 640x528</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="398"/>
         <source>Native 640x528</source>
-        <translation type="unfinished"></translation>
+        <translation>Natif 640x528</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="398"/>
         <source>x2 Native 1280x1056 (720p)</source>
-        <translation type="unfinished"></translation>
+        <translation>x2 Natif 1280x1056 (720p)</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="398"/>
         <source>x3 Native 1920x1584 (1080p)</source>
-        <translation type="unfinished"></translation>
+        <translation>x3 Natif 1920x1584 (1080p)</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="399"/>
         <source>x4 Native 2560x2112 (1440p)</source>
-        <translation type="unfinished"></translation>
+        <translation>x4 Natif 2560x2112 (1440p)</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="399"/>
         <source>x5 Native 3200x2640</source>
-        <translation type="unfinished"></translation>
+        <translation>x5 natif 3200x2640</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="399"/>
         <source>x6 Native 3840x3168 (4k)</source>
-        <translation type="unfinished"></translation>
+        <translation>x6 Natif 3840x3168 (4k)</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="399"/>
         <source>x7 Native 4480x3696</source>
-        <translation type="unfinished"></translation>
+        <translation>x7 natif 4480x3696</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="400"/>
         <source>x8 Native 5120x4224 (5k)</source>
-        <translation type="unfinished"></translation>
+        <translation>x8 natif 5120x4224 (5k)</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="411"/>
@@ -3573,86 +3597,86 @@ But cause issues in certain games.</source>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="483"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="733"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="411"/>
         <source>2x MSAA</source>
-        <translation type="unfinished"></translation>
+        <translation>2x MSAA</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="411"/>
         <source>4x MSAA</source>
-        <translation type="unfinished"></translation>
+        <translation>4x MSAA</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="411"/>
         <source>8x MSAA</source>
-        <translation type="unfinished"></translation>
+        <translation>8x MSAA</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="419"/>
         <source>1-&gt;East/2-&gt;North/A-&gt;West/B-&gt;South</source>
-        <translation type="unfinished"></translation>
+        <translation>1-&gt;Est/2-&gt;Nord/A-&gt;Ouest/B-&gt;Sud</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="419"/>
         <source>B-&gt;East/A-&gt;North/2-&gt;West/1-&gt;South</source>
-        <translation type="unfinished"></translation>
+        <translation>B-&gt;Est/A-&gt;Nord/2-&gt;Ouest/1-&gt;Sud</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="428"/>
         <source>Native (ps1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Natif (ps1)</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="428"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="439"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="520"/>
         <source>x2 Native (720p)</source>
-        <translation type="unfinished"></translation>
+        <translation>x2 Natif (720p)</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="428"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="439"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="521"/>
         <source>x3 Native (1080p)</source>
-        <translation type="unfinished"></translation>
+        <translation>x3 Natif (1080p)</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="428"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="439"/>
         <source>x4 Native (1440p 2k)</source>
-        <translation type="unfinished"></translation>
+        <translation>x4 Natif (1440p 2k)</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="429"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="440"/>
         <source>x5 Native (1620p)</source>
-        <translation type="unfinished"></translation>
+        <translation>x5 Natif (1620p)</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="429"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="440"/>
         <source>x6 Native (4k)</source>
-        <translation type="unfinished"></translation>
+        <translation>x6 natif (4k)</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="429"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="440"/>
         <source>x7 Native (2520p)</source>
-        <translation type="unfinished"></translation>
+        <translation>x7 natif (2520p)</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="429"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="440"/>
         <source>x8 Native (2880p)</source>
-        <translation type="unfinished"></translation>
+        <translation>x8 natif (2880p)</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="439"/>
         <source>Native (ps2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Natif (ps2)</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="450"/>
@@ -3662,387 +3686,387 @@ But cause issues in certain games.</source>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="584"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="602"/>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Désactivé</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="450"/>
         <source>2x</source>
-        <translation type="unfinished"></translation>
+        <translation>2x</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="450"/>
         <source>4x</source>
-        <translation type="unfinished"></translation>
+        <translation>4x</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="450"/>
         <source>8x</source>
-        <translation type="unfinished"></translation>
+        <translation>8x</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="450"/>
         <source>16x</source>
-        <translation type="unfinished"></translation>
+        <translation>16x</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="459"/>
         <source>Scanline filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtre de Scanline</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="459"/>
         <source>Diagonal filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtre diagonal</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="460"/>
         <source>Triangular filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtre triangulaire</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="460"/>
         <source>Wave filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtre à ondes</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="460"/>
         <source>Lottes CRT filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtre CRT Lottes</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="470"/>
         <source>Auto (Window Size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto (taille de la fenêtre)</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="470"/>
         <source>Native 400x240</source>
-        <translation type="unfinished"></translation>
+        <translation>Natif 400x240</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="470"/>
         <source>x2 Native 800x480</source>
-        <translation type="unfinished"></translation>
+        <translation>x2 Natif 800x480</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="470"/>
         <source>x3 Native 1200x720</source>
-        <translation type="unfinished"></translation>
+        <translation>x3 Natif 1200x720</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="471"/>
         <source>x4 Native 1600x960</source>
-        <translation type="unfinished"></translation>
+        <translation>x4 natif 1600x960</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="471"/>
         <source>x5 Native 2000x1200</source>
-        <translation type="unfinished"></translation>
+        <translation>x5 Natif 2000x1200</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="471"/>
         <source>x6 Native 2400x1440</source>
-        <translation type="unfinished"></translation>
+        <translation>x6 natif 2400x1440</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="471"/>
         <source>x7 Native 2800x1680</source>
-        <translation type="unfinished"></translation>
+        <translation>x7 natif 2800x1680</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="472"/>
         <source>x8 Native 3200x1920</source>
-        <translation type="unfinished"></translation>
+        <translation>x8 natif 3200x1920</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="472"/>
         <source>x9 Native 3600x2160</source>
-        <translation type="unfinished"></translation>
+        <translation>x9 natif 3600x2160</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="472"/>
         <source>x10 Native 4000x2400</source>
-        <translation type="unfinished"></translation>
+        <translation>x10 natif 4000x2400</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="483"/>
         <source>Anime4k</source>
-        <translation type="unfinished"></translation>
+        <translation>Anime4k</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="483"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="497"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="575"/>
         <source>Bicubic</source>
-        <translation type="unfinished"></translation>
+        <translation>Bicubic</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="484"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="498"/>
         <source>Nearest Neighbor</source>
-        <translation type="unfinished"></translation>
+        <translation>Le voisin le plus proche</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="484"/>
         <source>ScaleForce</source>
-        <translation type="unfinished"></translation>
+        <translation>ScaleForce</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="484"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="575"/>
         <source>xBRZ</source>
-        <translation type="unfinished"></translation>
+        <translation>xBRZ</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="497"/>
         <source>Bilinear</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilinear</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="498"/>
         <source>Hermite</source>
-        <translation type="unfinished"></translation>
+        <translation>Hermite</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="509"/>
         <source>Double buffering</source>
-        <translation type="unfinished"></translation>
+        <translation>Double mise en mémoire tampon</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="509"/>
         <source>Triple buffering</source>
-        <translation type="unfinished"></translation>
+        <translation>Triple tampon</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="520"/>
         <source>Auto (screen resolution)</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto (résolution d&apos;écran)</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="520"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="531"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="544"/>
         <source>Native</source>
-        <translation type="unfinished"></translation>
+        <translation>Natif</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="521"/>
         <source>x4 Native (2k)</source>
-        <translation type="unfinished"></translation>
+        <translation>x4 Natif (2k)</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="521"/>
         <source>x5 Native (4k)</source>
-        <translation type="unfinished"></translation>
+        <translation>x5 Natif (4k)</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="531"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="544"/>
         <source>x2 Native</source>
-        <translation type="unfinished"></translation>
+        <translation>x2 Natif</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="531"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="544"/>
         <source>x3 Native</source>
-        <translation type="unfinished"></translation>
+        <translation>x3 Natif</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="531"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="545"/>
         <source>x4 Native</source>
-        <translation type="unfinished"></translation>
+        <translation>x4 Natif</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="532"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="545"/>
         <source>x5 Native</source>
-        <translation type="unfinished"></translation>
+        <translation>x5 Natif</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="532"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="545"/>
         <source>x6 Native</source>
-        <translation type="unfinished"></translation>
+        <translation>x6 Natif</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="532"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="545"/>
         <source>x7 Native</source>
-        <translation type="unfinished"></translation>
+        <translation>x7 Natif</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="532"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="546"/>
         <source>x8 Native</source>
-        <translation type="unfinished"></translation>
+        <translation>x8 Natif</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="533"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="546"/>
         <source>x9 Native</source>
-        <translation type="unfinished"></translation>
+        <translation>x9 Natif</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="533"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="546"/>
         <source>x10 Native</source>
-        <translation type="unfinished"></translation>
+        <translation>x10 Natif</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="544"/>
         <source>Auto 1:1</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto 1:1</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="557"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="566"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="584"/>
         <source>x2</source>
-        <translation type="unfinished"></translation>
+        <translation>x2</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="557"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="566"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="584"/>
         <source>x4</source>
-        <translation type="unfinished"></translation>
+        <translation>x4</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="557"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="584"/>
         <source>x8</source>
-        <translation type="unfinished"></translation>
+        <translation>x8</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="566"/>
         <source>x3</source>
-        <translation type="unfinished"></translation>
+        <translation>x3</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="566"/>
         <source>x5</source>
-        <translation type="unfinished"></translation>
+        <translation>x5</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="575"/>
         <source>Hybrid</source>
-        <translation type="unfinished"></translation>
+        <translation>hybride</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="575"/>
         <source>Hybrid + Bicubic</source>
-        <translation type="unfinished"></translation>
+        <translation>Hybride + Bicubique</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="584"/>
         <source>x16</source>
-        <translation type="unfinished"></translation>
+        <translation>x16</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="593"/>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="593"/>
         <source>Nearest</source>
-        <translation type="unfinished"></translation>
+        <translation>Le plus proche</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="593"/>
         <source>Linear</source>
-        <translation type="unfinished"></translation>
+        <translation>Linéaire</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="593"/>
         <source>Auto Max Quality</source>
-        <translation type="unfinished"></translation>
+        <translation>Qualité maximale automatique</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="602"/>
         <source>Tex2xBRZ</source>
-        <translation type="unfinished"></translation>
+        <translation>Tex2xBRZ</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="602"/>
         <source>Tex4xBRZ</source>
-        <translation type="unfinished"></translation>
+        <translation>Tex4xBRZ</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="602"/>
         <source>TexMMPX</source>
-        <translation type="unfinished"></translation>
+        <translation>TexMMPX</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="1246"/>
         <source>selected</source>
-        <translation type="unfinished"></translation>
+        <translation>choisie</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="611"/>
         <source>basic white</source>
-        <translation type="unfinished"></translation>
+        <translation>blanc basique</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="611"/>
         <source>basic black</source>
-        <translation type="unfinished"></translation>
+        <translation>noir basique</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="611"/>
         <source>nord</source>
-        <translation type="unfinished"></translation>
+        <translation>nord</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="612"/>
         <source>gruvbox dark</source>
-        <translation type="unfinished"></translation>
+        <translation>boîte de gruv sombre</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="612"/>
         <source>boysenberry</source>
-        <translation type="unfinished"></translation>
+        <translation>mûre de Boysen</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="612"/>
         <source>hacking the kernel</source>
-        <translation type="unfinished"></translation>
+        <translation>Modification du noyau</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="613"/>
         <source>twilight zone</source>
-        <translation type="unfinished"></translation>
+        <translation>zone crépusculaire</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="613"/>
         <source>dracula</source>
-        <translation type="unfinished"></translation>
+        <translation>dracula</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="613"/>
         <source>solarized dark</source>
-        <translation type="unfinished"></translation>
+        <translation>solarisé sombre</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="614"/>
         <source>solarized light</source>
-        <translation type="unfinished"></translation>
+        <translation>lumière solarisée</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="614"/>
         <source>gray dark</source>
-        <translation type="unfinished"></translation>
+        <translation>gris foncé</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="614"/>
         <source>gray light</source>
-        <translation type="unfinished"></translation>
+        <translation>lumière grise</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="615"/>
         <source>purple rain</source>
-        <translation type="unfinished"></translation>
+        <translation>pluie violette</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="706"/>
@@ -4123,57 +4147,57 @@ But cause issues in certain games.</source>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="794"/>
         <source>off</source>
-        <translation type="unfinished"></translation>
+        <translation>désactivé</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="794"/>
         <source>4 Gamepads + Mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>4 manettes de jeu + souris</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="794"/>
         <source>2 Gamepads</source>
-        <translation type="unfinished"></translation>
+        <translation>2 manettes de jeu</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="794"/>
         <source>Keyboard mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode clavier</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="794"/>
         <source>Arcade mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode arcade</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="800"/>
         <source>Super Nintendo/Super Famicom</source>
-        <translation type="unfinished"></translation>
+        <translation>Super Nintendo/Super Famicom</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="800"/>
         <source>Megadrive/Genesis</source>
-        <translation type="unfinished"></translation>
+        <translation>Megadrive/Genesis</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="800"/>
         <source>Nintendo 64</source>
-        <translation type="unfinished"></translation>
+        <translation>Nintendo 64</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="800"/>
         <source>Gameboy Advance</source>
-        <translation type="unfinished"></translation>
+        <translation>Gameboy Advance</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="800"/>
         <source>Gameboy/Gameboy Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Gameboy/Gameboy Color</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="800"/>
         <source>TurboGraphX/PC Engine</source>
-        <translation type="unfinished"></translation>
+        <translation>TurboGraphX/PC Engine</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="864"/>
@@ -4225,92 +4249,92 @@ But cause issues in certain games.</source>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="42"/>
         <source>Advanced emulators settings &gt; Retroarch</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres avancés des émulateurs &gt; Retroarch</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="89"/>
         <source>Game screen</source>
-        <translation type="unfinished">Écran de jeu</translation>
+        <translation>Écran de jeu</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="98"/>
         <source>Pixel perfect</source>
-        <translation type="unfinished">Pixel parfait</translation>
+        <translation>Pixel parfait</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="99"/>
         <source>Once enabled, your screen will be cropped, and you will have a pixel perfect image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Une fois activé, votre écran sera recadré et vous aurez une image parfaite au pixel près.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="111"/>
         <source>Smooth games</source>
-        <translation type="unfinished">Lissage en jeux</translation>
+        <translation>Lissage en jeux</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="112"/>
         <source>Set smooth for all Retroarch core.</source>
-        <translation type="unfinished"></translation>
+        <translation>Réglez en douceur pour tous les noyaux Retroarch.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="122"/>
         <source>Gameplay options</source>
-        <translation type="unfinished">Options de jeux</translation>
+        <translation>Options de jeux</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="129"/>
         <source>Game rewind</source>
-        <translation type="unfinished">Rembobinage du jeu</translation>
+        <translation>Rembobinage du jeu</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="130"/>
         <source>Set rewind for all Retroarch core.</source>
-        <translation type="unfinished"></translation>
+        <translation>Définir le rembobinage pour tous les noyaux Retroarch.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="142"/>
         <source>Auto save/load</source>
-        <translation type="unfinished">Sauvegarde/chargement automatique</translation>
+        <translation>Sauvegarde/chargement automatique</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="143"/>
         <source>Set autosave/load savestate for all Retroarch core.</source>
-        <translation type="unfinished"></translation>
+        <translation>Définir l&apos;état de sauvegarde/chargement automatique pour tous les cœurs Retroarch.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="153"/>
         <source>Menu options</source>
-        <translation type="unfinished"></translation>
+        <translation>Options de menu</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="160"/>
         <source>Swap menu validate</source>
-        <translation type="unfinished"></translation>
+        <translation>Valider le menu d&apos;échange</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="161"/>
         <source>Swap buttons for OK/Cancel in retroarch menu only.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échangez les boutons pour OK/Annuler dans le menu Retroarch uniquement.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="173"/>
         <source>Load content animations</source>
-        <translation type="unfinished"></translation>
+        <translation>Charger les animations de contenu</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="174"/>
         <source>Show a little animation on launch game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher une petite animation au lancement du jeu.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="188"/>
         <source>Change menu color</source>
-        <translation type="unfinished"></translation>
+        <translation>Changer la couleur du menu</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/RetroarchSettings.qml" line="189"/>
         <source>Change color of retroarch interface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Changer la couleur de l&apos;interface retroarch.</translation>
     </message>
 </context>
 <context>
@@ -4391,12 +4415,12 @@ But cause issues in certain games.</source>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="343"/>
         <source>Brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>Luminosité</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="344"/>
         <source>Set backlight brightness for internal/primary screen only</source>
-        <translation type="unfinished"></translation>
+        <translation>Régler la luminosité du rétroéclairage pour l&apos;écran interne/principal uniquement</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="393"/>
@@ -4426,32 +4450,32 @@ Attention certains matériels ne sont pas compatibles avec cette option à utili
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="457"/>
         <source>move &apos;share&apos; to an other storage</source>
-        <translation type="unfinished"></translation>
+        <translation>déplacer «&#xa0;partager&#xa0;» vers un autre stockage</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="472"/>
         <source>Share compatibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Partage de compatibilité</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="472"/>
         <source>Sorry you can&apos;t change to </source>
-        <translation type="unfinished"></translation>
+        <translation>Désolé, vous ne pouvez pas changer de</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="472"/>
         <source>because ext4 file system format is not yet supported !</source>
-        <translation type="unfinished"></translation>
+        <translation>car le format du système de fichiers ext4 n&apos;est pas encore pris en charge !</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="525"/>
         <source>Advanced directories configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuration avancée des répertoires</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="526"/>
         <source>Choose your directorires to take into account if needed</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez vos répertoires à prendre en compte si besoin</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="642"/>
@@ -4625,214 +4649,225 @@ Cela peut aider à réduire vos douleurs oculaires si vous travaillez devant l&a
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="42"/>
         <source>Advanced emulators settings &gt; Supermodel</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres avancés des émulateurs &gt; Supermodel</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="89"/>
         <source>Game screen</source>
-        <translation type="unfinished">Écran de jeu</translation>
+        <translation>Écran de jeu</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="101"/>
         <source>Internal Resolution</source>
-        <translation type="unfinished"></translation>
+        <translation>Résolution interne</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="102"/>
         <source>Controls the rendering resolution. 
 A high resolution greatly improves visual quality, 
 But cause issues in certain games.</source>
-        <translation type="unfinished"></translation>
+        <translation>Contrôle la résolution du rendu.
+Une haute résolution améliore considérablement la qualité visuelle,
+Mais peut entraîner des problèmes dans certains jeux.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="144"/>
         <source>Crosshairs</source>
-        <translation type="unfinished"></translation>
+        <translation>Réticule</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="145"/>
         <source>Active crosshairs on lightgun games.</source>
-        <translation type="unfinished"></translation>
+        <translation>Réticule actif sur les jeux de pistolet lumineux.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="155"/>
         <source>Core options</source>
-        <translation type="unfinished">Options de core</translation>
+        <translation>Options de core</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="162"/>
         <source>New 3d engine</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouveau moteur 3D</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="163"/>
         <source>Switch between legacy and new 3d engine. 
 Enable for new 3d engine by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Basculer entre l&apos;ancien et le nouveau moteur 3D.
+Activer pour le nouveau moteur 3D par défaut.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="175"/>
         <source>Multi textures</source>
-        <translation type="unfinished"></translation>
+        <translation>Multi-textures</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="176"/>
         <source>Use 8 texture maps for decoding (legacy engine). 
 Disabled on default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser 8 cartes de texture pour le décodage (moteur hérité).
+Désactivé par défaut.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="189"/>
         <source>Gpu threaded</source>
-        <translation type="unfinished"></translation>
+        <translation>GPU fileté</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="190"/>
         <source>Run graphics rendering in main thread. 
 Enable by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exécutez le rendu graphique dans le thread principal.
+Activé par défaut.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="202"/>
         <source>Quad Rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendu quadruple</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="203"/>
         <source>Enable proper quad rendering. 
 Enable by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer le rendu quadruple approprié.
+Activé par défaut.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="244"/>
         <source>Netplay</source>
-        <translation type="unfinished">Netplay</translation>
+        <translation>Netplay</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="251"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>Réseau</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="252"/>
         <source>Enable Network betwen two cab.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer le réseau entre deux cabines.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="263"/>
         <source>Address Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresse de sortie</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="264"/>
         <source>type your output address for next net cab&apos;s.</source>
-        <translation type="unfinished"></translation>
+        <translation>tapez votre adresse de sortie pour les prochaines cabines réseau.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="271"/>
         <source>127.0.0.1</source>
-        <translation type="unfinished"></translation>
+        <translation>127.0.0.1</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="283"/>
         <source>Port In</source>
-        <translation type="unfinished"></translation>
+        <translation>Port d&apos;entrée</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="284"/>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="304"/>
         <source>type your Input port for next net cab&apos;s.</source>
-        <translation type="unfinished"></translation>
+        <translation>tapez votre port d&apos;entrée pour les prochaines cabines réseau.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="291"/>
         <source>1970</source>
-        <translation type="unfinished"></translation>
+        <translation>1970</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="303"/>
         <source>Port Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Port de sortie</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="311"/>
         <source>1971</source>
-        <translation type="unfinished"></translation>
+        <translation>1971</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="322"/>
         <source>Sound configuration</source>
-        <translation type="unfinished">Configuration du son</translation>
+        <translation>Configuration du son</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="329"/>
         <source>Legacy Sound engine</source>
-        <translation type="unfinished"></translation>
+        <translation>Moteur de son hérité</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="330"/>
         <source>Use Legacy SCSP engine. 
 Disable on default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser le moteur SCSP hérité.
+Désactiver par défaut.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="342"/>
         <source>Flip stereo</source>
-        <translation type="unfinished"></translation>
+        <translation>Retourner la chaîne stéréo</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="343"/>
         <source>Swap left and right audio channels.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échangez les canaux audio gauche et droit.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="353"/>
         <source>Controllers</source>
-        <translation type="unfinished">Contrôleurs</translation>
+        <translation>Contrôleurs</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="360"/>
         <source>Active service button</source>
-        <translation type="unfinished"></translation>
+        <translation>Bouton de service actif</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="361"/>
         <source>Active service button for acces menu test arcade game. 
 Configured in L3: service R3 test.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bouton de service actif pour accéder au menu de test du jeu d&apos;arcade.
+Configuré en L3&#xa0;: test du service R3.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="377"/>
         <source>Set sensitvity Controller</source>
-        <translation type="unfinished"></translation>
+        <translation>Régler la sensibilité du contrôleur</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="378"/>
         <source>The sensitvity is expressed as a percentage. 
 The default value is 25%.</source>
-        <translation type="unfinished"></translation>
+        <translation>La sensibilité est exprimée en pourcentage.
+La valeur par défaut est de 25 %.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="408"/>
         <source>Set dead zone Controller</source>
-        <translation type="unfinished"></translation>
+        <translation>Définir la zone morte Contrôleur</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="409"/>
         <source>The dead zone is expressed as a percentage. 
 the axis and the default value is 2%.</source>
-        <translation type="unfinished"></translation>
+        <translation>La zone morte est exprimée en pourcentage.
+l&apos;axe et la valeur par défaut est 2%.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="439"/>
         <source>Set saturation controller</source>
-        <translation type="unfinished"></translation>
+        <translation>Régler le contrôleur de saturation</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="440"/>
         <source>The saturation is expressed as a percentage 0-200. 
 the default value is 100%.</source>
-        <translation type="unfinished"></translation>
+        <translation>La saturation est exprimée en pourcentage de 0 à 200.
+La valeur par défaut est 100 %.</translation>
     </message>
 </context>
 <context>
@@ -4955,7 +4990,7 @@ the default value is 100%.</source>
     <message>
         <location filename="../src/frontend/messages/ThemeError.qml" line="24"/>
         <source>Pegasus tried to load the selected theme (%1), but failed. This may happen when you try to load an outdated theme, theme is missing/not accessible, or when there&apos;s a bug in its code.&lt;br&gt; Click on &apos;Start&apos; from controller buttons, or &apos;F1&apos; from keyboard keys to load menu and change settings if necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegasus a essayé de charger le thème sélectionné (%1), mais a échoué. Cela peut se produire lorsque vous essayez de charger un thème obsolète, un thème manquant/inaccessible ou lorsqu&apos;il y a un bug dans son code.&lt;br&gt;Cliquez sur «&#xa0;Démarrer&#xa0;» à partir des boutons du contrôleur ou sur «&#xa0;F1&#xa0;» à partir des touches du clavier pour charger le menu et modifier les paramètres si nécessaire.</translation>
     </message>
     <message>
         <location filename="../src/frontend/messages/ThemeError.qml" line="32"/>
@@ -5324,24 +5359,26 @@ lors de la connexion/déconnexion d&apos;un écran</translation>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/XemuSettings.qml" line="42"/>
         <source>Advanced emulators settings &gt; Xemu</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres avancés des émulateurs &gt; Xemu</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/XemuSettings.qml" line="89"/>
         <source>Game screen</source>
-        <translation type="unfinished">Écran de jeu</translation>
+        <translation>Écran de jeu</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/XemuSettings.qml" line="101"/>
         <source>Internal Resolution</source>
-        <translation type="unfinished"></translation>
+        <translation>Résolution interne</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/XemuSettings.qml" line="102"/>
         <source>Controls the rendering resolution. 
 A high resolution greatly improves visual quality, 
 But cause issues in certain games.</source>
-        <translation type="unfinished"></translation>
+        <translation>Contrôle la résolution du rendu.
+Une haute résolution améliore considérablement la qualité visuelle,
+Mais peut entraîner des problèmes dans certains jeux.</translation>
     </message>
 </context>
 <context>
@@ -5402,7 +5439,7 @@ Es-tu sur?</translation>
     <message>
         <location filename="../src/frontend/main.qml" line="724"/>
         <source>A game is in the cartridge reader</source>
-        <translation type="unfinished"></translation>
+        <translation>Un jeu est dans le lecteur de cartouche</translation>
     </message>
     <message>
         <location filename="../src/frontend/main.qml" line="796"/>
@@ -5412,52 +5449,52 @@ Es-tu sur?</translation>
         <location filename="../src/frontend/main.qml" line="1018"/>
         <location filename="../src/frontend/main.qml" line="1071"/>
         <source>Video game cartridge reader</source>
-        <translation type="unfinished"></translation>
+        <translation>Lecteur de cartouches de jeux vidéo</translation>
     </message>
     <message>
         <location filename="../src/frontend/main.qml" line="796"/>
         <source>USB-NES cartridge reloaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartouche USB-NES rechargée</translation>
     </message>
     <message>
         <location filename="../src/frontend/main.qml" line="897"/>
         <source>unknown game / not recognized</source>
-        <translation type="unfinished"></translation>
+        <translation>jeu inconnu / non reconnu</translation>
     </message>
     <message>
         <location filename="../src/frontend/main.qml" line="918"/>
         <source>USB-NES cartridge unplugged</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartouche USB-NES débranchée</translation>
     </message>
     <message>
         <location filename="../src/frontend/main.qml" line="930"/>
         <source>USB-NES no cartridge detected</source>
-        <translation type="unfinished"></translation>
+        <translation>USB-NES aucune cartouche détectée</translation>
     </message>
     <message>
         <location filename="../src/frontend/main.qml" line="989"/>
         <source>RETRODE</source>
-        <translation type="unfinished"></translation>
+        <translation>RETRODE</translation>
     </message>
     <message>
         <location filename="../src/frontend/main.qml" line="989"/>
         <source>ROM is loading from reader/dumper...</source>
-        <translation type="unfinished"></translation>
+        <translation>La ROM est en cours de chargement à partir du lecteur/capteur...</translation>
     </message>
     <message>
         <location filename="../src/frontend/main.qml" line="1006"/>
         <source>RETRODE cartridge unplugged</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartouche RETRODE débranchée</translation>
     </message>
     <message>
         <location filename="../src/frontend/main.qml" line="1018"/>
         <source>RETRODE no cartridge detected</source>
-        <translation type="unfinished"></translation>
+        <translation>RETRODE aucune cartouche détectée</translation>
     </message>
     <message>
         <location filename="../src/frontend/main.qml" line="1071"/>
         <source>RETRODE cartridge reloaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartouche RETRODE rechargée</translation>
     </message>
     <message>
         <location filename="../src/frontend/main.qml" line="1226"/>
@@ -5482,22 +5519,22 @@ Es-tu sur?</translation>
     <message>
         <location filename="../src/frontend/main.qml" line="1248"/>
         <source>New USB device detected with ROMS directory, do you want to parse it now ?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouveau périphérique USB détecté avec le répertoire ROMS, voulez-vous l&apos;analyser maintenant ?</translation>
     </message>
     <message>
         <location filename="../src/frontend/main.qml" line="1253"/>
         <source>USB device removed, do you want to refresh list of games ?</source>
-        <translation type="unfinished"></translation>
+        <translation>Périphérique USB retiré, souhaitez-vous rafraîchir la liste des jeux ?</translation>
     </message>
     <message>
         <location filename="../src/frontend/main.qml" line="1265"/>
         <source>retrode removed</source>
-        <translation type="unfinished"></translation>
+        <translation>retrode enlevée</translation>
     </message>
     <message>
         <location filename="../src/frontend/main.qml" line="1290"/>
         <source>usb-nes removed</source>
-        <translation type="unfinished"></translation>
+        <translation>usb-nes supprimé</translation>
     </message>
     <message>
         <location filename="../src/frontend/main.qml" line="1506"/>
@@ -5517,17 +5554,17 @@ Es-tu sur?</translation>
     <message>
         <location filename="../src/frontend/main.qml" line="1892"/>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Information</translation>
     </message>
     <message>
         <location filename="../src/frontend/main.qml" line="1894"/>
         <source>Upgrade failed !</source>
-        <translation type="unfinished"></translation>
+        <translation>La mise à niveau a échoué&#xa0;!</translation>
     </message>
     <message>
         <location filename="../src/frontend/main.qml" line="1897"/>
         <source>Upgrade done !</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour effectuée !</translation>
     </message>
     <message>
         <location filename="../src/frontend/main.qml" line="1981"/>
