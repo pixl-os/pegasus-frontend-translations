@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file (focus on change done on recalbox-integration branch).
 
+## [pixL-master] - 2024-10-09
+
+- french translations for AdvancedDirectoriesConf, CemuSettings, Model2emuSettings, Pcsx2Settings, Parameterlists, RetroarchSettings, CitraSettings, DolphinSettings, DolphinTriforceSettings, DuckstationSettings, GameDumperReaderSettings, SettingsMain, SupermodelSettings, XemuSettings and Main
+
 ## [pixL-master] - 2024-05-01
 - french translations for video settings/controllers/games settings
 
