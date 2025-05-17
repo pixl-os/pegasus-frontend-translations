@@ -3734,7 +3734,7 @@ Mais peut entraîner des problèmes dans certains jeux.</translation>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="624"/>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="674"/>
         <source>Bilinear</source>
-        <translation>Bilinear</translation>
+        <translation>Bilinéaire</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="592"/>
@@ -4477,7 +4477,7 @@ Inférieure à 100 % n&apos;améliore pas les performances.</translation>
         <source>By having this off you might obtain a higher framerate at 
 the cost of tearing artifacts in the game.</source>
         <translation>En désactivant cette option, vous pourriez obtenir une fréquence d&apos;images plus élevée
-, au prix de la destruction d&apos;artefacts dans le jeu.</translation>
+au prix de la destruction d&apos;artefacts dans le jeu.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Rpcs3Settings.qml" line="160"/>
@@ -4488,8 +4488,8 @@ the cost of tearing artifacts in the game.</source>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Rpcs3Settings.qml" line="161"/>
         <source>Nearest applies no filtering, bilinear smooths the image, 
 and fidelity super resolution enhances upscaled images.</source>
-        <translation>&quot;La plus proche&quot; n&apos;applique aucun filtrage, &quot;Bilinéaire&quot; lisse l&apos;image et 
-la super résolution de fidélité améliore les images mises à l&apos;échelle.</translation>
+        <translation>&quot;Le plus proche&quot; n&apos;applique aucun filtrage, &quot;Bilinéaire&quot; lisse l&apos;image et 
+la "Super Resolution" de fidélité améliore les images mises à l&apos;échelle.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Rpcs3Settings.qml" line="204"/>
