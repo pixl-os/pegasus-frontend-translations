@@ -4897,7 +4897,7 @@ the cost of tearing artifacts in the game.</source>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Rpcs3Settings.qml" line="161"/>
         <source>Nearest applies no filtering, bilinear smooths the image, 
 and fidelity super resolution enhances upscaled images.</source>
-        <translation>&quot;Nearest&quot; n&apos;applique aucun filtrage, &quot;Bilinéaire&quot; lisse l&apos;image et 
+        <translation>&quot;La plus proche&quot; n&apos;applique aucun filtrage, &quot;Bilinéaire&quot; lisse l&apos;image et 
 la super résolution de fidélité améliore les images mises à l&apos;échelle.</translation>
     </message>
     <message>
@@ -4933,18 +4933,19 @@ La valeur par défaut est de 50 %.</translation>
         <translation>Si vous n&apos;avez pas de jeton, vérifiez votre courrier après avoir créé un compte</translation>
     </message>
     <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Rpcs3Settings.qml" line="348"/>
+        <source>GUI Theme</source>
+        <translation>Theme IGU</translation>
+    </message>
+    <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Rpcs3Settings.qml" line="349"/>
         <source>Changes the overall look of RPCS3</source>
         <translation>Modifie l&apos;apparence générale de RPCS3</translation>
     </message>
     <message>
-        <source>Network Statut</source>
-        <translation type="vanished">Statut réseau</translation>
-    </message>
-    <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Rpcs3Settings.qml" line="238"/>
         <source>If set to Connected, RPCS3 will alow programs to use internet connection.</source>
-        <translation>Si défini sur Connecté, RPCS3 autorisera les programmes à utiliser la connexion Internet.</translation>
+        <translation>Si Connecté, RPCS3 autorisera les programmes à utiliser la connexion Internet.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Rpcs3Settings.qml" line="250"/>
@@ -4955,10 +4956,6 @@ La valeur par défaut est de 50 %.</translation>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Rpcs3Settings.qml" line="251"/>
         <source>This will automactically forward ports bound on 0.0.0.0 if your router has UPNP enabled.</source>
         <translation>Cela transférera automatiquement les ports liés à 0.0.0.0 si votre routeur a UPNP activé.</translation>
-    </message>
-    <message>
-        <source>PSN Statut</source>
-        <translation type="vanished">Statut PSN</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Rpcs3Settings.qml" line="265"/>
@@ -5008,7 +5005,7 @@ après avoir créé un compte</translation>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Rpcs3Settings.qml" line="348"/>
         <source>Changes theme menu</source>
-        <translation>Menu de changement de théme</translation>
+        <translation>Théme du menu</translation>
     </message>
 </context>
 <context>
