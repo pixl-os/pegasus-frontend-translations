@@ -14,18 +14,6 @@
         <translation>Retroachievement</translation>
     </message>
     <message>
-        <source>Activate retroachievement</source>
-        <translation type="vanished">Activer les retroachievements</translation>
-    </message>
-    <message>
-        <source>Achievements to your favourites retro games.</source>
-        <translation type="vanished">Remporter Les trophées de vos jeux rétro favoris.</translation>
-    </message>
-    <message>
-        <source>Connect retroachievement</source>
-        <translation type="vanished">Connexion à retroarchievement</translation>
-    </message>
-    <message>
         <location filename="../src/frontend/menu/settings/AccountMain.qml" line="122"/>
         <source>If you don&apos;t have an account go to the site :
  https://retroachievements.org/</source>
@@ -76,10 +64,6 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
         <translation>Faites une capture d&apos;écran lorsqu&apos;un trophée est débloqué.</translation>
     </message>
     <message>
-        <source>Activate Unlock Sounds</source>
-        <translation type="vanished">Activer le son de déverrouillage</translation>
-    </message>
-    <message>
         <location filename="../src/frontend/menu/settings/AccountMain.qml" line="186"/>
         <source>Play Sounds if you unlock a trophies.</source>
         <translation>Jouez un son si vous débloquez un trophée.</translation>
@@ -88,22 +72,6 @@ Fonctionne uniquement avec les cores Retroarch.</translation>
         <location filename="../src/frontend/menu/settings/AccountMain.qml" line="219"/>
         <source>Netplay</source>
         <translation>Netplay</translation>
-    </message>
-    <message>
-        <source>Activate netplay</source>
-        <translation type="vanished">Activer le netplay</translation>
-    </message>
-    <message>
-        <source>Play with your friends online</source>
-        <translation type="vanished">Jouer avec vos amis en ligne</translation>
-    </message>
-    <message>
-        <source>Netplay information</source>
-        <translation type="vanished">Information netplay</translation>
-    </message>
-    <message>
-        <source>Show netplay information roms etc ...</source>
-        <translation type="vanished">Afficher les informations netplay, roms etc ...</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AccountMain.qml" line="185"/>
@@ -219,23 +187,9 @@ Utilisant le calcul de hash md5 pendant le chargement des listes de jeux
         <translation>Contrôleurs Bluetooth</translation>
     </message>
     <message>
-        <source>Enable bluetooth</source>
-        <translation type="vanished">Activer le bluetooth</translation>
-    </message>
-    <message>
-        <source>Enable support for bluetooth controllers</source>
-        <translation type="vanished">Activer le support des contrôleurs bluetooth</translation>
-    </message>
-    <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="176"/>
         <source>Enable Auto pairing</source>
         <translation>Activer l&apos;appairage automatique</translation>
-    </message>
-    <message>
-        <source>Enable support of autopairing during 5 min after boot for bluetooth controllers.
-Please reboot to apply change</source>
-        <translation type="vanished">Active l&apos;appairage des contrôleurs bluetooth pendant 5 min après le démarrage.
-Merci de redémarrer pour prendre en compte les changements</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="177"/>
@@ -412,81 +366,9 @@ et changer le paramétrage ?</translation>
         <translation>Non</translation>
     </message>
     <message>
-        <source>Sony controllers</source>
-        <translation type="vanished">Contrôleurs Sony</translation>
-    </message>
-    <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="559"/>
         <source>Arcade Stick Driver</source>
         <translation>Driver Stick Arcade</translation>
-    </message>
-    <message>
-        <source>Xbox One/Series controllers</source>
-        <translation type="vanished">Contrôleurs Xbox One/Series</translation>
-    </message>
-    <message>
-        <source>xow daemon activation</source>
-        <translation type="vanished">Activation du script xow</translation>
-    </message>
-    <message>
-        <source>Stop/Start daemon to help Xbox One/Series wireless dongle usage - no need to restart</source>
-        <translation type="vanished">Script d&apos;arrêt/démarrage pour faciliter l&apos;utilisation du dongle sans fil Xbox One/Series - pas besoin de redémarrer</translation>
-    </message>
-    <message>
-        <source>Enable Sony Playstation bluetooth controllers</source>
-        <translation type="vanished">Activer les manettes bluetooth Sony Playstation</translation>
-    </message>
-    <message>
-        <source>Sony Playstation 3,4,5 controllers supported</source>
-        <translation type="vanished">Support des manettes Sony Playstation 3,4,5</translation>
-    </message>
-    <message>
-        <source>Sony controllers drivers bluetooth</source>
-        <translation type="vanished">Pilotes des Contrôleurs Sony bluetooth</translation>
-    </message>
-    <message>
-        <source>Choose a driver between bluez, official and shanwan</source>
-        <translation type="vanished">Choisissez un pilote entre bluez, official et shanwan</translation>
-    </message>
-    <message>
-        <source>Db9 controllers</source>
-        <translation type="vanished">Contrôleurs Db9</translation>
-    </message>
-    <message>
-        <source>Enable driver DB9</source>
-        <translation type="vanished">Activer le pilote Db9</translation>
-    </message>
-    <message>
-        <source>Enable DB9 drivers for atari, megadrive, amiga controllers</source>
-        <translation type="vanished">Activer le pilote DB9 pour les contrôleurs atari, megadrive, amiga</translation>
-    </message>
-    <message>
-        <source>DB9 Arguement</source>
-        <translation type="vanished">Argument Db9</translation>
-    </message>
-    <message>
-        <source>Enable DB9 Arguments Mapping for atari, megadrive, amiga controllers</source>
-        <translation type="vanished">Activer les arguments DB9 pour les contrôleurs atari, megadrive, amiga</translation>
-    </message>
-    <message>
-        <source>Gamecon controllers</source>
-        <translation type="vanished">Contrôleurs Gamecon</translation>
-    </message>
-    <message>
-        <source>Gamecon controller</source>
-        <translation type="vanished">Contrôleurs Gamecon</translation>
-    </message>
-    <message>
-        <source>Enable gamecon controllers, for nes, snes, psx</source>
-        <translation type="vanished">Activer le Gamecon DB9 pour les contrôleurs nes, snes, psx</translation>
-    </message>
-    <message>
-        <source>Enable gamecon Arguments mapping, for nes, snes, psx</source>
-        <translation type="vanished">Activer les arguments Gamecon pour les contrôleurs nes, snes, psx</translation>
-    </message>
-    <message>
-        <source>Arcade Stick</source>
-        <translation type="vanished">Stick arcade</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/AdvancedControllersConf.qml" line="566"/>
@@ -1178,10 +1060,6 @@ et activé depuis la configuration vidéo pour fonctionner</translation>
         <translation>Contrôleurs</translation>
     </message>
     <message>
-        <source>Pair bluetooth controllers</source>
-        <translation type="vanished">Apparier les contrôleurs bluetooth</translation>
-    </message>
-    <message>
         <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="129"/>
         <source>Bluetooth devices</source>
         <translation>Dispositifs Bluetooth</translation>
@@ -1235,22 +1113,6 @@ et activé depuis la configuration vidéo pour fonctionner</translation>
         <location filename="../src/frontend/menu/settings/ControllersMain.qml" line="537"/>
         <source></source>
         <translation></translation>
-    </message>
-    <message>
-        <source>Input player 1</source>
-        <translation type="vanished">Entrée joueur 1</translation>
-    </message>
-    <message>
-        <source>Input player 2</source>
-        <translation type="vanished">Entrée joueur 2</translation>
-    </message>
-    <message>
-        <source>Input player 3</source>
-        <translation type="vanished">Entrée joueur 3</translation>
-    </message>
-    <message>
-        <source>Input player 4</source>
-        <translation type="vanished">Entrée joueur 4</translation>
     </message>
 </context>
 <context>
@@ -1499,89 +1361,6 @@ Mais peut entraîner des problèmes dans certains jeux.</translation>
         <location filename="../src/frontend/menu/settings/emulatorsetting/DuckstationSettings.qml" line="163"/>
         <source>Ingames cheats enable.</source>
         <translation>Les astuces dans les jeux sont activées.</translation>
-    </message>
-</context>
-<context>
-    <name>EmulatorConfiguration</name>
-    <message>
-        <source>Advanced emulators settings &gt; </source>
-        <translation type="vanished">Paramètres avancés des émulateurs &gt; </translation>
-    </message>
-    <message>
-        <source>Game screen</source>
-        <translation type="vanished">Écran de jeu</translation>
-    </message>
-    <message>
-        <source>Game ratio</source>
-        <translation type="vanished">Ratio de jeu</translation>
-    </message>
-    <message>
-        <source>Set ratio for this system (auto,4/3,16/9,16/10,etc...)</source>
-        <translation type="vanished">Définir le ratio pour ce système (auto,4/3,16/9,16/10,etc...)</translation>
-    </message>
-    <message>
-        <source>Smooth games</source>
-        <translation type="vanished">Lissage en jeux</translation>
-    </message>
-    <message>
-        <source>Set smooth for this system</source>
-        <translation type="vanished">Régler le lissage pour ce système</translation>
-    </message>
-    <message>
-        <source>Predefined shaders</source>
-        <translation type="vanished">Shaders prédéfinis</translation>
-    </message>
-    <message>
-        <source>Set predefined Shader effect for this system</source>
-        <translation type="vanished">Définir les effets des shaders prédédefinis pour ce système</translation>
-    </message>
-    <message>
-        <source>Shaders</source>
-        <translation type="vanished">Shaders</translation>
-    </message>
-    <message>
-        <source>Set prefered Shader effect</source>
-        <translation type="vanished">Définir l&apos;effet de shader préféré pour ce système</translation>
-    </message>
-    <message>
-        <source>Set overlay</source>
-        <translation type="vanished">Définir les overlays</translation>
-    </message>
-    <message>
-        <source>Set overlay on this system</source>
-        <translation type="vanished">Définir les overlays pour ce système</translation>
-    </message>
-    <message>
-        <source>Set prefered Shader effect for this system</source>
-        <translation type="vanished">Définir l&apos;effet de shader préféré pour ce système</translation>
-    </message>
-    <message>
-        <source>Gameplay options</source>
-        <translation type="vanished">Options de jeux</translation>
-    </message>
-    <message>
-        <source>Game rewind</source>
-        <translation type="vanished">Rembobinage du jeu</translation>
-    </message>
-    <message>
-        <source>Set rewind for this system &apos;Only work with Retroarch&apos;</source>
-        <translation type="vanished">Régler le rembobinage pour ce système &apos;Ne fonctionne qu&apos;avec Retroarch&apos;</translation>
-    </message>
-    <message>
-        <source>Auto save/load</source>
-        <translation type="vanished">Sauvegarde/chargement automatique</translation>
-    </message>
-    <message>
-        <source>Set autosave/load savestate for this system</source>
-        <translation type="vanished">Définir l&apos;état de sauvegarde automatique/chargement pour ce système</translation>
-    </message>
-    <message>
-        <source>Core options</source>
-        <translation type="vanished">Options de core</translation>
-    </message>
-    <message>
-        <source>Default</source>
-        <translation type="vanished">par défaut</translation>
     </message>
 </context>
 <context>
@@ -1951,10 +1730,6 @@ dans les répertoires suivants :</translation>
         <translation>guide/hotkey</translation>
     </message>
     <message>
-        <source>guide</source>
-        <translation type="vanished">hotkey</translation>
-    </message>
-    <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="2957"/>
         <source>start</source>
         <translation>start</translation>
@@ -2021,22 +1796,6 @@ dans les répertoires suivants :</translation>
         <location filename="../src/frontend/menu/settings/GamesMain.qml" line="119"/>
         <source>Set ratio for all emulators (auto,4/3,16/9,16/10,etc...)</source>
         <translation>Définir le ratio pour tout les émulateurs (auto,4/3,16/9,16/10,etc...)</translation>
-    </message>
-    <message>
-        <source>Pixel perfect</source>
-        <translation type="vanished">Pixel parfait</translation>
-    </message>
-    <message>
-        <source>Once enabled, your screen will be cropped, and you will have a pixel perfect image</source>
-        <translation type="vanished">Une fois activé, votre écran sera rogné, et vous aurez une image parfaite au pixel près</translation>
-    </message>
-    <message>
-        <source>Smooth games</source>
-        <translation type="vanished">Lissage en jeux</translation>
-    </message>
-    <message>
-        <source>Set smooth for all emulators</source>
-        <translation type="vanished">Régler le lissage pour tout les émulateurs</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamesMain.qml" line="164"/>
@@ -2120,26 +1879,6 @@ le bord du shader comme les Mega Bezels</translation>
         <translation>Configurer le(s) périphérique(s) pour lire/capturer votre jeu</translation>
     </message>
     <message>
-        <source>Gameplay options</source>
-        <translation type="vanished">Options de jeux</translation>
-    </message>
-    <message>
-        <source>Game rewind</source>
-        <translation type="vanished">Rembobinage du jeu</translation>
-    </message>
-    <message>
-        <source>Set rewind for all emulators &apos;Only work with Retroarch&apos;</source>
-        <translation type="vanished">Régler le rembobinage pour tout les émulateurs &apos;Ne fonctionne qu&apos;avec Retroarch&apos;</translation>
-    </message>
-    <message>
-        <source>Auto save/load</source>
-        <translation type="vanished">Sauvegarde/chargement automatique</translation>
-    </message>
-    <message>
-        <source>Set autosave/load savestate for all emulators</source>
-        <translation type="vanished">Définir l&apos;état de sauvegarde automatique/chargement pour tout les émulateurs</translation>
-    </message>
-    <message>
         <location filename="../src/frontend/menu/settings/GamesMain.qml" line="319"/>
         <source>Other options</source>
         <translation>Autre options</translation>
@@ -2153,14 +1892,6 @@ le bord du shader comme les Mega Bezels</translation>
         <location filename="../src/frontend/menu/settings/GamesMain.qml" line="327"/>
         <source>Check all necessary bios !</source>
         <translation>Contrôle de tous les bios nécessaires !</translation>
-    </message>
-    <message>
-        <source>Advandced emulators settings</source>
-        <translation type="vanished">Paramètres avancés des émulateurs</translation>
-    </message>
-    <message>
-        <source>choose emulator, ratio and more by system</source>
-        <translation type="vanished">choisir l&apos;émulateur, le ratio et plus par système</translation>
     </message>
 </context>
 <context>
@@ -2356,10 +2087,6 @@ le bord du shader comme les Mega Bezels</translation>
         <translation>Température du CPU:</translation>
     </message>
     <message>
-        <source>All System Temperature(s) :</source>
-        <translation type="vanished">Température(s) de tous les systèmes :</translation>
-    </message>
-    <message>
         <location filename="../src/frontend/menu/settings/InformationSystem.qml" line="138"/>
         <source>Number of system(s) :</source>
         <translation>Nombre de système(s) :</translation>
@@ -2495,18 +2222,9 @@ le bord du shader comme les Mega Bezels</translation>
 les sous-repertoires de premier niveau</translation>
     </message>
     <message>
-        <source>Multi-Windows</source>
-        <translation type="vanished">Multi-Fenêtres</translation>
-    </message>
-    <message>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="336"/>
         <source>Once enabled, you can run emulators in separate windows and keep pegasus/theme activated</source>
         <translation>Une fois activé, vous pouvez exécuter les émulateurs et garder pegasus/thème actif</translation>
-    </message>
-    <message>
-        <source>Once enabled, only media from gamelist will be take into account. 
- (Best loading ;-) / Less Media :-( )</source>
-        <translation type="vanished">Une fois activé, seul les médias de la liste de jeux (gamelist) seront pris en compte. (Meilleur chargement ;-) / Moins de media :-( )</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="409"/>
@@ -2514,19 +2232,9 @@ les sous-repertoires de premier niveau</translation>
         <translation>Liste de média (Beta)</translation>
     </message>
     <message>
-        <source>Once enabled, during Skraper media scan a media.xml is generated. 
- (Quick loading ;-) / All Media :-) )</source>
-        <translation type="vanished">Une fois activé, pendant le scan des média de Skraper, un media.xml sera généré</translation>
-    </message>
-    <message>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="423"/>
         <source>Media &apos;On Demand&apos; (Beta)</source>
         <translation>Media &apos;Sur Demande&apos; (Beta)</translation>
-    </message>
-    <message>
-        <source>Once enabled, media could be loaded dynamically and when it&apos;s requested. 
- (Less memory used :-) / More impact ;-| )</source>
-        <translation type="vanished">Une fois activé, un média peut être chargé dynamiquement et quand c&apos;est requis. (Moins de mémoire utilisée ;-) / Plus d&apos;impact :-| )</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="283"/>
@@ -2537,10 +2245,6 @@ les sous-repertoires de premier niveau</translation>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="284"/>
         <source>Change theme system interface</source>
         <translation>Modifier thème de l&apos;interface système</translation>
-    </message>
-    <message>
-        <source>Keep Theme Loaded</source>
-        <translation type="vanished">Garder le thème chargé</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="323"/>
@@ -2563,32 +2267,14 @@ les sous-repertoires de premier niveau</translation>
         <translation>Liste de jeux uniquement</translation>
     </message>
     <message>
-        <source>Once enabled, only files from gamelist will be take into account. 
-(Best game file loading ;-)</source>
-        <translation type="vanished">Une fois activé, seuls les fichiers de la liste de jeux seront pris en compte. 
-(Meilleur chargement des fichiers de jeu ;-)</translation>
-    </message>
-    <message>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="381"/>
         <source>Gamelist first (Beta)</source>
         <translation>Liste de jeux de préférence (Beta)</translation>
     </message>
     <message>
-        <source>Once enabled, system gamelist will be seach in priority else game files will be search. 
-(Intermediate game file loading)</source>
-        <translation type="vanished">Une fois activé, la liste de jeux sera cherché en priorité sinon les fichiers de jeux seront cherchés.
-        (Chargement intermédiaire des fichiers de jeu ;-)</translation>
-    </message>
-    <message>
         <location filename="../src/frontend/menu/settings/InterfaceMain.qml" line="395"/>
         <source>Deactivate Skraper media</source>
         <translation>Désactiver Skraper</translation>
-    </message>
-    <message>
-        <source>Once enabled, only media from gamelist will be take into account. 
- ( Best loading ;-) / Less Media :-( )</source>
-        <translation type="vanished">Une fois activé, seuls les médias de la gamelist seront pris en compte.
- (Meilleur chargement ;-) / Moins de média :-( )</translation>
     </message>
 </context>
 <context>
@@ -2843,10 +2529,6 @@ sinon Dinput sera utilisé. (en cas de changement, redémarrage nécessaire)</tr
         <translation>Activer les lignes de scanlines par défaut.</translation>
     </message>
     <message>
-        <source>Wine configuration (Beta)</source>
-        <translation type="vanished">Configuration du Wine (Beta)</translation>
-    </message>
-    <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Model2emuSettings.qml" line="228"/>
         <source>Wine &apos;engine&apos;</source>
         <translation>Le « moteur » du Wine</translation>
@@ -3024,89 +2706,6 @@ sinon Dinput sera utilisé. (en cas de changement, redémarrage nécessaire)</tr
     </message>
 </context>
 <context>
-    <name>NetplayInformation</name>
-    <message>
-        <source>Play or View this game ?</source>
-        <translation type="vanished">Jouer ou visualiser ce jeu ?</translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation type="vanished">Jouer</translation>
-    </message>
-    <message>
-        <source>View</source>
-        <translation type="vanished">Voir</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Annuler</translation>
-    </message>
-    <message>
-        <source>Connection error</source>
-        <translation type="vanished">Erreur de connexion</translation>
-    </message>
-    <message>
-        <source>Room seems not available finally, may be reference is obsolete from lobby or not compatible ?!</source>
-        <translation type="vanished">La partie ne semble pas disponible finalement, peut-être que la référence du lobby est obsolète ou non compatible ?!</translation>
-    </message>
-    <message>
-        <source>Accounts &gt; Netplay information</source>
-        <translation type="vanished">Comptes &gt; Informations Netplay</translation>
-    </message>
-    <message>
-        <source>Netplay information</source>
-        <translation type="vanished">Information netplay</translation>
-    </message>
-    <message>
-        <source>Retroarch lobby : </source>
-        <translation type="vanished">Salon de jeu Retroarch : </translation>
-    </message>
-    <message>
-        <source> &apos;Friend&apos; room(s)</source>
-        <translation type="vanished"> Partie(s) d&apos;amis</translation>
-    </message>
-    <message>
-        <source> room(s)</source>
-        <translation type="vanished"> partie(s)</translation>
-    </message>
-    <message>
-        <source>Creation date</source>
-        <translation type="vanished">Date de création</translation>
-    </message>
-    <message>
-        <source>Play/View ?</source>
-        <translation type="vanished">Jouer/Voir ?</translation>
-    </message>
-    <message>
-        <source>Dolphin</source>
-        <translation type="vanished">Dolphin</translation>
-    </message>
-    <message>
-        <source>Exit</source>
-        <translation type="vanished">Quitter</translation>
-    </message>
-    <message>
-        <source>All rooms</source>
-        <translation type="vanished">Toutes les parties</translation>
-    </message>
-    <message>
-        <source>Friends only</source>
-        <translation type="vanished">Amis uniquement</translation>
-    </message>
-    <message>
-        <source>All games</source>
-        <translation type="vanished">Tous les jeux</translation>
-    </message>
-    <message>
-        <source>Launchable games only</source>
-        <translation type="vanished">Jeux lançable uniquement</translation>
-    </message>
-    <message>
-        <source>play/view game</source>
-        <translation type="vanished">jouer/voir le jeu</translation>
-    </message>
-</context>
-<context>
     <name>NetplayRooms</name>
     <message>
         <location filename="../src/frontend/menu/settings/NetplayRooms.qml" line="125"/>
@@ -3216,10 +2815,6 @@ sinon Dinput sera utilisé. (en cas de changement, redémarrage nécessaire)</tr
         <location filename="../src/frontend/messages/NoGamesError.qml" line="23"/>
         <source>No games found :(</source>
         <translation>Aucun jeu trouvé :(</translation>
-    </message>
-    <message>
-        <source>Pegasus couldn&apos;t find any games on your device. If you have not set up Pegasus yet, you can find the documentation here: &lt;i&gt;%1&lt;/i&gt;.&lt;br&gt;If you still see this message, make sure your config files are readable, exist in one of the expected locations and are in the expected format.</source>
-        <translation type="vanished">Pegasus n&apos;a pas pu trouver de jeux sur votre appareil. Si vous n&apos;avez pas encore configuré Pegasus, vous pouvez trouver la documentation ici : &lt;i&gt;%1&lt;/i&gt;.&lt;br&gt;Si vous voyez toujours ce message, assurez-vous que vos fichiers de configuration sont lisibles, qu&apos;ils existent dans l&apos;un des emplacements prévus et qu&apos;ils ont le format attendu.</translation>
     </message>
     <message>
         <location filename="../src/frontend/messages/NoGamesError.qml" line="24"/>
@@ -3647,10 +3242,6 @@ Mais peut entraîner des problèmes dans certains jeux.</translation>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="179"/>
         <source>retro</source>
         <translation>retro</translation>
-    </message>
-    <message>
-        <source>scanline</source>
-        <translation type="vanished">scanline</translation>
     </message>
     <message>
         <location filename="../src/backend/model/internal/settings/ParametersList.cpp" line="179"/>
@@ -4993,19 +4584,9 @@ et créez-le dans le menu</translation>
         <translation>Token</translation>
     </message>
     <message>
-        <source>If you don&apos;t have an token check your mail after create an acount</source>
-        <translation type="vanished">Si vous n&apos;avez pas de jeton, vérifiez votre courrier 
-après avoir créé un compte</translation>
-    </message>
-    <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Rpcs3Settings.qml" line="339"/>
         <source>Menu options</source>
         <translation>Options de menu</translation>
-    </message>
-    <message>
-        <location filename="../src/frontend/menu/settings/emulatorsetting/Rpcs3Settings.qml" line="348"/>
-        <source>Changes theme menu</source>
-        <translation>Théme du menu</translation>
     </message>
 </context>
 <context>
@@ -5061,14 +4642,6 @@ après avoir créé un compte</translation>
         <translation>Régler le volume audio</translation>
     </message>
     <message>
-        <source>i915 driver force-probe activation</source>
-        <translation type="vanished">Activation i915 Driver force-probe</translation>
-    </message>
-    <message>
-        <source>Any driver issue detected ! Use this option to discover inputs quickly (need reboot)</source>
-        <translation type="vanished">Problème détecté ! Activer l&apos;option pour voir les sorties audio plus vite (besoin de rebooter)</translation>
-    </message>
-    <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="315"/>
         <source>Video Configuration</source>
         <translation>Configuration vidéo</translation>
@@ -5097,14 +4670,6 @@ après avoir créé un compte</translation>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="394"/>
         <source>Enabled redshift</source>
         <translation>Activer redshift</translation>
-    </message>
-    <message>
-        <source>Redshift adjusts the color temperature of your screen according to your surroundings.
-This may help your eyes hurt less if you are working in front of the screen at night.
-Please restart to activate/deactivate</source>
-        <translation type="vanished">Redshift ajuste la température de couleur de votre écran en fonction de votre environnement.
-        Cela peut aider à réduire vos douleurs oculaires si vous travaillez devant l&apos;écran la nuit.
-Merci de redémarrer l&apos;interface pour activer/desactiver</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="413"/>
@@ -5154,10 +4719,6 @@ Attention certains matériels ne sont pas compatibles avec cette option à utili
         <translation>Pour activer ou désactiver Wifi</translation>
     </message>
     <message>
-        <source>Systems</source>
-        <translation type="vanished">Systèmes</translation>
-    </message>
-    <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="814"/>
         <source>System information</source>
         <translation>Information Système</translation>
@@ -5173,10 +4734,6 @@ Attention certains matériels ne sont pas compatibles avec cette option à utili
         <translation>Configuration du stockage</translation>
     </message>
     <message>
-        <source>Video Driver</source>
-        <translation type="vanished">Pilote Video</translation>
-    </message>
-    <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="395"/>
         <source>Redshift adjusts the color temperature of your screen according to your surroundings.
 This may help your eyes hurt less if you are working in front of the screen at night.</source>
@@ -5184,17 +4741,9 @@ This may help your eyes hurt less if you are working in front of the screen at n
 Cela peut aider à réduire vos douleurs oculaires si vous travaillez devant l&apos;écran la nuit.</translation>
     </message>
     <message>
-        <source>Force video driver to Vulkan</source>
-        <translation type="vanished">Forcer Vulkan pour le pilote video</translation>
-    </message>
-    <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="457"/>
         <source>Storage device</source>
         <translation>Dispositif de stockage</translation>
-    </message>
-    <message>
-        <source>change to over storage</source>
-        <translation type="vanished">changer pour un autre stockage</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="539"/>
@@ -5432,12 +4981,6 @@ Activé par défaut.</translation>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="304"/>
         <source>Quad Rendering</source>
         <translation>Rendu quadruple</translation>
-    </message>
-    <message>
-        <source>Enable proper quad rendering. 
-Enable by default.</source>
-        <translation type="vanished">Activer le rendu quadruple approprié.
-Activé par défaut.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/SupermodelSettings.qml" line="305"/>
@@ -5719,10 +5262,6 @@ le bord du shader comme les Mega Bezels</translation>
         <location filename="../src/frontend/messages/ThemeError.qml" line="23"/>
         <source>Theme loading failed :(</source>
         <translation>Le chargement du thème a échoué :(</translation>
-    </message>
-    <message>
-        <source>Pegasus tried to load the selected theme (%1), but failed. This may happen when you try to load an outdated theme, or when there&apos;s a bug in its code.</source>
-        <translation type="vanished">Pegasus a essayé de charger le thème sélectionné (%1), mais a échoué. Cela peut se produire lorsque vous essayez de charger un thème obsolète, ou lorsqu&apos;il y a un bogue dans son code.</translation>
     </message>
     <message>
         <location filename="../src/frontend/messages/ThemeError.qml" line="24"/>

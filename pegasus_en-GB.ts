@@ -4655,6 +4655,11 @@ The default value is 50%.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../src/frontend/menu/settings/emulatorsetting/Rpcs3Settings.qml" line="348"/>
+        <source>GUI Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Rpcs3Settings.qml" line="238"/>
         <source>If set to Connected, RPCS3 will alow programs to use internet connection.</source>
         <translation type="unfinished"></translation>
@@ -4705,11 +4710,6 @@ The default value is 50%.</source>
     <message>
         <location filename="../src/frontend/menu/settings/emulatorsetting/Rpcs3Settings.qml" line="339"/>
         <source>Menu options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/frontend/menu/settings/emulatorsetting/Rpcs3Settings.qml" line="348"/>
-        <source>Changes theme menu</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
